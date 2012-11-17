@@ -24,12 +24,6 @@ node-sportsdata is designed to be a simple wrapper around the SportsData API.
 
 ```javascript
 var sportsdata = require('sportsdata');
-request('http://www.google.com', function (error, response, body) {
-  if (!error && response.statusCode == 200) {
-    console.log(body) // Print the google web page.
-  }
-})
-
 sportsdata.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule) // Print the season schedule for the NFL season
