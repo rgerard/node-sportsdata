@@ -3,6 +3,7 @@
 ## Install
 
 <pre>
+  (pending, not live yet!)
   npm install sportsdata
 </pre>
 
