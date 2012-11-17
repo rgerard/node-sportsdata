@@ -1,0 +1,33 @@
+{
+  "name": "sportsdata",
+  "version": "0.1.0",
+  "description": "Node module that wraps the SportsData API",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/rgerard/node-sportsdata.git"
+  },
+  "keywords": [
+    "sportsdata",
+    "sports",
+    "api"
+  ],
+  "author": "Ryan Gerard",
+  "license": "BSD",
+  "dependencies": {
+    "request" : ">= 0.0.1"
+    , "async": ">= 0.0.1"
+    , "future": ">= 0.0.1"
+    , "join": ">= 0.0.1"
+    , "underscore": ">= 0.0.1"
+    , "time": ">= 0.0.1"
+    , "nodetime" : ">= 0.0.1"
+    , "xml2js" : ">= 0.0.1"
+  },
+  "devDependencies": {
+      "nodeunit": ">= 0.0.1"
+  }
+}

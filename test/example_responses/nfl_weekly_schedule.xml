@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<games xmlns="http://feed.elasticstats.com/schema/nfl/schedule-v1.0.xsd" season="2012" type="REG" week="1">
+  <game id="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" scheduled="2012-09-06T00:30:00+00:00" home_rotation="" away_rotation="" home="NYG" away="DAL" status="closed">
+    <venue id="5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c" country="US" name="MetLife Stadium" city="East Rutherford" state="NJ" capacity="82500" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="NBC" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/DAL/NYG/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/DAL/NYG/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/DAL/NYG/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/DAL/NYG/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/DAL/NYG/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/DAL/NYG/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/DAL/NYG/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="0651e14f-55b0-403f-9ff0-d0f11261490d" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="KC" away="ATL" status="closed">
+    <venue id="2ec4c411-dac2-403d-b091-6b6aa4a0a914" country="US" name="Arrowhead Stadium" city="Kansas City" state="MO" capacity="79451" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="706" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/ATL/KC/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/ATL/KC/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/ATL/KC/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/ATL/KC/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/ATL/KC/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/ATL/KC/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/ATL/KC/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="bf9a4d33-9ec9-4349-9f8e-95f1d9c4ab19" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="NO" away="WAS" status="closed">
+    <venue id="3c85d89a-ec66-4983-acd5-1381d6c8673a" country="US" name="The Mercedes-Benz Superdome" city="New Orleans" state="LA" capacity="72968" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="707" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/WAS/NO/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/WAS/NO/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/WAS/NO/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/WAS/NO/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/WAS/NO/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/WAS/NO/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/WAS/NO/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="61064b59-e31b-40c8-a1e9-f06dbe510636" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="CLE" away="PHI" status="closed">
+    <venue id="90c38d91-3774-4f5d-82ca-1c806828219f" country="US" name="Cleveland Browns Stadium" city="Cleveland " state="OH" capacity="73200" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="704" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/PHI/CLE/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/PHI/CLE/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/PHI/CLE/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/PHI/CLE/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/PHI/CLE/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/PHI/CLE/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/PHI/CLE/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="d5c8a042-7689-4526-bc6f-d902bb283e8d" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="NYJ" away="BUF" status="closed">
+    <venue id="5d4c85c7-d84e-4e10-bd6a-8a15ebecca5c" country="US" name="MetLife Stadium" city="East Rutherford" state="NJ" capacity="82500" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="711" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/BUF/NYJ/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/BUF/NYJ/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/BUF/NYJ/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/BUF/NYJ/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/BUF/NYJ/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/BUF/NYJ/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/BUF/NYJ/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="a980f016-419a-40ef-ad48-957a12481e06" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="HOU" away="MIA" status="closed">
+    <venue id="6a72e5ca-33d0-40af-8e6b-b32a4d3d9346" country="US" name="Reliant Stadium" city="Houston" state="TX" capacity="71500" surface="turf" type="retractable_dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="709" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/MIA/HOU/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/MIA/HOU/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/MIA/HOU/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/MIA/HOU/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/MIA/HOU/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/MIA/HOU/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/MIA/HOU/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="437c79b9-ff27-4fed-9899-07ef79e789da" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="CHI" away="IND" status="closed">
+    <venue id="d7866605-5ac6-4b3a-90e8-760cc5a26b75" country="US" name="Soldier Field" city="Chicago" state="IL" capacity="61500" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="708" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/IND/CHI/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/IND/CHI/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/IND/CHI/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/IND/CHI/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/IND/CHI/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/IND/CHI/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/IND/CHI/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="6ea85017-196f-410d-92db-66799b110c7a" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="DET" away="STL" status="closed">
+    <venue id="6e3bcf22-277d-4c06-b019-62aded51654f" country="US" name="Ford Field" city="Detroit" state="MI" capacity="65000" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="705" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/STL/DET/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/STL/DET/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/STL/DET/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/STL/DET/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/STL/DET/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/STL/DET/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/STL/DET/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="ac73c14d-a974-4721-933e-d90d437b12fd" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="TEN" away="NE" status="closed">
+    <venue id="5295c1b7-c85c-49cb-9569-1707c65324e5" country="US" name="LP Field" city="Nashville" state="TN" capacity="68798" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="712" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/NE/TEN/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/NE/TEN/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/NE/TEN/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/NE/TEN/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/NE/TEN/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/NE/TEN/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/NE/TEN/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="548315c0-cd08-4715-b6a2-cb093b6da797" scheduled="2012-09-09T17:00:00+00:00" home_rotation="" away_rotation="" home="MIN" away="JAC" status="closed">
+    <venue id="1fede74c-50a2-4036-a1c0-b4d1e53ca98c" country="US" name="Mall of America Field" city="Minneapolis" state="MN" capacity="64111" surface="artificial" type="dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="CBS" satellite="710" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/JAC/MIN/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/JAC/MIN/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/JAC/MIN/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/JAC/MIN/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/JAC/MIN/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/JAC/MIN/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/JAC/MIN/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="a9d5654c-7ec2-4865-ad4a-01d16186dfe0" scheduled="2012-09-09T20:15:00+00:00" home_rotation="" away_rotation="" home="TB" away="CAR" status="closed">
+    <venue id="6fccc39c-80bc-4c81-83d9-2d5a848c8c09" country="US" name="Raymond James Stadium" city="Tampa Bay" state="FL" capacity="65657" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="715" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/CAR/TB/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/CAR/TB/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/CAR/TB/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/CAR/TB/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/CAR/TB/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/CAR/TB/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/CAR/TB/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="1c5b1b11-4f35-4c35-9952-f7ba1267dd23" scheduled="2012-09-09T20:15:00+00:00" home_rotation="" away_rotation="" home="GB" away="SF" status="closed">
+    <venue id="5a60dd3a-302c-41c6-ab0f-dd335c1103c2" country="US" name="Lambeau Field" city="Green Bay" state="WI" capacity="72992" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="714" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/SF/GB/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/SF/GB/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/SF/GB/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/SF/GB/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/SF/GB/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/SF/GB/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/SF/GB/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="9baf8d67-424b-46dd-b47e-d1f975f6d80d" scheduled="2012-09-09T20:15:00+00:00" home_rotation="" away_rotation="" home="ARI" away="SEA" status="closed">
+    <venue id="f8e4d2ab-53f9-4e9f-8c4a-9bc278094a84" country="US" name="University of Phoenix Stadium" city="Glendale" state="AZ" capacity="63400" surface="turf" type="retractable_dome" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="FOX" satellite="713" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/SEA/ARI/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/SEA/ARI/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/SEA/ARI/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/SEA/ARI/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/SEA/ARI/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/SEA/ARI/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/SEA/ARI/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="2b736f4f-6608-41ed-80e9-a7eabd5b5b9c" scheduled="2012-09-10T00:20:00+00:00" home_rotation="" away_rotation="" home="DEN" away="PIT" status="closed">
+    <venue id="6589e61d-ef1e-4e30-91b5-9acd2072b8a0" country="US" name="Sports Authority Field at Mile High" city="Denver " state="CO" capacity="76125" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="NBC" satellite="" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/PIT/DEN/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/PIT/DEN/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/PIT/DEN/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/PIT/DEN/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/PIT/DEN/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/PIT/DEN/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/PIT/DEN/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="a24be3cb-3993-46b0-98a5-dedf278ba7f7" scheduled="2012-09-10T23:00:00+00:00" home_rotation="" away_rotation="" home="BAL" away="CIN" status="closed">
+    <venue id="d54faae0-0314-484f-8604-9d8dd08e1149" country="US" name="M&amp;T Bank Stadium" city="Baltimore" state="MD" capacity="71008" surface="artificial" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="ESPN" satellite="206" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/CIN/BAL/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/CIN/BAL/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/CIN/BAL/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/CIN/BAL/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/CIN/BAL/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/CIN/BAL/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/CIN/BAL/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+  <game id="fadd283f-66b2-4cfe-89d9-ad1036d864f8" scheduled="2012-09-11T02:15:00+00:00" home_rotation="" away_rotation="" home="OAK" away="SD" status="closed">
+    <venue id="ba1ad00f-9130-462c-93f9-5612a0015117" country="US" name="Oakland-Alameda County Coliseum" city="Oakland" state="CA" capacity="63026" surface="turf" type="outdoor" zip="" address=""/>
+    <weather temperature="" condition="" humidity="">
+      <wind speed="" direction=""/>
+    </weather>
+    <broadcast network="ESPN" satellite="206" internet="" cable=""/>
+    <links>
+      <link rel="statistics" href="/2012/REG/1/SD/OAK/statistics.xml" type="application/xml"/>
+      <link rel="summary" href="/2012/REG/1/SD/OAK/summary.xml" type="application/xml"/>
+      <link rel="pbp" href="/2012/REG/1/SD/OAK/pbp.xml" type="application/xml"/>
+      <link rel="boxscore" href="/2012/REG/1/SD/OAK/boxscore.xml" type="application/xml"/>
+      <link rel="roster" href="/2012/REG/1/SD/OAK/roster.xml" type="application/xml"/>
+      <link rel="injuries" href="/2012/REG/1/SD/OAK/injuries.xml" type="application/xml"/>
+      <link rel="depthchart" href="/2012/REG/1/SD/OAK/depthchart.xml" type="application/xml"/>
+    </links>
+  </game>
+</games>
