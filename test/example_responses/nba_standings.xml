@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- Copyright 2011-2012 Sports Data LLC. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        mpala-a04
+     production time:    20121119T003218
+     production module:  Opta::Feed::XML::Basketball::BBF3
+-->
+<OptaFeed>
+ <OptaDocument type="STANDINGS Latest" competition_id="6" competition_name="NBA_Reg" season_id="2012" timestamp="2012-11-19T00:32:18-05:00" date="2012-11-19" sport_id="7" sport_name="Basketball">
+  <Competition>
+   <TeamStandings>
+    <TeamRecord team_id="7406" team_uuid="583eccfa-fb46-11e1-82cb-f4ce4684ea4c" position="6" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+     <Standing type="Full" name="Boston Celtics" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+      <Won>6</Won>
+      <Lost>5</Lost>
+      <PCT>0.545</PCT>
+      <GB>2.5</GB>
+      <Conf>5-5</Conf>
+      <Div>1-2</Div>
+      <HomeRecord>3-2</HomeRecord>
+      <AwayRecord>3-3</AwayRecord>
+      <LastTen>6-4</LastTen>
+      <Streak>L 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7407" team_uuid="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c" position="9" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+     <Standing type="Full" name="Atlanta Hawks" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+      <Won>4</Won>
+      <Lost>4</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.5</GB>
+      <Conf>1-1</Conf>
+      <Div>0-1</Div>
+      <HomeRecord>1-2</HomeRecord>
+      <AwayRecord>3-2</AwayRecord>
+      <LastTen>4-4</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7408" team_uuid="583ec5fd-fb46-11e1-82cb-f4ce4684ea4c" position="8" conference="Eastern" conference_id="3" division="Central" division_id="8">
+     <Standing type="Full" name="Chicago Bulls" conference="Eastern" conference_id="3" division="Central" division_id="8">
+      <Won>5</Won>
+      <Lost>5</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.0</GB>
+      <Conf>2-1</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>3-3</HomeRecord>
+      <AwayRecord>2-2</AwayRecord>
+      <LastTen>5-5</LastTen>
+      <Streak>L 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7409" team_uuid="583ec773-fb46-11e1-82cb-f4ce4684ea4c" position="13" conference="Eastern" conference_id="3" division="Central" division_id="8">
+     <Standing type="Full" name="Cleveland Cavaliers" conference="Eastern" conference_id="3" division="Central" division_id="8">
+      <Won>2</Won>
+      <Lost>8</Lost>
+      <PCT>0.2</PCT>
+      <GB>5.0</GB>
+      <Conf>1-4</Conf>
+      <Div>0-2</Div>
+      <HomeRecord>1-2</HomeRecord>
+      <AwayRecord>1-6</AwayRecord>
+      <LastTen>2-8</LastTen>
+      <Streak>L 6</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7410" team_uuid="583ec928-fb46-11e1-82cb-f4ce4684ea4c" position="14" conference="Eastern" conference_id="3" division="Central" division_id="8">
+     <Standing type="Full" name="Detroit Pistons" conference="Eastern" conference_id="3" division="Central" division_id="8">
+      <Won>2</Won>
+      <Lost>9</Lost>
+      <PCT>0.182</PCT>
+      <GB>5.5</GB>
+      <Conf>2-1</Conf>
+      <Div>0-0</Div>
+      <HomeRecord>1-3</HomeRecord>
+      <AwayRecord>1-6</AwayRecord>
+      <LastTen>2-8</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7411" team_uuid="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c" position="10" conference="Eastern" conference_id="3" division="Central" division_id="8">
+     <Standing type="Full" name="Indiana Pacers" conference="Eastern" conference_id="3" division="Central" division_id="8">
+      <Won>4</Won>
+      <Lost>7</Lost>
+      <PCT>0.364</PCT>
+      <GB>3.5</GB>
+      <Conf>2-5</Conf>
+      <Div>0-1</Div>
+      <HomeRecord>3-1</HomeRecord>
+      <AwayRecord>1-6</AwayRecord>
+      <LastTen>3-7</LastTen>
+      <Streak>L 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7412" team_uuid="583ecea6-fb46-11e1-82cb-f4ce4684ea4c" position="4" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+     <Standing type="Full" name="Miami Heat" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+      <Won>8</Won>
+      <Lost>3</Lost>
+      <PCT>0.727</PCT>
+      <GB>0.0</GB>
+      <Conf>3-1</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>4-0</HomeRecord>
+      <AwayRecord>4-3</AwayRecord>
+      <LastTen>7-3</LastTen>
+      <Streak>W 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7413" team_uuid="583ecefd-fb46-11e1-82cb-f4ce4684ea4c" position="3" conference="Eastern" conference_id="3" division="Central" division_id="8">
+     <Standing type="Full" name="Milwaukee Bucks" conference="Eastern" conference_id="3" division="Central" division_id="8">
+      <Won>6</Won>
+      <Lost>2</Lost>
+      <PCT>0.75</PCT>
+      <GB>0.0</GB>
+      <Conf>5-1</Conf>
+      <Div>2-0</Div>
+      <HomeRecord>3-2</HomeRecord>
+      <AwayRecord>3-0</AwayRecord>
+      <LastTen>6-2</LastTen>
+      <Streak>W 3</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7414" team_uuid="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c" position="2" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+     <Standing type="Full" name="Brooklyn Nets" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+      <Won>6</Won>
+      <Lost>2</Lost>
+      <PCT>0.75</PCT>
+      <GB>1.0</GB>
+      <Conf>5-1</Conf>
+      <Div>2-0</Div>
+      <HomeRecord>4-1</HomeRecord>
+      <AwayRecord>2-1</AwayRecord>
+      <LastTen>6-2</LastTen>
+      <Streak>W 5</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7415" team_uuid="583ec70e-fb46-11e1-82cb-f4ce4684ea4c" position="1" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+     <Standing type="Full" name="New York Knicks" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+      <Won>7</Won>
+      <Lost>1</Lost>
+      <PCT>0.875</PCT>
+      <GB>0.0</GB>
+      <Conf>5-0</Conf>
+      <Div>2-0</Div>
+      <HomeRecord>4-0</HomeRecord>
+      <AwayRecord>3-1</AwayRecord>
+      <LastTen>7-1</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7416" team_uuid="583ed157-fb46-11e1-82cb-f4ce4684ea4c" position="11" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+     <Standing type="Full" name="Orlando Magic" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+      <Won>3</Won>
+      <Lost>6</Lost>
+      <PCT>0.333</PCT>
+      <GB>4.0</GB>
+      <Conf>1-5</Conf>
+      <Div>0-0</Div>
+      <HomeRecord>2-2</HomeRecord>
+      <AwayRecord>1-4</AwayRecord>
+      <LastTen>3-6</LastTen>
+      <Streak>L 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7417" team_uuid="583ec87d-fb46-11e1-82cb-f4ce4684ea4c" position="5" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+     <Standing type="Full" name="Philadelphia 76ers" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+      <Won>6</Won>
+      <Lost>4</Lost>
+      <PCT>0.6</PCT>
+      <GB>2.0</GB>
+      <Conf>3-4</Conf>
+      <Div>2-2</Div>
+      <HomeRecord>3-3</HomeRecord>
+      <AwayRecord>3-1</AwayRecord>
+      <LastTen>6-4</LastTen>
+      <Streak>W 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7418" team_uuid="583ecda6-fb46-11e1-82cb-f4ce4684ea4c" position="12" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+     <Standing type="Full" name="Toronto Raptors" conference="Eastern" conference_id="3" division="Atlantic" division_id="7">
+      <Won>3</Won>
+      <Lost>7</Lost>
+      <PCT>0.3</PCT>
+      <GB>5.0</GB>
+      <Conf>2-4</Conf>
+      <Div>0-3</Div>
+      <HomeRecord>2-3</HomeRecord>
+      <AwayRecord>1-4</AwayRecord>
+      <LastTen>3-7</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7419" team_uuid="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c" position="15" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+     <Standing type="Full" name="Washington Wizards" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+      <Won>0</Won>
+      <Lost>8</Lost>
+      <PCT>0</PCT>
+      <GB>6.5</GB>
+      <Conf>0-6</Conf>
+      <Div>0-1</Div>
+      <HomeRecord>0-3</HomeRecord>
+      <AwayRecord>0-5</AwayRecord>
+      <LastTen>0-8</LastTen>
+      <Streak>L 8</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7420" team_uuid="583ecf50-fb46-11e1-82cb-f4ce4684ea4c" position="6" conference="Western" conference_id="4" division="Southwest" division_id="12">
+     <Standing type="Full" name="Dallas Mavericks" conference="Western" conference_id="4" division="Southwest" division_id="12">
+      <Won>6</Won>
+      <Lost>5</Lost>
+      <PCT>0.545</PCT>
+      <GB>3.0</GB>
+      <Conf>2-2</Conf>
+      <Div>0-0</Div>
+      <HomeRecord>4-1</HomeRecord>
+      <AwayRecord>2-4</AwayRecord>
+      <LastTen>5-5</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7421" team_uuid="583ed102-fb46-11e1-82cb-f4ce4684ea4c" position="11" conference="Western" conference_id="4" division="Northwest" division_id="10">
+     <Standing type="Full" name="Denver Nuggets" conference="Western" conference_id="4" division="Northwest" division_id="10">
+      <Won>4</Won>
+      <Lost>6</Lost>
+      <PCT>0.4</PCT>
+      <GB>3.5</GB>
+      <Conf>3-2</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>2-1</HomeRecord>
+      <AwayRecord>2-5</AwayRecord>
+      <LastTen>4-6</LastTen>
+      <Streak>L 3</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7422" team_uuid="583ec825-fb46-11e1-82cb-f4ce4684ea4c" position="9" conference="Western" conference_id="4" division="Pacific" division_id="11">
+     <Standing type="Full" name="Golden State Warriors" conference="Western" conference_id="4" division="Pacific" division_id="11">
+      <Won>5</Won>
+      <Lost>5</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.5</GB>
+      <Conf>3-5</Conf>
+      <Div>2-2</Div>
+      <HomeRecord>2-2</HomeRecord>
+      <AwayRecord>3-3</AwayRecord>
+      <LastTen>5-5</LastTen>
+      <Streak>L 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7423" team_uuid="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c" position="12" conference="Western" conference_id="4" division="Southwest" division_id="12">
+     <Standing type="Full" name="Houston Rockets" conference="Western" conference_id="4" division="Southwest" division_id="12">
+      <Won>4</Won>
+      <Lost>6</Lost>
+      <PCT>0.4</PCT>
+      <GB>4.5</GB>
+      <Conf>1-5</Conf>
+      <Div>1-1</Div>
+      <HomeRecord>2-3</HomeRecord>
+      <AwayRecord>2-3</AwayRecord>
+      <LastTen>4-6</LastTen>
+      <Streak>L 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7424" team_uuid="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c" position="3" conference="Western" conference_id="4" division="Pacific" division_id="11">
+     <Standing type="Full" name="L.A. Clippers" conference="Western" conference_id="4" division="Pacific" division_id="11">
+      <Won>7</Won>
+      <Lost>2</Lost>
+      <PCT>0.778</PCT>
+      <GB>0.0</GB>
+      <Conf>4-1</Conf>
+      <Div>1-1</Div>
+      <HomeRecord>5-2</HomeRecord>
+      <AwayRecord>2-0</AwayRecord>
+      <LastTen>7-2</LastTen>
+      <Streak>W 5</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7425" team_uuid="583ecae2-fb46-11e1-82cb-f4ce4684ea4c" position="8" conference="Western" conference_id="4" division="Pacific" division_id="11">
+     <Standing type="Full" name="L.A. Lakers" conference="Western" conference_id="4" division="Pacific" division_id="11">
+      <Won>5</Won>
+      <Lost>5</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.5</GB>
+      <Conf>4-5</Conf>
+      <Div>3-1</Div>
+      <HomeRecord>5-3</HomeRecord>
+      <AwayRecord>0-2</AwayRecord>
+      <LastTen>5-5</LastTen>
+      <Streak>W 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7426" team_uuid="583eca2f-fb46-11e1-82cb-f4ce4684ea4c" position="5" conference="Western" conference_id="4" division="Northwest" division_id="10">
+     <Standing type="Full" name="Minnesota Timberwolves" conference="Western" conference_id="4" division="Northwest" division_id="10">
+      <Won>5</Won>
+      <Lost>4</Lost>
+      <PCT>0.556</PCT>
+      <GB>2.0</GB>
+      <Conf>2-1</Conf>
+      <Div>0-0</Div>
+      <HomeRecord>3-2</HomeRecord>
+      <AwayRecord>2-2</AwayRecord>
+      <LastTen>5-4</LastTen>
+      <Streak>L 2</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7427" team_uuid="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c" position="14" conference="Western" conference_id="4" division="Pacific" division_id="11">
+     <Standing type="Full" name="Phoenix Suns" conference="Western" conference_id="4" division="Pacific" division_id="11">
+      <Won>4</Won>
+      <Lost>7</Lost>
+      <PCT>0.364</PCT>
+      <GB>4.0</GB>
+      <Conf>1-3</Conf>
+      <Div>0-2</Div>
+      <HomeRecord>3-3</HomeRecord>
+      <AwayRecord>1-4</AwayRecord>
+      <LastTen>4-6</LastTen>
+      <Streak>L 3</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7428" team_uuid="583ed056-fb46-11e1-82cb-f4ce4684ea4c" position="7" conference="Western" conference_id="4" division="Northwest" division_id="10">
+     <Standing type="Full" name="Portland Trail Blazers" conference="Western" conference_id="4" division="Northwest" division_id="10">
+      <Won>5</Won>
+      <Lost>5</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.5</GB>
+      <Conf>4-4</Conf>
+      <Div>0-1</Div>
+      <HomeRecord>3-3</HomeRecord>
+      <AwayRecord>2-2</AwayRecord>
+      <LastTen>5-5</LastTen>
+      <Streak>W 3</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7429" team_uuid="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c" position="15" conference="Western" conference_id="4" division="Pacific" division_id="11">
+     <Standing type="Full" name="Sacramento Kings" conference="Western" conference_id="4" division="Pacific" division_id="11">
+      <Won>2</Won>
+      <Lost>8</Lost>
+      <PCT>0.2</PCT>
+      <GB>5.5</GB>
+      <Conf>1-4</Conf>
+      <Div>1-1</Div>
+      <HomeRecord>2-4</HomeRecord>
+      <AwayRecord>0-4</AwayRecord>
+      <LastTen>2-8</LastTen>
+      <Streak>L 5</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7430" team_uuid="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c" position="2" conference="Western" conference_id="4" division="Southwest" division_id="12">
+     <Standing type="Full" name="San Antonio Spurs" conference="Western" conference_id="4" division="Southwest" division_id="12">
+      <Won>8</Won>
+      <Lost>2</Lost>
+      <PCT>0.8</PCT>
+      <GB>0.5</GB>
+      <Conf>7-1</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>4-1</HomeRecord>
+      <AwayRecord>4-1</AwayRecord>
+      <LastTen>8-2</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7432" team_uuid="583ece50-fb46-11e1-82cb-f4ce4684ea4c" position="10" conference="Western" conference_id="4" division="Northwest" division_id="10">
+     <Standing type="Full" name="Utah Jazz" conference="Western" conference_id="4" division="Northwest" division_id="10">
+      <Won>5</Won>
+      <Lost>6</Lost>
+      <PCT>0.455</PCT>
+      <GB>3.0</GB>
+      <Conf>3-4</Conf>
+      <Div>0-1</Div>
+      <HomeRecord>3-0</HomeRecord>
+      <AwayRecord>2-6</AwayRecord>
+      <LastTen>4-6</LastTen>
+      <Streak>W 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7433" team_uuid="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c" position="13" conference="Western" conference_id="4" division="Southwest" division_id="12">
+     <Standing type="Full" name="New Orleans Hornets" conference="Western" conference_id="4" division="Southwest" division_id="12">
+      <Won>3</Won>
+      <Lost>5</Lost>
+      <PCT>0.375</PCT>
+      <GB>4.5</GB>
+      <Conf>1-3</Conf>
+      <Div>0-2</Div>
+      <HomeRecord>2-3</HomeRecord>
+      <AwayRecord>1-2</AwayRecord>
+      <LastTen>3-5</LastTen>
+      <Streak>L 3</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7434" team_uuid="583eca88-fb46-11e1-82cb-f4ce4684ea4c" position="1" conference="Western" conference_id="4" division="Southwest" division_id="12">
+     <Standing type="Full" name="Memphis Grizzlies" conference="Western" conference_id="4" division="Southwest" division_id="12">
+      <Won>8</Won>
+      <Lost>1</Lost>
+      <PCT>0.889</PCT>
+      <GB>0.0</GB>
+      <Conf>4-1</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>4-0</HomeRecord>
+      <AwayRecord>4-1</AwayRecord>
+      <LastTen>8-1</LastTen>
+      <Streak>W 8</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="7645" team_uuid="583ec97e-fb46-11e1-82cb-f4ce4684ea4c" position="7" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+     <Standing type="Full" name="Charlotte Bobcats" conference="Eastern" conference_id="3" division="Southeast" division_id="9">
+      <Won>4</Won>
+      <Lost>4</Lost>
+      <PCT>0.5</PCT>
+      <GB>2.5</GB>
+      <Conf>2-0</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>3-2</HomeRecord>
+      <AwayRecord>1-2</AwayRecord>
+      <LastTen>4-4</LastTen>
+      <Streak>L 1</Streak>
+     </Standing>
+    </TeamRecord>
+    <TeamRecord team_id="8960" team_uuid="583ecfff-fb46-11e1-82cb-f4ce4684ea4c" position="4" conference="Western" conference_id="4" division="Northwest" division_id="10">
+     <Standing type="Full" name="Oklahoma City Thunder" conference="Western" conference_id="4" division="Northwest" division_id="10">
+      <Won>8</Won>
+      <Lost>3</Lost>
+      <PCT>0.727</PCT>
+      <GB>0.0</GB>
+      <Conf>3-2</Conf>
+      <Div>1-0</Div>
+      <HomeRecord>5-2</HomeRecord>
+      <AwayRecord>3-1</AwayRecord>
+      <LastTen>8-2</LastTen>
+      <Streak>W 2</Streak>
+     </Standing>
+    </TeamRecord>
+   </TeamStandings>
+  </Competition>
+ </OptaDocument>
+ <!--Execution Time: 1.2289-->
+</OptaFeed>

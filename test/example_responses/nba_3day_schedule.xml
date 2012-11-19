@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- Copyright 2011-2012 Sports Data LLC. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        mpala-a01
+     production time:    20121119T053218
+     production module:  Opta::Feed::XML::Basketball::BBF1R
+-->
+<OptaFeed>
+<OptaDocument Type="RESULTS Latest" competition_id="6" competition_name="NBA_Reg" season_id="2012" season_name="2012" timestamp="2012-11-19T05:32:18+00:00" sport_id="7" sport_name="Basketball">
+<MatchData uID="2531" match_uuid="584a5491-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="656" venue_uuid="58baa8b6-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-18T17:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Madison Square Garden]]></Stat>
+	<Stat type="City"><![CDATA[New York, NY]]></Stat>
+	<TeamData score="88" side="Home" team_id="7415"  />
+	<TeamData score="76" side="Away" team_id="7411"  />
+</MatchData>    
+
+<MatchData uID="2535" match_uuid="584a562d-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="659" venue_uuid="58baa9ac-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-18T18:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Air Canada Center]]></Stat>
+	<Stat type="City"><![CDATA[Toronto, Ontario]]></Stat>
+	<TeamData score="97" side="Home" team_id="7418"  />
+	<TeamData score="86" side="Away" team_id="7416"  />
+</MatchData>    
+
+<MatchData uID="2532" match_uuid="584a5516-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="3016" venue_uuid="58bab0ff-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-18T23:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Wells Fargo Center]]></Stat>
+	<Stat type="City"><![CDATA[Philadelphia, PA]]></Stat>
+	<TeamData score="86" side="Home" team_id="7417"  />
+	<TeamData score="79" side="Away" team_id="7409"  />
+</MatchData>    
+
+<MatchData uID="2536" match_uuid="584a5688-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="668" venue_uuid="58baace0-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-18T23:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Sleep Train Arena]]></Stat>
+	<Stat type="City"><![CDATA[Sacramento, CA]]></Stat>
+	<TeamData score="90" side="Home" team_id="7429"  />
+	<TeamData score="99" side="Away" team_id="7414"  />
+</MatchData>    
+
+<MatchData uID="2533" match_uuid="584a5577-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="1258" venue_uuid="58bab00c-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-19T00:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Chesapeake Energy Arena]]></Stat>
+	<Stat type="City"><![CDATA[Oklahoma City, OK]]></Stat>
+	<TeamData score="119" side="Home" team_id="8960"  />
+	<TeamData score="109" side="Away" team_id="7422"  />
+</MatchData>    
+
+<MatchData uID="2537" match_uuid="584a56e5-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="651" venue_uuid="58baa721-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-19T00:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[The Palace of Auburn Hills]]></Stat>
+	<Stat type="City"><![CDATA[Auburn Hills, MI]]></Stat>
+	<TeamData score="103" side="Home" team_id="7410"  />
+	<TeamData score="83" side="Away" team_id="7406"  />
+</MatchData>    
+
+<MatchData uID="2534" match_uuid="584a55d2-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="667" venue_uuid="58baac8d-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-19T02:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Rose Garden Arena]]></Stat>
+	<Stat type="City"><![CDATA[Portland, OR]]></Stat>
+	<TeamData score="102" side="Home" team_id="7428"  />
+	<TeamData score="94" side="Away" team_id="7408"  />
+</MatchData>    
+
+<MatchData uID="2538" match_uuid="584a5743-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="FullTime" ending="REG" venue_id="664" venue_uuid="58baab98-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-19T02:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Staples Center]]></Stat>
+	<Stat type="City"><![CDATA[Los Angeles, CA]]></Stat>
+	<TeamData score="119" side="Home" team_id="7425"  />
+	<TeamData score="108" side="Away" team_id="7423"  />
+</MatchData>    
+
+<MatchData uID="2539" match_uuid="584a579e-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="660" venue_uuid="58baa9fe-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T00:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Verizon Center]]></Stat>
+	<Stat type="City"><![CDATA[Washington D.C.]]></Stat>
+	<TeamData score="0" side="Home" team_id="7419"  />
+	<TeamData score="0" side="Away" team_id="7411"  />
+</MatchData>    
+
+<MatchData uID="2543" match_uuid="584a590a-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="887" venue_uuid="58baaf18-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T00:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Time Warner Cable Arena]]></Stat>
+	<Stat type="City"><![CDATA[Charlotte, NC]]></Stat>
+	<TeamData score="0" side="Home" team_id="7645"  />
+	<TeamData score="0" side="Away" team_id="7413"  />
+</MatchData>    
+
+<MatchData uID="2540" match_uuid="584a57f9-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="648" venue_uuid="58baa61b-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T00:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Philips Arena]]></Stat>
+	<Stat type="City"><![CDATA[Atlanta, GA]]></Stat>
+	<TeamData score="0" side="Home" team_id="7407"  />
+	<TeamData score="0" side="Away" team_id="7416"  />
+</MatchData>    
+
+<MatchData uID="2544" match_uuid="584a5966-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="913" venue_uuid="58baafbc-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T01:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[FedEx Forum]]></Stat>
+	<Stat type="City"><![CDATA[Memphis, TN]]></Stat>
+	<TeamData score="0" side="Home" team_id="7434"  />
+	<TeamData score="0" side="Away" team_id="7421"  />
+</MatchData>    
+
+<MatchData uID="2541" match_uuid="584a5854-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="661" venue_uuid="58baaa4f-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T01:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[American Airlines Center]]></Stat>
+	<Stat type="City"><![CDATA[Dallas, TX]]></Stat>
+	<TeamData score="0" side="Home" team_id="7420"  />
+	<TeamData score="0" side="Away" team_id="7422"  />
+</MatchData>    
+
+<MatchData uID="2545" match_uuid="584a59c0-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="669" venue_uuid="58baad32-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T01:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[AT&T Center]]></Stat>
+	<Stat type="City"><![CDATA[San Antonio, TX]]></Stat>
+	<TeamData score="0" side="Home" team_id="7430"  />
+	<TeamData score="0" side="Away" team_id="7424"  />
+</MatchData>    
+
+<MatchData uID="2542" match_uuid="584a58b0-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="671" venue_uuid="58baadd5-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-20T02:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[EnergySolutions Arena]]></Stat>
+	<Stat type="City"><![CDATA[Salt Lake City, UT]]></Stat>
+	<TeamData score="0" side="Home" team_id="7432"  />
+	<TeamData score="0" side="Away" team_id="7423"  />
+</MatchData>    
+
+<MatchData uID="2546" match_uuid="584a5a1b-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="3016" venue_uuid="58bab0ff-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-21T00:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Wells Fargo Center]]></Stat>
+	<Stat type="City"><![CDATA[Philadelphia, PA]]></Stat>
+	<TeamData score="0" side="Home" team_id="7417"  />
+	<TeamData score="0" side="Away" team_id="7418"  />
+</MatchData>    
+
+<MatchData uID="2548" match_uuid="584a5ad2-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="672" venue_uuid="58baae26-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-21T01:00:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[New Orleans Arena]]></Stat>
+	<Stat type="City"><![CDATA[New Orleans, LA]]></Stat>
+	<TeamData score="0" side="Home" team_id="7433"  />
+	<TeamData score="0" side="Away" team_id="7415"  />
+</MatchData>    
+
+<MatchData uID="2547" match_uuid="584a5a77-fb46-11e1-82cb-f4ce4684ea4c">
+	<MatchInfo period="PreMatch" venue_id="664" venue_uuid="58baab98-fb46-11e1-82cb-f4ce4684ea4c" coverage_level="PBP">
+	<Date>2012-11-21T03:30:00+00:00</Date>
+	<TZ>UTC</TZ>
+	</MatchInfo>
+	<Stat type="Venue"><![CDATA[Staples Center]]></Stat>
+	<Stat type="City"><![CDATA[Los Angeles, CA]]></Stat>
+	<TeamData score="0" side="Home" team_id="7425"  />
+	<TeamData score="0" side="Away" team_id="7414"  />
+</MatchData>    
+
+<Team uID="7406" team_uuid="583eccfa-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Boston Celtics]]></Name>
+</Team>	
+<Team uID="7407" team_uuid="583ecb8f-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Atlanta Hawks]]></Name>
+</Team>	
+<Team uID="7408" team_uuid="583ec5fd-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Chicago Bulls]]></Name>
+</Team>	
+<Team uID="7409" team_uuid="583ec773-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Cleveland Cavaliers]]></Name>
+</Team>	
+<Team uID="7410" team_uuid="583ec928-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Detroit Pistons]]></Name>
+</Team>	
+<Team uID="7411" team_uuid="583ec7cd-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Indiana Pacers]]></Name>
+</Team>	
+<Team uID="7412" team_uuid="583ecea6-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Miami Heat]]></Name>
+</Team>	
+<Team uID="7413" team_uuid="583ecefd-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Milwaukee Bucks]]></Name>
+</Team>	
+<Team uID="7414" team_uuid="583ec9d6-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Brooklyn Nets]]></Name>
+</Team>	
+<Team uID="7415" team_uuid="583ec70e-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[New York Knicks]]></Name>
+</Team>	
+<Team uID="7416" team_uuid="583ed157-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Orlando Magic]]></Name>
+</Team>	
+<Team uID="7417" team_uuid="583ec87d-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Philadelphia 76ers]]></Name>
+</Team>	
+<Team uID="7418" team_uuid="583ecda6-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Toronto Raptors]]></Name>
+</Team>	
+<Team uID="7419" team_uuid="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Washington Wizards]]></Name>
+</Team>	
+<Team uID="7420" team_uuid="583ecf50-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Dallas Mavericks]]></Name>
+</Team>	
+<Team uID="7421" team_uuid="583ed102-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Denver Nuggets]]></Name>
+</Team>	
+<Team uID="7422" team_uuid="583ec825-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Golden State Warriors]]></Name>
+</Team>	
+<Team uID="7423" team_uuid="583ecb3a-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Houston Rockets]]></Name>
+</Team>	
+<Team uID="7424" team_uuid="583ecdfb-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[L.A. Clippers]]></Name>
+</Team>	
+<Team uID="7425" team_uuid="583ecae2-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[L.A. Lakers]]></Name>
+</Team>	
+<Team uID="7427" team_uuid="583ecfa8-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Phoenix Suns]]></Name>
+</Team>	
+<Team uID="7428" team_uuid="583ed056-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Portland Trail Blazers]]></Name>
+</Team>	
+<Team uID="7429" team_uuid="583ed0ac-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Sacramento Kings]]></Name>
+</Team>	
+<Team uID="7430" team_uuid="583ecd4f-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[San Antonio Spurs]]></Name>
+</Team>	
+<Team uID="7432" team_uuid="583ece50-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Utah Jazz]]></Name>
+</Team>	
+<Team uID="7433" team_uuid="583ecc9a-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[New Orleans Hornets]]></Name>
+</Team>	
+<Team uID="7434" team_uuid="583eca88-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Memphis Grizzlies]]></Name>
+</Team>	
+<Team uID="7645" team_uuid="583ec97e-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Charlotte Bobcats]]></Name>
+</Team>	
+<Team uID="8960" team_uuid="583ecfff-fb46-11e1-82cb-f4ce4684ea4c">
+	<Name><![CDATA[Oklahoma City Thunder]]></Name>
+</Team>	<!-- Execution time: 0.5729 -->
+
+</OptaDocument>
+</OptaFeed>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- Copyright 2011-2012 Sports Data LLC. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        mpala
+     production time:    20121010T140445,-0400Z
+     production module:  Opta::Feed::XML::Basketball::mpala-event-types
+-->
+<EventTypes>
+ <EventType type_id="240" name="End Half" description="End Half"/>
+ <EventType type_id="239" name="Start Half" description="Start Half" possession="start"/>
+ <EventType type_id="237" name="Team set up"/>
+ <EventType type_id="236" name="Shot Clock Violation"/>
+ <EventType type_id="235" name="Score"/>
+ <EventType type_id="234" name="Defensive 3 Seconds"/>
+ <EventType type_id="233" name="Shot Clock Violation" possession="end"/>
+ <EventType type_id="232" name="Technical Foul"/>
+ <EventType type_id="231" name="Current Clock" possession="start"/>
+ <EventType type_id="230" name="Timeout"/>
+ <EventType type_id="229" name="Turnover" possession="end"/>
+ <EventType type_id="228" name="Steal"/>
+ <EventType type_id="227" name="Foul"/>
+ <EventType type_id="226" name="Block"/>
+ <EventType type_id="224" name="Assist"/>
+ <EventType type_id="223" name="Points off Turnovers"/>
+ <EventType type_id="222" name="Team Turnovers"/>
+ <EventType type_id="221" name="Points in the Paint"/>
+ <EventType type_id="220" name="Fast Break Points"/>
+ <EventType type_id="219" name="Team Rebounds"/>
+ <EventType type_id="214" name="FT Missed" description="Free Throw Missed"/>
+ <EventType type_id="213" name="FT Made" description="Free Throw Made"/>
+ <EventType type_id="212" name="3PT Missed" description="3PT Missed"/>
+ <EventType type_id="211" name="3PT Made" description="3 PT Made" possession="end"/>
+ <EventType type_id="210" name="FG Missed" description="Field Goal Missed"/>
+ <EventType type_id="209" name="FG Made" description="Field Goal Made" possession="end"/>
+ <EventType type_id="208" name="Def Reb" description="Defensive Rebound" possession="start"/>
+ <EventType type_id="207" name="Off Reb" description="Offensive Rebound"/>
+ <EventType type_id="206" name="FT%" description="Free Throw Percentage"/>
+ <EventType type_id="205" name="3PT%" description="3 PT Percentage"/>
+ <EventType type_id="204" name="FG%" description="Field Goal Percentage"/>
+ <EventType type_id="203" name="PTS" description="Points"/>
+ <EventType type_id="202" name="BA" description="Blocked Attempts"/>
+ <EventType type_id="201" name="BS" description="Blocked Shots"/>
+ <EventType type_id="200" name="TO" description="Turnovers"/>
+ <EventType type_id="199" name="ST" description="Steals"/>
+ <EventType type_id="198" name="PF" description="Player Fouls"/>
+ <EventType type_id="197" name="AST" description="Assists"/>
+ <EventType type_id="196" name="TOT" description="Total Rebounds"/>
+ <EventType type_id="195" name="DEF" description="Defensive Rebounds"/>
+ <EventType type_id="194" name="OFF" description="Offensive Rebounds"/>
+ <EventType type_id="193" name="+/-" description="Plus Minus"/>
+ <EventType type_id="192" name="FTA" description="Free Throws Attempted"/>
+ <EventType type_id="191" name="FTM" description="Free Throws Made"/>
+ <EventType type_id="190" name="3PA" description="3 PT Shots Attempted"/>
+ <EventType type_id="189" name="3PM" description="3 PT Shots Made"/>
+ <EventType type_id="188" name="FGA" description="Field Goal Attempts"/>
+ <EventType type_id="187" name="FGM" description="Field Goals Made"/>
+ <EventType type_id="186" name="MIN" description="Minutes"/>
+ <EventType type_id="185" name="End Overtime"/>
+ <EventType type_id="184" name="Start Overtime" possession="start"/>
+ <EventType type_id="183" name="End Quarter"/>
+ <EventType type_id="182" name="Start Quarter" possession="start"/>
+</EventTypes>

@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- Copyright 2011-2012 Sports Data LLC. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        mpala
+     production time:    20121030T214600
+     production module:  Opta::Feed::XML::Basketball::BBF9
+-->
+<OptaFeed timestamp="2012-10-30T21:46:01-04:00">
+ <OptaDocument type="Result" uID="2393" match_uuid="584a2275-fb46-11e1-82cb-f4ce4684ea4c" sport_id="7" sport_name="Basketball">
+  <Competition uID="6">
+   <Country>USA</Country>
+   <Name>NBA_Reg</Name>
+   <Stat Type="season_id">2012</Stat>
+  </Competition>
+  <MatchData>
+   <MatchInfo period="FullTime" matchtype="Regular" coverage_level="PBP" ending="REG">
+    <MatchOfficial>
+     <OfficialData>
+      <OfficialRef>
+       <Type>Main</Type>
+      </OfficialRef>
+     </OfficialData>
+     <OfficialName>
+      <First><![CDATA[#25]]></First>
+      <Last><![CDATA[Tony Brothers, #38 Michael Smith, #66 Haywoode Workman]]></Last>
+     </OfficialName>
+    </MatchOfficial>
+    <Date>2012-10-30T19:00:00-04:00</Date>
+    <Result type="NormalResult" winner="7409"/>
+    <Stat type="Period Count">4</Stat>
+    <Stat type="Lead Changes">5</Stat>
+    <Stat type="Times Tied">6</Stat>
+    <Stat type="Officials"><![CDATA[#25 Tony Brothers, #38 Michael Smith, #66 Haywoode Workman]]></Stat>
+    <Stat type="Game Attendance">20562</Stat>
+    <Stat type="Duration">02:09</Stat>
+   </MatchInfo>
+   <TeamData score="94" side="Home" team_id="7409">
+    <Stat type="Inactive"><![CDATA[Harangody, Pargo]]></Stat>
+    <Stat type="Technical Fouls"><![CDATA[Thompson]]></Stat>
+    <Stat type="Team Rebounds">13</Stat>
+    <Stat type="Fast Break Points">6</Stat>
+    <Stat type="Points in the Paint">42</Stat>
+    <Stat type="Team Turnovers">1</Stat>
+    <Stat type="Points off Turnovers">20</Stat>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="436301" type="Goal" eventnumber="11010" time="10" uID="g3-5"/>
+    <Goal period="FirstPeriod" player_id="1045" eventid="436341" type="Goal" eventnumber="11012" time="10" uID="g5-5"/>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="436461" type="Goal" eventnumber="1922" time="9" uID="g7-6"/>
+    <Goal period="FirstPeriod" player_id="1045" eventid="436541" type="Goal" eventnumber="1933" time="9" uID="g9-6"/>
+    <Goal period="FirstPeriod" player_id="3000228" eventid="436631" type="Goal" eventnumber="1839" time="8" uID="g11-8"/>
+    <Goal period="FirstPeriod" player_id="3002345" eventid="436741" type="Goal" eventnumber="1843" time="8" uID="g13-8"/>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="436841" type="Goal" eventnumber="1657" time="6" uID="g15-11"/>
+    <Goal period="FirstPeriod" player_id="3002966" eventid="437041" type="Goal" eventnumber="1575" time="5" uID="g17-17"/>
+    <Goal period="FirstPeriod" player_id="3002966" eventid="437191" type="Goal" eventnumber="1392" time="3" uID="g19-17"/>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="437231" type="Goal" eventnumber="1397" time="3" uID="g22-17"/>
+    <Goal period="FirstPeriod" player_id="3001450" eventid="437381" type="Goal" eventnumber="11111" time="1" uID="g24-22"/>
+    <Goal period="FirstPeriod" player_id="3001677" eventid="437401" type="Goal" eventnumber="11113" time="1" uID="g27-24"/>
+    <Goal period="FirstPeriod" player_id="3001422" eventid="437431" type="Goal" eventnumber="10117" time="0" uID="g29-24"/>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="437481" type="Goal" eventnumber="10121" time="0" uID="g30-24"/>
+    <Goal period="FirstPeriod" player_id="3002965" eventid="437491" type="Goal" eventnumber="10120" time="0" uID="g31-24"/>
+    <Goal period="SecondPeriod" player_id="3001677" eventid="437581" type="Goal" eventnumber="2112" time="11" uID="g32-24"/>
+    <Goal period="SecondPeriod" player_id="722" eventid="437691" type="Goal" eventnumber="21013" time="10" uID="g33-26"/>
+    <Goal period="SecondPeriod" player_id="3001677" eventid="437721" type="Goal" eventnumber="21017" time="10" uID="g35-26"/>
+    <Goal period="SecondPeriod" player_id="3001677" eventid="437781" type="Goal" eventnumber="2922" time="9" uID="g36-26"/>
+    <Goal period="SecondPeriod" player_id="3000228" eventid="437931" type="Goal" eventnumber="2739" time="7" uID="g38-30"/>
+    <Goal period="SecondPeriod" player_id="3002972" eventid="438091" type="Goal" eventnumber="2656" time="6" uID="g40-31"/>
+    <Goal period="SecondPeriod" player_id="3002965" eventid="438131" type="Goal" eventnumber="2559" time="5" uID="g42-31"/>
+    <Goal period="SecondPeriod" player_id="3000228" eventid="438261" type="Goal" eventnumber="2473" time="4" uID="g44-31"/>
+    <Goal period="SecondPeriod" player_id="1045" eventid="438421" type="Goal" eventnumber="2389" time="3" uID="g46-31"/>
+    <Goal period="SecondPeriod" player_id="3002972" eventid="438571" type="Goal" eventnumber="21103" time="1" uID="g48-37"/>
+    <Goal period="SecondPeriod" player_id="1045" eventid="438731" type="Goal" eventnumber="20119" time="0" uID="g49-38"/>
+    <Goal period="SecondPeriod" player_id="1045" eventid="438741" type="Goal" eventnumber="20118" time="0" uID="g50-38"/>
+    <Goal period="ThirdPeriod" player_id="1045" eventid="439581" type="Goal" eventnumber="3115" time="11" uID="g53-41"/>
+    <Goal period="ThirdPeriod" player_id="3002966" eventid="439761" type="Goal" eventnumber="31011" time="10" uID="g54-41"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="439811" type="Goal" eventnumber="3916" time="9" uID="g56-41"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="439881" type="Goal" eventnumber="3824" time="8" uID="g59-45"/>
+    <Goal period="ThirdPeriod" player_id="1045" eventid="439921" type="Goal" eventnumber="3825" time="8" uID="g61-45"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="440621" type="Goal" eventnumber="3560" time="5" uID="g63-50"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="441041" type="Goal" eventnumber="3383" time="3" uID="g65-52"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="441171" type="Goal" eventnumber="3289" time="2" uID="g66-54"/>
+    <Goal period="ThirdPeriod" player_id="3002965" eventid="441181" type="Goal" eventnumber="3288" time="2" uID="g67-54"/>
+    <Goal period="ThirdPeriod" player_id="722" eventid="441361" type="Goal" eventnumber="3198" time="1" uID="g69-56"/>
+    <Goal period="ThirdPeriod" player_id="722" eventid="441431" type="Goal" eventnumber="31102" time="1" uID="g71-58"/>
+    <Goal period="ThirdPeriod" player_id="3001677" eventid="441571" type="Goal" eventnumber="30108" time="0" uID="g74-60"/>
+    <Goal period="FourthPeriod" player_id="1045" eventid="442571" type="Goal" eventnumber="4753" time="7" uID="g77-76"/>
+    <Goal period="FourthPeriod" player_id="3000228" eventid="442641" type="Goal" eventnumber="4750" time="7" uID="g78-76"/>
+    <Goal period="FourthPeriod" player_id="3002965" eventid="442761" type="Goal" eventnumber="4560" time="5" uID="g80-78"/>
+    <Goal period="FourthPeriod" player_id="3002345" eventid="443001" type="Goal" eventnumber="4467" time="4" uID="g82-80"/>
+    <Goal period="FourthPeriod" player_id="3000228" eventid="443141" type="Goal" eventnumber="4382" time="3" uID="g83-80"/>
+    <Goal period="FourthPeriod" player_id="3000228" eventid="443161" type="Goal" eventnumber="4381" time="3" uID="g84-80"/>
+    <Goal period="FourthPeriod" player_id="3002965" eventid="443401" type="Goal" eventnumber="4294" time="2" uID="g86-80"/>
+    <Goal period="FourthPeriod" player_id="3002966" eventid="443641" type="Goal" eventnumber="4296" time="2" uID="g88-82"/>
+    <Goal period="FourthPeriod" player_id="3002966" eventid="443701" type="Goal" eventnumber="41109" time="1" uID="g90-84"/>
+    <Goal period="FourthPeriod" player_id="3002966" eventid="443771" type="Goal" eventnumber="40114" time="0" uID="g92-84"/>
+    <Goal period="FourthPeriod" player_id="3002966" eventid="443881" type="Goal" eventnumber="40120" time="0" uID="g93-84"/>
+    <Goal period="FourthPeriod" player_id="1045" eventid="443941" type="Goal" eventnumber="40128" time="0" uID="g94-84"/>
+    <Stat type="Score" period="1">31</Stat>
+    <Stat type="Score" period="2">19</Stat>
+    <Stat type="Score" period="3">24</Stat>
+    <Stat type="Score" period="4">20</Stat>
+    <Stat type="FGM">36</Stat>
+    <Stat type="FGA">79</Stat>
+    <Stat type="3PM">7</Stat>
+    <Stat type="3PA">20</Stat>
+    <Stat type="FTM">15</Stat>
+    <Stat type="FTA">22</Stat>
+    <Stat type="OFF">18</Stat>
+    <Stat type="DEF">36</Stat>
+    <Stat type="TOT">54</Stat>
+    <Stat type="AST">22</Stat>
+    <Stat type="PF">21</Stat>
+    <Stat type="ST">7</Stat>
+    <Stat type="TO">20</Stat>
+    <Stat type="BS">5</Stat>
+    <Stat type="BA">10</Stat>
+    <Stat type="PTS">94</Stat>
+    <Stat type="PD">10</Stat>
+    <Stat type="PTSA">86</Stat>
+    <Stat type="FGAA">91</Stat>
+    <Stat type="TOG">13</Stat>
+    <Stat type="FTAA">20</Stat>
+    <PlayerLineUp>
+     <MatchPlayer player_id="3001450" position="G-F" jersey_num="0" ingame="No">
+      <Stat type="+/-">2</Stat>
+      <Stat type="3PA">1</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="DEF">4</Stat>
+      <Stat type="FGA">5</Stat>
+      <Stat type="FGM">1</Stat>
+      <Stat type="MIN">17:42</Stat>
+      <Stat type="PTS">2</Stat>
+      <Stat type="TO">3</Stat>
+      <Stat type="TOT">4</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3001677" position="G" jersey_num="1" ingame="No">
+      <Stat type="+/-">-9</Stat>
+      <Stat type="3PA">4</Stat>
+      <Stat type="3PM">2</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">5</Stat>
+      <Stat type="FGM">3</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">2</Stat>
+      <Stat type="MIN">16:11</Stat>
+      <Stat type="OFF">1</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">10</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002965" position="G" jersey_num="2" ingame="Yes">
+      <Stat type="+/-">23</Stat>
+      <Stat type="3PA">6</Stat>
+      <Stat type="3PM">3</Stat>
+      <Stat type="AST">3</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">6</Stat>
+      <Stat type="FGA">20</Stat>
+      <Stat type="FGM">11</Stat>
+      <Stat type="FTA">5</Stat>
+      <Stat type="FTM">4</Stat>
+      <Stat type="MIN">34:34</Stat>
+      <Stat type="PF">4</Stat>
+      <Stat type="PTS">29</Stat>
+      <Stat type="TO">4</Stat>
+      <Stat type="TOT">6</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="1045" position="G" jersey_num="3" ingame="Yes">
+      <Stat type="+/-">13</Stat>
+      <Stat type="3PA">5</Stat>
+      <Stat type="3PM">2</Stat>
+      <Stat type="BA">2</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">14</Stat>
+      <Stat type="FGM">6</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">3</Stat>
+      <Stat type="MIN">28:14</Stat>
+      <Stat type="PTS">17</Stat>
+      <Stat type="ST">3</Stat>
+      <Stat type="TO">3</Stat>
+      <Stat type="TOT">2</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3001422" position="F" jersey_num="4" ingame="No">
+      <Stat type="+/-">-11</Stat>
+      <Stat type="3PA">1</Stat>
+      <Stat type="DEF">1</Stat>
+      <Stat type="FGA">2</Stat>
+      <Stat type="FGM">1</Stat>
+      <Stat type="MIN">12:14</Stat>
+      <Stat type="PTS">2</Stat>
+      <Stat type="TO">2</Stat>
+      <Stat type="TOT">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002966" position="F" jersey_num="13" ingame="Yes">
+      <Stat type="+/-">20</Stat>
+      <Stat type="AST">5</Stat>
+      <Stat type="BA">2</Stat>
+      <Stat type="DEF">7</Stat>
+      <Stat type="FGA">8</Stat>
+      <Stat type="FGM">5</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">2</Stat>
+      <Stat type="MIN">31:31</Stat>
+      <Stat type="OFF">3</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">12</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TO">2</Stat>
+      <Stat type="TOT">10</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002972" position="G" jersey_num="15" ingame="No">
+      <Stat type="+/-">-13</Stat>
+      <Stat type="3PA">1</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="FGA">5</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="MIN">13:26</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">4</Stat>
+      <Stat type="TO">2</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3000228" position="C" jersey_num="17" ingame="Yes">
+      <Stat type="+/-">7</Stat>
+      <Stat type="AST">9</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">2</Stat>
+      <Stat type="DEF">11</Stat>
+      <Stat type="FGA">7</Stat>
+      <Stat type="FGM">3</Stat>
+      <Stat type="FTA">3</Stat>
+      <Stat type="FTM">3</Stat>
+      <Stat type="MIN">37:22</Stat>
+      <Stat type="OFF">12</Stat>
+      <Stat type="PF">4</Stat>
+      <Stat type="PTS">9</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">23</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002977" position="C" jersey_num="24" ingame="No">
+      <Stat type="DNP">1</Stat>
+      <Stat type="DNP Reason"><![CDATA[Coach's Decision]]></Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3003000" position="F" jersey_num="30" ingame="No">
+      <Stat type="DNP">1</Stat>
+      <Stat type="DNP Reason"><![CDATA[Coach's Decision]]></Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002345" position="F" jersey_num="33" ingame="Yes">
+      <Stat type="+/-">14</Stat>
+      <Stat type="3PA">2</Stat>
+      <Stat type="AST">2</Stat>
+      <Stat type="BA">3</Stat>
+      <Stat type="DEF">1</Stat>
+      <Stat type="FGA">9</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="MIN">33:53</Stat>
+      <Stat type="OFF">2</Stat>
+      <Stat type="PF">5</Stat>
+      <Stat type="PTS">4</Stat>
+      <Stat type="ST">2</Stat>
+      <Stat type="TO">3</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3000432" position="F" jersey_num="36" ingame="No">
+      <Stat type="DNP">1</Stat>
+      <Stat type="DNP Reason"><![CDATA[Coach's Decision]]></Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="722" position="C-F" jersey_num="40" ingame="No">
+      <Stat type="+/-">4</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">4</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="FTA">2</Stat>
+      <Stat type="FTM">1</Stat>
+      <Stat type="MIN">14:53</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">5</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TOT">2</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+    </PlayerLineUp>
+   </TeamData>
+   <TeamData score="84" side="Away" team_id="7419">
+    <Stat type="Inactive"><![CDATA[Nene, Seraphin, Wall]]></Stat>
+    <Stat type="Technical Fouls"><![CDATA[Crawford]]></Stat>
+    <Stat type="Team Rebounds">10</Stat>
+    <Stat type="Fast Break Points">13</Stat>
+    <Stat type="Points in the Paint">32</Stat>
+    <Stat type="Team Turnovers">1</Stat>
+    <Stat type="Points off Turnovers">13</Stat>
+    <Goal period="FirstPeriod" player_id="3001411" eventid="436241" type="Goal" eventnumber="1113" time="11" uID="g0-3"/>
+    <Goal period="FirstPeriod" player_id="3001835" eventid="436281" type="Goal" eventnumber="1118" time="11" uID="g0-5"/>
+    <Goal period="FirstPeriod" player_id="3001835" eventid="436391" type="Goal" eventnumber="11020" time="10" uID="g5-6"/>
+    <Goal period="FirstPeriod" player_id="3001835" eventid="436581" type="Goal" eventnumber="1838" time="8" uID="g9-8"/>
+    <Goal period="FirstPeriod" player_id="256" eventid="436751" type="Goal" eventnumber="1751" time="7" uID="g13-11"/>
+    <Goal period="FirstPeriod" player_id="3002204" eventid="436951" type="Goal" eventnumber="1669" time="6" uID="g15-14"/>
+    <Goal period="FirstPeriod" player_id="256" eventid="436991" type="Goal" eventnumber="1573" time="5" uID="g15-17"/>
+    <Goal period="FirstPeriod" player_id="3001912" eventid="437301" type="Goal" eventnumber="12104" time="2" uID="g22-19"/>
+    <Goal period="FirstPeriod" player_id="3001771" eventid="437361" type="Goal" eventnumber="12106" time="2" uID="g22-22"/>
+    <Goal period="FirstPeriod" player_id="3003042" eventid="437391" type="Goal" eventnumber="11112" time="1" uID="g24-24"/>
+    <Goal period="SecondPeriod" player_id="0" eventid="437591" type="Goal" eventnumber="2119" time="11" uID="g32-26"/>
+    <Goal period="SecondPeriod" player_id="3001912" eventid="437861" type="Goal" eventnumber="2833" time="8" uID="g36-28"/>
+    <Goal period="SecondPeriod" player_id="3003047" eventid="437911" type="Goal" eventnumber="2838" time="8" uID="g36-30"/>
+    <Goal period="SecondPeriod" player_id="3001835" eventid="438081" type="Goal" eventnumber="2652" time="6" uID="g38-31"/>
+    <Goal period="SecondPeriod" player_id="3001835" eventid="438441" type="Goal" eventnumber="2291" time="2" uID="g46-33"/>
+    <Goal period="SecondPeriod" player_id="256" eventid="438501" type="Goal" eventnumber="2298" time="2" uID="g46-34"/>
+    <Goal period="SecondPeriod" player_id="256" eventid="438511" type="Goal" eventnumber="2297" time="2" uID="g46-35"/>
+    <Goal period="SecondPeriod" player_id="3001411" eventid="438551" type="Goal" eventnumber="22102" time="2" uID="g46-37"/>
+    <Goal period="SecondPeriod" player_id="3001411" eventid="438631" type="Goal" eventnumber="21108" time="1" uID="g48-38"/>
+    <Goal period="SecondPeriod" player_id="3001912" eventid="438781" type="Goal" eventnumber="20121" time="0" uID="g50-39"/>
+    <Goal period="ThirdPeriod" player_id="3003042" eventid="439511" type="Goal" eventnumber="3117" time="11" uID="g50-41"/>
+    <Goal period="ThirdPeriod" player_id="3002204" eventid="439821" type="Goal" eventnumber="3921" time="9" uID="g56-44"/>
+    <Goal period="ThirdPeriod" player_id="3002204" eventid="439851" type="Goal" eventnumber="3918" time="9" uID="g56-45"/>
+    <Goal period="ThirdPeriod" player_id="3003043" eventid="440421" type="Goal" eventnumber="3648" time="6" uID="g61-47"/>
+    <Goal period="ThirdPeriod" player_id="3001411" eventid="440451" type="Goal" eventnumber="3553" time="5" uID="g61-50"/>
+    <Goal period="ThirdPeriod" player_id="3001835" eventid="440711" type="Goal" eventnumber="3466" time="4" uID="g63-52"/>
+    <Goal period="ThirdPeriod" player_id="3003043" eventid="441141" type="Goal" eventnumber="3386" time="3" uID="g65-54"/>
+    <Goal period="ThirdPeriod" player_id="3001912" eventid="441301" type="Goal" eventnumber="3296" time="2" uID="g67-56"/>
+    <Goal period="ThirdPeriod" player_id="3002181" eventid="441401" type="Goal" eventnumber="31100" time="1" uID="g69-58"/>
+    <Goal period="ThirdPeriod" player_id="3003043" eventid="441541" type="Goal" eventnumber="30106" time="0" uID="g71-60"/>
+    <Goal period="ThirdPeriod" player_id="3002181" eventid="441611" type="Goal" eventnumber="30110" time="0" uID="g74-62"/>
+    <Goal period="FourthPeriod" player_id="3003043" eventid="441771" type="Goal" eventnumber="4114" time="11" uID="g74-63"/>
+    <Goal period="FourthPeriod" player_id="3002181" eventid="441961" type="Goal" eventnumber="4119" time="11" uID="g74-65"/>
+    <Goal period="FourthPeriod" player_id="3001771" eventid="442001" type="Goal" eventnumber="41016" time="10" uID="g74-67"/>
+    <Goal period="FourthPeriod" player_id="3002007" eventid="442041" type="Goal" eventnumber="41017" time="10" uID="g74-69"/>
+    <Goal period="FourthPeriod" player_id="3002007" eventid="442091" type="Goal" eventnumber="41024" time="10" uID="g74-70"/>
+    <Goal period="FourthPeriod" player_id="3002007" eventid="442101" type="Goal" eventnumber="41023" time="10" uID="g74-71"/>
+    <Goal period="FourthPeriod" player_id="3003047" eventid="442211" type="Goal" eventnumber="4932" time="9" uID="g74-73"/>
+    <Goal period="FourthPeriod" player_id="3002007" eventid="442331" type="Goal" eventnumber="4842" time="8" uID="g74-76"/>
+    <Goal period="FourthPeriod" player_id="3003043" eventid="442661" type="Goal" eventnumber="4654" time="6" uID="g78-78"/>
+    <Goal period="FourthPeriod" player_id="3001771" eventid="442931" type="Goal" eventnumber="4562" time="5" uID="g80-80"/>
+    <Goal period="FourthPeriod" player_id="3002181" eventid="443431" type="Goal" eventnumber="42102" time="2" uID="g86-82"/>
+    <Goal period="FourthPeriod" player_id="3003043" eventid="443681" type="Goal" eventnumber="41104" time="1" uID="g88-83"/>
+    <Goal period="FourthPeriod" player_id="3003043" eventid="443691" type="Goal" eventnumber="41103" time="1" uID="g88-84"/>
+    <Stat type="Score" period="1">24</Stat>
+    <Stat type="Score" period="2">15</Stat>
+    <Stat type="Score" period="3">23</Stat>
+    <Stat type="Score" period="4">22</Stat>
+    <Stat type="FGM">32</Stat>
+    <Stat type="FGA">90</Stat>
+    <Stat type="3PM">8</Stat>
+    <Stat type="3PA">32</Stat>
+    <Stat type="FTM">12</Stat>
+    <Stat type="FTA">20</Stat>
+    <Stat type="OFF">18</Stat>
+    <Stat type="DEF">21</Stat>
+    <Stat type="TOT">39</Stat>
+    <Stat type="AST">26</Stat>
+    <Stat type="PF">19</Stat>
+    <Stat type="ST">11</Stat>
+    <Stat type="TO">12</Stat>
+    <Stat type="BS">10</Stat>
+    <Stat type="BA">5</Stat>
+    <Stat type="PTS">84</Stat>
+    <Stat type="PD">-10</Stat>
+    <Stat type="PTSA">94</Stat>
+    <Stat type="FGAA">79</Stat>
+    <Stat type="TOG">22</Stat>
+    <Stat type="FTAA">22</Stat>
+    <PlayerLineUp>
+     <MatchPlayer player_id="3001411" position="F" jersey_num="1" ingame="Yes">
+      <Stat type="+/-">-9</Stat>
+      <Stat type="3PA">4</Stat>
+      <Stat type="3PM">2</Stat>
+      <Stat type="AST">4</Stat>
+      <Stat type="BS">2</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">8</Stat>
+      <Stat type="FGM">3</Stat>
+      <Stat type="FTA">2</Stat>
+      <Stat type="FTM">1</Stat>
+      <Stat type="MIN">24:35</Stat>
+      <Stat type="OFF">1</Stat>
+      <Stat type="PTS">9</Stat>
+      <Stat type="ST">3</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="256" position="G" jersey_num="3" ingame="Yes">
+      <Stat type="+/-">-16</Stat>
+      <Stat type="3PA">4</Stat>
+      <Stat type="3PM">2</Stat>
+      <Stat type="AST">3</Stat>
+      <Stat type="DEF">3</Stat>
+      <Stat type="FGA">8</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="FTA">2</Stat>
+      <Stat type="FTM">2</Stat>
+      <Stat type="MIN">21:33</Stat>
+      <Stat type="PF">1</Stat>
+      <Stat type="PTS">8</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TO">2</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002007" position="G" jersey_num="7" ingame="No">
+      <Stat type="+/-">7</Stat>
+      <Stat type="3PA">4</Stat>
+      <Stat type="3PM">1</Stat>
+      <Stat type="AST">3</Stat>
+      <Stat type="DEF">1</Stat>
+      <Stat type="FGA">6</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="FTA">2</Stat>
+      <Stat type="FTM">2</Stat>
+      <Stat type="MIN">16:21</Stat>
+      <Stat type="PF">3</Stat>
+      <Stat type="PTS">7</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3001771" position="G-F" jersey_num="9" ingame="No">
+      <Stat type="+/-">-1</Stat>
+      <Stat type="3PA">3</Stat>
+      <Stat type="3PM">1</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="DEF">3</Stat>
+      <Stat type="FGA">6</Stat>
+      <Stat type="FGM">4</Stat>
+      <Stat type="MIN">23:25</Stat>
+      <Stat type="PF">1</Stat>
+      <Stat type="PTS">9</Stat>
+      <Stat type="ST">2</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002204" position="G" jersey_num="12" ingame="Yes">
+      <Stat type="+/-">-11</Stat>
+      <Stat type="3PA">9</Stat>
+      <Stat type="3PM">2</Stat>
+      <Stat type="AST">6</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="DEF">1</Stat>
+      <Stat type="FGA">13</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="FTA">1</Stat>
+      <Stat type="FTM">1</Stat>
+      <Stat type="MIN">29:24</Stat>
+      <Stat type="OFF">1</Stat>
+      <Stat type="PF">1</Stat>
+      <Stat type="PTS">7</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">2</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3003043" position="G" jersey_num="15" ingame="No">
+      <Stat type="3PA">6</Stat>
+      <Stat type="AST">5</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">13</Stat>
+      <Stat type="FGM">4</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">3</Stat>
+      <Stat type="MIN">28:42</Stat>
+      <Stat type="OFF">1</Stat>
+      <Stat type="PF">1</Stat>
+      <Stat type="PTS">11</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">3</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002350" position="F" jersey_num="20" ingame="No">
+      <Stat type="DNP">1</Stat>
+      <Stat type="DNP Reason"><![CDATA[Coach's Decision]]></Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3001912" position="F" jersey_num="24" ingame="No">
+      <Stat type="+/-">-2</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">1</Stat>
+      <Stat type="FGA">4</Stat>
+      <Stat type="FGM">3</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">1</Stat>
+      <Stat type="MIN">21:14</Stat>
+      <Stat type="OFF">3</Stat>
+      <Stat type="PF">3</Stat>
+      <Stat type="PTS">7</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">4</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3002181" position="F-C" jersey_num="30" ingame="No">
+      <Stat type="+/-">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="DEF">4</Stat>
+      <Stat type="FGA">6</Stat>
+      <Stat type="FGM">4</Stat>
+      <Stat type="FTA">1</Stat>
+      <Stat type="MIN">16:15</Stat>
+      <Stat type="OFF">4</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">8</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TOT">8</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3003047" position="F" jersey_num="31" ingame="No">
+      <Stat type="+/-">1</Stat>
+      <Stat type="3PA">1</Stat>
+      <Stat type="AST">2</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">7</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="MIN">17:11</Stat>
+      <Stat type="OFF">2</Stat>
+      <Stat type="PF">2</Stat>
+      <Stat type="PTS">4</Stat>
+      <Stat type="ST">2</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">4</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3003042" position="F" jersey_num="35" ingame="Yes">
+      <Stat type="+/-">-15</Stat>
+      <Stat type="3PA">1</Stat>
+      <Stat type="AST">1</Stat>
+      <Stat type="BA">1</Stat>
+      <Stat type="BS">1</Stat>
+      <Stat type="FGA">9</Stat>
+      <Stat type="FGM">2</Stat>
+      <Stat type="MIN">16:45</Stat>
+      <Stat type="OFF">1</Stat>
+      <Stat type="PF">4</Stat>
+      <Stat type="PTS">4</Stat>
+      <Stat type="ST">1</Stat>
+      <Stat type="TO">4</Stat>
+      <Stat type="TOT">1</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+     <MatchPlayer player_id="3001835" position="C" jersey_num="50" ingame="Yes">
+      <Stat type="+/-">-5</Stat>
+      <Stat type="BS">4</Stat>
+      <Stat type="DEF">2</Stat>
+      <Stat type="FGA">10</Stat>
+      <Stat type="FGM">4</Stat>
+      <Stat type="FTA">4</Stat>
+      <Stat type="FTM">2</Stat>
+      <Stat type="MIN">24:35</Stat>
+      <Stat type="OFF">5</Stat>
+      <Stat type="PF">1</Stat>
+      <Stat type="PTS">10</Stat>
+      <Stat type="TO">1</Stat>
+      <Stat type="TOT">7</Stat>
+      <Stat type="GS">1</Stat>
+      <Stat type="GP">1</Stat>
+     </MatchPlayer>
+    </PlayerLineUp>
+   </TeamData>
+  </MatchData>
+  <Team uID="7409" team_uuid="583ec773-fb46-11e1-82cb-f4ce4684ea4c">
+   <Name>Cleveland Cavaliers</Name>
+   <Player position="G-F" uID="3001450" player_uuid="58429f20-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>C.J.</First>
+     <Last>Miles</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3001677" player_uuid="5842eddd-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Daniel</First>
+     <Last>Gibson</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3002965" player_uuid="58449f64-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Kyrie</First>
+     <Last>Irving</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="1045" player_uuid="5846ec02-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Dion</First>
+     <Last>Waiters</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3001422" player_uuid="58429571-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Luke</First>
+     <Last>Walton</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3002966" player_uuid="58449fbb-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Tristan</First>
+     <Last>Thompson</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3002972" player_uuid="5844a96d-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Donald</First>
+     <Last>Sloan</Last>
+    </PersonName>
+   </Player>
+   <Player position="C" uID="3000228" player_uuid="58410112-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Anderson</First>
+     <Last>Varejao</Last>
+    </PersonName>
+   </Player>
+   <Player position="C" uID="3002977" player_uuid="5844ab76-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Samardo</First>
+     <Last>Samuels</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3003000" player_uuid="5844b3ee-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Jon</First>
+     <Last>Leuer</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3002345" player_uuid="5843d36a-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Alonzo</First>
+     <Last>Gee</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3000432" player_uuid="584142fb-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Omri</First>
+     <Last>Casspi</Last>
+    </PersonName>
+   </Player>
+   <Player position="C-F" uID="722" player_uuid="58467e19-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Tyler</First>
+     <Last>Zeller</Last>
+    </PersonName>
+   </Player>
+  </Team>
+  <Team uID="7419" team_uuid="583ec8d4-fb46-11e1-82cb-f4ce4684ea4c">
+   <Name>Washington Wizards</Name>
+   <Player position="F" uID="3001411" player_uuid="584291b1-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Trevor</First>
+     <Last>Ariza</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="256" player_uuid="5845dfec-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Bradley</First>
+     <Last>Beal</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3002007" player_uuid="58435ee0-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Jannero</First>
+     <Last>Pargo</Last>
+    </PersonName>
+   </Player>
+   <Player position="G-F" uID="3001771" player_uuid="58430e64-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Martell</First>
+     <Last>Webster</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3002204" player_uuid="5843a36e-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>A.J.</First>
+     <Last>Price</Last>
+    </PersonName>
+   </Player>
+   <Player position="G" uID="3003043" player_uuid="5844bf11-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Jordan</First>
+     <Last>Crawford</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3002350" player_uuid="5843d518-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Cartier</First>
+     <Last>Martin</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3001912" player_uuid="58433e61-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Jan</First>
+     <Last>Vesely</Last>
+    </PersonName>
+   </Player>
+   <Player position="F-C" uID="3002181" player_uuid="58439b62-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Earl</First>
+     <Last>Barron</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3003047" player_uuid="5844c06c-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Chris</First>
+     <Last>Singleton</Last>
+    </PersonName>
+   </Player>
+   <Player position="F" uID="3003042" player_uuid="5844a013-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Trevor</First>
+     <Last>Booker</Last>
+    </PersonName>
+   </Player>
+   <Player position="C" uID="3001835" player_uuid="58432427-fb46-11e1-82cb-f4ce4684ea4c">
+    <PersonName>
+     <First>Emeka</First>
+     <Last>Okafor</Last>
+    </PersonName>
+   </Player>
+  </Team>
+  <Venue uID="650" venue_uuid="58baa6cf-fb46-11e1-82cb-f4ce4684ea4c">
+   <Name>Quicken Loans Arena</Name>
+   <Address>1 Center Court</Address>
+   <City>Cleveland, OH</City>
+   <Postcode>44115</Postcode>
+   <Capacity>20562</Capacity>
+  </Venue>
+ </OptaDocument>
+</OptaFeed>

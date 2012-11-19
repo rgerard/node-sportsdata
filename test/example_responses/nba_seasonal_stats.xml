@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2012 Opta Sportsdata Ltd. All rights reserved. -->
+<!-- Copyright 2011-2012 Sports Data LLC. All rights reserved. -->
+<!-- PRODUCTION HEADER
+     produced on:        mpala-a01
+     production time:    20121118T221342
+     production module:  Opta::Feed::XML::Basketball::BBF30
+-->
+<SeasonStatistics competition_name="NBA_Reg" season_id="2012" competition_id="6" timestamp="2012-11-18T22:13:42-05:00" sport_id="7" sport_name="Basketball">
+ <Team name="Boston Celtics" id="7406" team_uuid="583eccfa-fb46-11e1-82cb-f4ce4684ea4c">
+  <Stat type="3PA">157</Stat>
+  <Stat type="3PM">56</Stat>
+  <Stat type="AST">265</Stat>
+  <Stat type="BA">49</Stat>
+  <Stat type="BS">36</Stat>
+  <Stat type="DEF">350</Stat>
+  <Stat type="FGA">838</Stat>
+  <Stat type="FGM">399</Stat>
+  <Stat type="FTA">269</Stat>
+  <Stat type="FTM">214</Stat>
+  <Stat type="OFF">98</Stat>
+  <Stat type="PF">222</Stat>
+  <Stat type="PTS">1068</Stat>
+  <Stat type="ST">80</Stat>
+  <Stat type="TO">147</Stat>
+  <Stat type="TOT">448</Stat>
+  <Stat type="PD">-11</Stat>
+  <Stat type="PTSA">1081</Stat>
+  <Stat type="FGAA">892</Stat>
+  <Stat type="TOG">160</Stat>
+  <Stat type="FTAA">261</Stat>
+  <Player position="F" player_id="3001471" player_uuid="5842a653-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="34" last_name="Pierce" first_name="Paul">
+   <Stat type="+/-">-5</Stat>
+   <Stat type="3PA">51</Stat>
+   <Stat type="3PM">20</Stat>
+   <Stat type="AST">33</Stat>
+   <Stat type="BA">13</Stat>
+   <Stat type="BS">3</Stat>
+   <Stat type="DEF">62</Stat>
+   <Stat type="FGA">164</Stat>
+   <Stat type="FGM">67</Stat>
+   <Stat type="FTA">69</Stat>
+   <Stat type="FTM">58</Stat>
+   <Stat type="MIN">365:51</Stat>
+   <Stat type="OFF">4</Stat>
+   <Stat type="PF">30</Stat>
+   <Stat type="PTS">212</Stat>
+   <Stat type="ST">16</Stat>
+   <Stat type="TO">21</Stat>
+   <Stat type="TOT">66</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">11</Stat>
+  </Player>
+  <Player position="G-F" player_id="3000630" player_uuid="5841856f-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="28" last_name="Pietrus" first_name="Mickael"/>
+  <Player position="C-F" player_id="3001468" player_uuid="5842a54d-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="5" last_name="Garnett" first_name="Kevin">
+   <Stat type="+/-">24</Stat>
+   <Stat type="AST">17</Stat>
+   <Stat type="BA">2</Stat>
+   <Stat type="BS">9</Stat>
+   <Stat type="DEF">72</Stat>
+   <Stat type="FGA">129</Stat>
+   <Stat type="FGM">66</Stat>
+   <Stat type="FTA">43</Stat>
+   <Stat type="FTM">34</Stat>
+   <Stat type="MIN">308:32</Stat>
+   <Stat type="OFF">9</Stat>
+   <Stat type="PF">19</Stat>
+   <Stat type="PTS">166</Stat>
+   <Stat type="ST">7</Stat>
+   <Stat type="TO">16</Stat>
+   <Stat type="TOT">81</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">11</Stat>
+  </Player>
+  <Player position="C" player_id="3000515" player_uuid="58415ec5-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="99" last_name="Milicic" first_name="Darko">
+   <Stat type="+/-">-3</Stat>
+   <Stat type="DEF">1</Stat>
+   <Stat type="FGA">1</Stat>
+   <Stat type="MIN">04:30</Stat>
+   <Stat type="PF">1</Stat>
+   <Stat type="TO">2</Stat>
+   <Stat type="TOT">1</Stat>
+   <Stat type="GP">1</Stat>
+   <Stat type="DNP">9</Stat>
+  </Player>
+  <Player position="G" player_id="3001555" player_uuid="5842c327-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="4" last_name="Terry" first_name="Jason">
+   <Stat type="+/-">6</Stat>
+   <Stat type="3PA">39</Stat>
+   <Stat type="3PM">15</Stat>
+   <Stat type="AST">23</Stat>
+   <Stat type="BA">1</Stat>
+   <Stat type="BS">1</Stat>
+   <Stat type="DEF">15</Stat>
+   <Stat type="FGA">84</Stat>
+   <Stat type="FGM">41</Stat>
+   <Stat type="FTA">28</Stat>
+   <Stat type="FTM">24</Stat>
+   <Stat type="MIN">286:09</Stat>
+   <Stat type="OFF">2</Stat>
+   <Stat type="PF">18</Stat>
+   <Stat type="PTS">121</Stat>
+   <Stat type="ST">8</Stat>
+   <Stat type="TO">14</Stat>
+   <Stat type="TOT">17</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">6</Stat>
+  </Player>
+  <Player position="G-F" player_id="3001823" player_uuid="58432017-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="11" last_name="Lee" first_name="Courtney">
+   <Stat type="+/-">-24</Stat>
+   <Stat type="3PA">18</Stat>
+   <Stat type="3PM">4</Stat>
+   <Stat type="AST">14</Stat>
+   <Stat type="BA">4</Stat>
+   <Stat type="DEF">20</Stat>
+   <Stat type="FGA">55</Stat>
+   <Stat type="FGM">25</Stat>
+   <Stat type="FTA">6</Stat>
+   <Stat type="FTM">6</Stat>
+   <Stat type="MIN">258:24</Stat>
+   <Stat type="OFF">4</Stat>
+   <Stat type="PF">17</Stat>
+   <Stat type="PTS">60</Stat>
+   <Stat type="ST">10</Stat>
+   <Stat type="TO">13</Stat>
+   <Stat type="TOT">24</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">5</Stat>
+  </Player>
+  <Player position="F-C" player_id="3001746" player_uuid="5843059f-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="44" last_name="Wilcox" first_name="Chris">
+   <Stat type="+/-">21</Stat>
+   <Stat type="AST">3</Stat>
+   <Stat type="BS">3</Stat>
+   <Stat type="DEF">14</Stat>
+   <Stat type="FGA">24</Stat>
+   <Stat type="FGM">17</Stat>
+   <Stat type="FTA">21</Stat>
+   <Stat type="FTM">16</Stat>
+   <Stat type="MIN">136:41</Stat>
+   <Stat type="OFF">9</Stat>
+   <Stat type="PF">23</Stat>
+   <Stat type="PTS">50</Stat>
+   <Stat type="ST">4</Stat>
+   <Stat type="TO">7</Stat>
+   <Stat type="TOT">23</Stat>
+   <Stat type="GP">10</Stat>
+   <Stat type="DNP">1</Stat>
+  </Player>
+  <Player position="G" player_id="3001476" player_uuid="5842a802-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="9" last_name="Rondo" first_name="Rajon">
+   <Stat type="+/-">14</Stat>
+   <Stat type="3PA">15</Stat>
+   <Stat type="3PM">5</Stat>
+   <Stat type="AST">130</Stat>
+   <Stat type="BA">6</Stat>
+   <Stat type="DEF">37</Stat>
+   <Stat type="FGA">109</Stat>
+   <Stat type="FGM">58</Stat>
+   <Stat type="FTA">20</Stat>
+   <Stat type="FTM">11</Stat>
+   <Stat type="MIN">381:14</Stat>
+   <Stat type="OFF">7</Stat>
+   <Stat type="PF">27</Stat>
+   <Stat type="PTS">132</Stat>
+   <Stat type="ST">19</Stat>
+   <Stat type="TO">36</Stat>
+   <Stat type="TOT">44</Stat>
+   <Stat type="GP">10</Stat>
+   <Stat type="DNP">1</Stat>
+   <Stat type="GS">10</Stat>
+  </Player>
+  <Player position="G" player_id="3002646" player_uuid="58443a17-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="0" last_name="Bradley" first_name="Avery">
+   <Stat type="DNP">3</Stat>
+  </Player>
+  <Player position="F" player_id="3001545" player_uuid="5842bfc1-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="30" last_name="Bass" first_name="Brandon">
+   <Stat type="+/-">-28</Stat>
+   <Stat type="3PA">1</Stat>
+   <Stat type="AST">11</Stat>
+   <Stat type="BA">7</Stat>
+   <Stat type="BS">10</Stat>
+   <Stat type="DEF">38</Stat>
+   <Stat type="FGA">89</Stat>
+   <Stat type="FGM">39</Stat>
+   <Stat type="FTA">26</Stat>
+   <Stat type="FTM">23</Stat>
+   <Stat type="MIN">308:01</Stat>
+   <Stat type="OFF">18</Stat>
+   <Stat type="PF">32</Stat>
+   <Stat type="PTS">101</Stat>
+   <Stat type="ST">4</Stat>
+   <Stat type="TO">9</Stat>
+   <Stat type="TOT">56</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">8</Stat>
+  </Player>
+  <Player position="C" player_id="3001691" player_uuid="5842f2d7-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="98" last_name="Collins" first_name="Jason">
+   <Stat type="+/-">-1</Stat>
+   <Stat type="FGA">2</Stat>
+   <Stat type="FGM">1</Stat>
+   <Stat type="MIN">08:18</Stat>
+   <Stat type="OFF">1</Stat>
+   <Stat type="PF">2</Stat>
+   <Stat type="PTS">2</Stat>
+   <Stat type="TOT">1</Stat>
+   <Stat type="GP">1</Stat>
+   <Stat type="DNP">8</Stat>
+  </Player>
+  <Player position="G" player_id="3001427" player_uuid="58429724-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="51" last_name="Dooling" first_name="Keyon"/>
+  <Player position="F" player_id="3001743" player_uuid="58430497-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="8" last_name="Green" first_name="Jeff">
+   <Stat type="+/-">-23</Stat>
+   <Stat type="3PA">13</Stat>
+   <Stat type="3PM">4</Stat>
+   <Stat type="AST">8</Stat>
+   <Stat type="BA">6</Stat>
+   <Stat type="BS">4</Stat>
+   <Stat type="DEF">29</Stat>
+   <Stat type="FGA">75</Stat>
+   <Stat type="FGM">33</Stat>
+   <Stat type="FTA">28</Stat>
+   <Stat type="FTM">20</Stat>
+   <Stat type="MIN">246:23</Stat>
+   <Stat type="OFF">5</Stat>
+   <Stat type="PF">13</Stat>
+   <Stat type="PTS">90</Stat>
+   <Stat type="ST">5</Stat>
+   <Stat type="TO">17</Stat>
+   <Stat type="TOT">34</Stat>
+   <Stat type="GP">11</Stat>
+  </Player>
+  <Player position="F" player_id="3001811" player_uuid="58431bfd-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="63" last_name="Kurz" first_name="Robert"/>
+  <Player position="G" player_id="3002179" player_uuid="58439ab3-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="12" last_name="Christmas" first_name="Dionte"/>
+  <Player position="G" player_id="1737" player_uuid="4dae22d7-0f24-11e2-8525-18a905767e44" jersey_num="26" last_name="Smith" first_name="Jamar"/>
+  <Player position="G-F" player_id="3002874" player_uuid="584487d5-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="55" last_name="Downs" first_name="Micah"/>
+  <Player position="F" player_id="761" player_uuid="58468c09-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="7" last_name="Sullinger" first_name="Jared">
+   <Stat type="+/-">-24</Stat>
+   <Stat type="3PA">1</Stat>
+   <Stat type="3PM">1</Stat>
+   <Stat type="AST">6</Stat>
+   <Stat type="BA">7</Stat>
+   <Stat type="BS">5</Stat>
+   <Stat type="DEF">31</Stat>
+   <Stat type="FGA">43</Stat>
+   <Stat type="FGM">23</Stat>
+   <Stat type="FTA">8</Stat>
+   <Stat type="FTM">8</Stat>
+   <Stat type="MIN">196:29</Stat>
+   <Stat type="OFF">15</Stat>
+   <Stat type="PF">27</Stat>
+   <Stat type="PTS">55</Stat>
+   <Stat type="ST">3</Stat>
+   <Stat type="TO">5</Stat>
+   <Stat type="TOT">46</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">3</Stat>
+  </Player>
+  <Player position="F" player_id="1058" player_uuid="5846f052-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="43" last_name="Joseph" first_name="Kris">
+   <Stat type="+/-">9</Stat>
+   <Stat type="AST">1</Stat>
+   <Stat type="DEF">1</Stat>
+   <Stat type="MIN">02:37</Stat>
+   <Stat type="TO">1</Stat>
+   <Stat type="TOT">1</Stat>
+   <Stat type="GP">1</Stat>
+   <Stat type="DNP">6</Stat>
+  </Player>
+  <Player position="C" player_id="1062" player_uuid="5846f1a9-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="13" last_name="Melo" first_name="Fab ">
+   <Stat type="DNP">1</Stat>
+  </Player>
+  <Player position="G" player_id="3000532" player_uuid="58416475-fb46-11e1-82cb-f4ce4684ea4c" jersey_num="12" last_name="Barbosa" first_name="Leandro">
+   <Stat type="+/-">-31</Stat>
+   <Stat type="3PA">19</Stat>
+   <Stat type="3PM">7</Stat>
+   <Stat type="AST">19</Stat>
+   <Stat type="BA">3</Stat>
+   <Stat type="BS">1</Stat>
+   <Stat type="DEF">10</Stat>
+   <Stat type="FGA">62</Stat>
+   <Stat type="FGM">28</Stat>
+   <Stat type="FTA">20</Stat>
+   <Stat type="FTM">14</Stat>
+   <Stat type="MIN">161:50</Stat>
+   <Stat type="OFF">1</Stat>
+   <Stat type="PF">11</Stat>
+   <Stat type="PTS">77</Stat>
+   <Stat type="ST">4</Stat>
+   <Stat type="TO">5</Stat>
+   <Stat type="TOT">11</Stat>
+   <Stat type="GP">11</Stat>
+   <Stat type="GS">1</Stat>
+  </Player>
+ </Team>
+</SeasonStatistics>
