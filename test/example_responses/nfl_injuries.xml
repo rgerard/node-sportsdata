@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game xmlns="http://feed.elasticstats.com/schema/nfl/roster-v1.0.xsd" id="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" scheduled="2012-09-06T00:30:00+00:00" home="NYG" away="DAL" status="closed">
+  <team id="NYG" name="Giants" market="New York">
+    <player id="9875ed64-766b-481e-bba2-3f085d4bac24" name_full="Jayron Hosley" position="CB" jersey_number="28" status="ACT">
+      <injuries>
+        <injury id="d2e9bda7-6c21-4cf9-96f2-ac39ce0261ea" start_date="2012-09-04T00:00:00+00:00" game_status="QST" practice_status="Full Participation">
+          <description>Toe</description>
+          <notes/>
+        </injury>
+      </injuries>
+    </player>
+  </team>
+  <team id="DAL" name="Cowboys" market="Dallas">
+    <player id="ddf524fd-1056-4d69-9c51-14cc57f598b8" name_full="Mike Jenkins" position="CB" jersey_number="21" status="ACT">
+      <injuries>
+        <injury id="75a1df12-6b30-4776-9907-d225607ba57b" start_date="2012-09-04T00:00:00+00:00" game_status="QST" practice_status="Limited Participation">
+          <description>Shoulder</description>
+          <notes/>
+        </injury>
+      </injuries>
+    </player>
+  </team>
+</game>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started at Fri Sep 14 19:28:52 +0000 2012 -->
+<game xmlns="http://feed.elasticstats.com/schema/nfl/boxscore-v1.0.xsd" id="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" scheduled="2012-09-06T00:30:00+00:00" home="NYG" away="DAL" status="closed" quarter="4" clock=":00" completed="2012-09-06T03:34:17+00:00">
+  <team id="NYG" name="Giants" market="New York" remaining_challenges="2" remaining_timeouts="2">
+    <scoring points="17">
+      <quarter number="1" points="0"/>
+      <quarter number="2" points="3"/>
+      <quarter number="3" points="7"/>
+      <quarter number="4" points="7"/>
+    </scoring>
+  </team>
+  <team id="DAL" name="Cowboys" market="Dallas" remaining_challenges="2" remaining_timeouts="2">
+    <scoring points="24">
+      <quarter number="1" points="0"/>
+      <quarter number="2" points="7"/>
+      <quarter number="3" points="10"/>
+      <quarter number="4" points="7"/>
+    </scoring>
+  </team>
+  <scoring_drives>
+    <drive sequence="1" clock="10:30" quarter="2" team="NYG">
+      <score type="fieldgoal" clock="09:14" quarter="2" points="3">
+        <summary>
+          <![CDATA[9-L.Tynes 22 yards Field Goal is Good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/524ff682-2e56-49f9-b911-1f1b1debdbc3.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="2" clock="03:34" quarter="2" team="DAL">
+      <score type="touchdown" clock="01:07" quarter="2" points="6">
+        <summary>
+          <![CDATA[9-T.Romo complete to 85-K.Ogletree. 85-K.Ogletree runs 10 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/23bb30fd-bcd2-4ebd-96f5-002a18e686ee.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="01:01" quarter="2" points="1">
+        <summary>
+          <![CDATA[5-D.Bailey extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/3168244d-af69-44df-a401-55e02569e000.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="3" clock="15:00" quarter="3" team="DAL">
+      <score type="touchdown" clock="10:32" quarter="3" points="6">
+        <summary>
+          <![CDATA[9-T.Romo complete to 85-K.Ogletree. 85-K.Ogletree runs 40 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/7ab8e946-cd01-4ac4-85ad-4cb0ff304df6.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="10:24" quarter="3" points="1">
+        <summary>
+          <![CDATA[5-D.Bailey extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/849435a4-3561-432c-8fe3-0e69c77014f6.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="4" clock="10:24" quarter="3" team="NYG">
+      <score type="touchdown" clock="05:19" quarter="3" points="6">
+        <summary>
+          <![CDATA[44-A.Bradshaw runs 10 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/03a77e6e-8377-47fb-8b84-38ae40a03ed6.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="05:13" quarter="3" points="1">
+        <summary>
+          <![CDATA[9-L.Tynes extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/da2d5acd-79e8-49c9-8e7d-0e861d1abb38.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="5" clock="05:11" quarter="3" team="DAL">
+      <score type="fieldgoal" clock=":45" quarter="3" points="3">
+        <summary>
+          <![CDATA[5-D.Bailey 33 yards Field Goal is Good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/e396d55d-a16b-419f-b6bf-52a2f34a39f9.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="6" clock="13:03" quarter="4" team="DAL">
+      <score type="touchdown" clock="06:04" quarter="4" points="6">
+        <summary>
+          <![CDATA[9-T.Romo complete to 19-M.Austin. 19-M.Austin runs 34 yards for a touchdown.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/d92f8aad-c59e-47b6-9ecd-2f35531802cc.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="05:57" quarter="4" points="1">
+        <summary>
+          <![CDATA[5-D.Bailey extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/b6271619-487a-4b55-8b63-11b215f9c7ad.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+    <drive sequence="7" clock="05:57" quarter="4" team="NYG">
+      <score type="touchdown" clock="02:41" quarter="4" points="6">
+        <summary>
+          <![CDATA[10-E.Manning complete to 85-M.Bennett. 85-M.Bennett runs 9 yards for a touchdown. Penalty on DAL 42-B.Church, Pass interference, declined.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/0027b8a5-20c9-4344-81f9-5846cd162a79.xml" type="application/xml"/>
+        </links>
+      </score>
+      <score type="extrapoint" clock="02:36" quarter="4" points="1">
+        <summary>
+          <![CDATA[9-L.Tynes extra point is good.]]>
+        </summary>
+        <links>
+          <link rel="summary" href="/2012/REG/1/DAL/NYG/plays/aa9b21c1-45cd-461c-a28f-2fc4789e4067.xml" type="application/xml"/>
+        </links>
+      </score>
+    </drive>
+  </scoring_drives>
+</game>
+<!-- Generation finished at Fri Sep 14 19:28:52 +0000 2012 -->

@@ -2,7 +2,7 @@
   "name": "sportsdata",
   "version": "0.1.0",
   "description": "Node module that wraps the SportsData API",
-  "main": "index.js",
+  "main": "index_nfl.js",
   "scripts": {
     "test": "nodeunit test/test.js"
   },

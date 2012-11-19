@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<team xmlns="http://feed.elasticstats.com/schema/nfl/roster-v1.0.xsd" id="DAL" name="Cowboys" market="Dallas">
+  <player id="65859588-5da0-4df0-a339-6adf83287078" name_full="Anthony Spencer" name_first="Anthony" name_last="Spencer" name_abbr="A.Spencer" birthdate="1984-01-23" birth_place="" high_school="" height="75" weight="255" college="Purdue" position="LB" jersey_number="93" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="4db7ac7a-33fa-4c76-a56a-9c41e35db455" name_full="Caleb McSurdy" name_first="Caleb" name_last="McSurdy" name_abbr="C.McSurdy" birthdate="1990-02-24" birth_place="Boise, Idaho" high_school="Borah HS (ID)" height="73" weight="246" college="Montana" position="LB" jersey_number="56" status="IR" salary="0" experience="" draft_pick="222" draft_round="7" draft_team="DAL">
+  </player>
+  <player id="921fca37-0b0f-4d44-90ee-8b655186e32e" name_full="Nate Livings" name_first="Nate" name_last="Livings" name_abbr="N.Livings" birthdate="1982-03-16" birth_place="" high_school="" height="77" weight="320" college="LSU" position="G" jersey_number="71" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="d3b0253a-b4ff-4d4f-aa82-38c6b368e30b" name_full="Josh Price-Brent" name_first="Josh" name_last="Price-Brent" name_abbr="J.Price-Brent" birthdate="1988-01-30" birth_place="" high_school="" height="74" weight="320" college="Illinois" position="DT" jersey_number="92" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="996974b8-2e0a-47d9-90a7-c3455192d06b" name_full="Andre Holmes" name_first="Andre" name_last="Holmes" name_abbr="A.Holmes" birthdate="1988-06-16" birth_place="" high_school="" height="77" weight="223" college="Hillsdale" position="WR" jersey_number="15" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="cc852f05-a588-4470-8981-0410bb8f1f2f" name_full="Eric Frampton" name_first="Eric" name_last="Frampton" name_abbr="E.Frampton" birthdate="1984-02-06" birth_place="" high_school="" height="71" weight="205" college="Washington State" position="SAF" jersey_number="27" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="70a54b5f-a78f-4e3f-a482-0536ff978571" name_full="Sean Lissemore" name_first="Sean" name_last="Lissemore" name_abbr="S.Lissemore" birthdate="1987-09-11" birth_place="" high_school="" height="76" weight="303" college="William &amp; Mary" position="DE" jersey_number="95" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="3dc76bf9-b903-4a4a-a790-c5e92f6b64f6" start_date="2012-10-17T00:00:00+00:00" game_status="OUT" practice_status="Did Not Participate">
+        <description>Ankle</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="4d1f4c44-3666-4014-95fc-4b0013b6d9a5" name_full="Chris Jones" name_first="Chris" name_last="Jones" name_abbr="C.Jones" birthdate="1989-07-21" birth_place="" high_school="" height="73" weight="200" college="Carson-Newman" position="P" jersey_number="6" status="IR" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="0d91e0a9-232f-4e27-b6a5-e7f7e1d3fc6c" name_full="Jermey Parnell" name_first="Jermey" name_last="Parnell" name_abbr="J.Parnell" birthdate="1986-07-20" birth_place="" high_school="" height="78" weight="305" college="Mississippi" position="OT" jersey_number="78" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="c50caa8d-a858-46ad-b4af-9201753d2725" name_full="Gerald Sensabaugh" name_first="Gerald" name_last="Sensabaugh" name_abbr="G.Sensabaugh" birthdate="1983-06-13" birth_place="" high_school="" height="73" weight="212" college="North Carolina" position="SAF" jersey_number="43" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="62c8ee28-9301-4d5e-aacc-2b59698abe4b" name_full="Ryan Cook" name_first="Ryan" name_last="Cook" name_abbr="R.Cook" birthdate="1983-05-08" birth_place="" high_school="" height="78" weight="328" college="New Mexico" position="G" jersey_number="63" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="a44fa920-da47-4b65-93b4-a8f51661ac30" start_date="2012-11-14T00:00:00+00:00" game_status="DOU" practice_status="Did Not Participate">
+        <description>Knee</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="814993fd-79c4-4c89-a4d6-d69be0f6d459" name_full="Lawrence Vickers" name_first="Lawrence" name_last="Vickers" name_abbr="L.Vickers" birthdate="1983-05-08" birth_place="" high_school="" height="72" weight="250" college="Colorado" position="FB" jersey_number="47" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="cb23d6f0-6433-4053-82a8-9aaa7c23bfaf" start_date="2012-11-14T00:00:00+00:00" game_status="PRO" practice_status="Full Participation">
+        <description>Knee</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="e73ca5b4-2138-4d34-a9de-fd94c733e740" name_full="Charlie Peprah" name_first="Charlie" name_last="Peprah" name_abbr="C.Peprah" birthdate="1983-02-24" birth_place="" high_school="" height="71" weight="203" college="Alabama" position="SAF" jersey_number="26" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="16f6687f-265d-40d4-bdad-7d308978daca" name_full="Kevin Kowalski" name_first="Kevin" name_last="Kowalski" name_abbr="K.Kowalski" birthdate="1989-01-02" birth_place="" high_school="" height="76" weight="301" college="Toledo" position="C" jersey_number="60" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="31450578-c69a-4fd0-a09e-49506b50baa0" name_full="Kenyon Coleman" name_first="Kenyon" name_last="Coleman" name_abbr="K.Coleman" birthdate="1979-04-10" birth_place="" high_school="" height="77" weight="293" college="UCLA" position="DE" jersey_number="99" status="IR" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="2c3874aa-2fdd-4b2f-89ba-cd0ce8472754" name_full="Orie Lemon" name_first="Orie" name_last="Lemon" name_abbr="O.Lemon" birthdate="1987-09-09" birth_place="" high_school="" height="73" weight="244" college="Oklahoma State" position="LB" jersey_number="58" status="IR" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="4cf9b18e-a467-4645-a89a-849f7330de24" name_full="Marcus Spears" name_first="Marcus" name_last="Spears" name_abbr="M.Spears" birthdate="1983-03-08" birth_place="" high_school="" height="76" weight="315" college="LSU" position="DE" jersey_number="96" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="beb64618-614c-49f7-a3aa-c0c75b7839ea" name_full="Dan Bailey" name_first="Dan" name_last="Bailey" name_abbr="D.Bailey" birthdate="1988-01-26" birth_place="" high_school="" height="72" weight="188" college="Oklahoma State" position="K" jersey_number="5" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="6fbd5f30-db84-4c38-98ea-69631bdbc53f" name_full="Bruce Carter" name_first="Bruce" name_last="Carter" name_abbr="B.Carter" birthdate="1988-02-19" birth_place="" high_school="" height="75" weight="246" college="North Carolina" position="LB" jersey_number="54" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="85a051d3-3f76-411d-a59e-82d04a971c3a" name_full="Orlando Scandrick" name_first="Orlando" name_last="Scandrick" name_abbr="O.Scandrick" birthdate="1987-02-10" birth_place="" high_school="" height="70" weight="191" college="Boise State" position="CB" jersey_number="32" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="f0085214-6339-4843-a6c9-8ae118422284" name_full="Felix Jones" name_first="Felix" name_last="Jones" name_abbr="F.Jones" birthdate="1987-05-08" birth_place="" high_school="" height="70" weight="215" college="Arkansas" position="RB" jersey_number="28" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="75f4e314-a25d-4833-b39e-02014853d7bb" name_full="Jason Hatcher" name_first="Jason" name_last="Hatcher" name_abbr="J.Hatcher" birthdate="1982-07-13" birth_place="" high_school="" height="78" weight="305" college="Grambling State" position="DT" jersey_number="97" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="715a8a5c-7f1f-43ba-8d89-5a481735c85c" name_full="Phil Costa" name_first="Phil" name_last="Costa" name_abbr="P.Costa" birthdate="1987-07-11" birth_place="" high_school="" height="75" weight="314" college="Maryland" position="C" jersey_number="67" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="a204aad1-8d33-491d-b120-6d5fa92d79b3" start_date="2012-09-04T00:00:00+00:00" game_status="OUT" practice_status="Did Not Participate">
+        <description>Ankle</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="0f1c72eb-d0ca-4c33-86ec-a4890935364d" name_full="Ernie Sims" name_first="Ernie" name_last="Sims" name_abbr="E.Sims" birthdate="1984-12-23" birth_place="" high_school="" height="72" weight="230" college="Florida State" position="LB" jersey_number="59" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="f5fa509a-fc67-4c74-be9f-cb9cc8815a6f" name_full="DeMarcus Ware" name_first="DeMarcus" name_last="Ware" name_abbr="D.Ware" birthdate="1982-07-31" birth_place="" high_school="" height="76" weight="255" college="Troy" position="LB" jersey_number="94" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="b84fb536-9705-45a9-b652-92a33578ac48" name_full="Dez Bryant" name_first="Dez" name_last="Bryant" name_abbr="D.Bryant" birthdate="1988-11-04" birth_place="" high_school="" height="74" weight="218" college="Oklahoma State" position="WR" jersey_number="88" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="23893852-6ef4-48a9-99a0-c51f41670508" name_full="Brandon Carr" name_first="Brandon" name_last="Carr" name_abbr="B.Carr" birthdate="1986-05-19" birth_place="" high_school="" height="72" weight="210" college="Grand Valley State" position="CB" jersey_number="39" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="4f27ba8d-0702-4e8d-9345-2118fd2f7824" name_full="Derrick Dockery" name_first="Derrick" name_last="Dockery" name_abbr="D.Dockery" birthdate="1980-09-07" birth_place="Dallas Co., TX" high_school="Lakeview Centennial (TX)" height="78" weight="325" college="Texas" position="G" jersey_number="76" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="c25e9222-b7be-4ab9-ab3c-81fa72897e7c" name_full="Victor Butler" name_first="Victor" name_last="Butler" name_abbr="V.Butler" birthdate="1987-07-29" birth_place="" high_school="" height="74" weight="245" college="Oregon State" position="LB" jersey_number="57" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="ddf524fd-1056-4d69-9c51-14cc57f598b8" name_full="Mike Jenkins" name_first="Mike" name_last="Jenkins" name_abbr="M.Jenkins" birthdate="1985-03-22" birth_place="" high_school="" height="70" weight="198" college="South Florida" position="CB" jersey_number="21" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="87103777-7d46-4d2c-aafb-7d99754231f6" start_date="2012-11-08T00:00:00+00:00" game_status="DOU" practice_status="Did Not Participate">
+        <description>Back</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="478ae115-d220-424e-af45-56137f163d3a" name_full="DeMarco Murray" name_first="DeMarco" name_last="Murray" name_abbr="D.Murray" birthdate="1988-02-12" birth_place="" high_school="" height="72" weight="215" college="Oklahoma" position="RB" jersey_number="29" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="fd709537-6ad7-45b1-ac3c-74306ba628d9" start_date="2012-10-17T00:00:00+00:00" game_status="DOU" practice_status="Did Not Participate">
+        <description>Foot</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="9f0f0495-b5b8-45c2-866b-02d9f96087f7" name_full="Lance Dunbar" name_first="Lance" name_last="Dunbar" name_abbr="L.Dunbar" birthdate="1990-01-25" birth_place="Haltom City, TX" high_school="Haltom (TX)" height="68" weight="191" college="North Texas" position="RB" jersey_number="25" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="659e5aea-8030-42ab-a41c-fa07fcda8440" name_full="Jay Ratliff" name_first="Jay" name_last="Ratliff" name_abbr="J.Ratliff" birthdate="1981-08-29" birth_place="" high_school="" height="76" weight="303" college="Auburn" position="DT" jersey_number="90" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="ad93aab7-65e9-471a-af12-93be534e1e6b" start_date="2012-11-07T00:00:00+00:00" game_status="PRO" practice_status="Full Participation">
+        <description>Ankle</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="e38c9b1b-7c51-48a2-ac1d-a752502e8930" name_full="Jason Witten" name_first="Jason" name_last="Witten" name_abbr="J.Witten" birthdate="1982-05-06" birth_place="" high_school="" height="77" weight="265" college="Tennessee" position="TE" jersey_number="82" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="c3f2ea91-98d6-4d37-b5bd-3c7ac07e5b24" name_full="Tyron Smith" name_first="Tyron" name_last="Smith" name_abbr="T.Smith" birthdate="1990-12-12" birth_place="" high_school="" height="77" weight="308" college="USC" position="T" jersey_number="77" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="7bf9f37e-9d80-43ef-8453-e1e01d341a64" name_full="Vincent Agnew" name_first="Vincent" name_last="Agnew" name_abbr="V.Agnew" birthdate="1987-12-28" birth_place="" high_school="" height="70" weight="192" college="Central Michigan" position="CB" jersey_number="23" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="dc632746-2240-41d6-8141-695194706989" name_full="Tyrone Crawford" name_first="Tyrone" name_last="Crawford" name_abbr="T.Crawford" birthdate="1989-11-22" birth_place="Windsor, Ontario, Canada" high_school="Catholic Central HS (Windsor, Canada)" height="76" weight="285" college="Boise State" position="DE" jersey_number="70" status="ACT" salary="0" experience="" draft_pick="81" draft_round="3" draft_team="DAL">
+  </player>
+  <player id="cdbaf089-9c7e-418f-829e-d903c28b2628" name_full="Kyle Wilber" name_first="Kyle" name_last="Wilber" name_abbr="K.Wilber" birthdate="1989-04-26" birth_place="Apopka, Florida" high_school="Apopka HS (FL)" height="76" weight="242" college="Wake Forest" position="LB" jersey_number="51" status="ACT" salary="0" experience="" draft_pick="113" draft_round="4" draft_team="DAL">
+  </player>
+  <player id="58ac0e67-b0c1-4a2d-b89d-ccf3296c787f" name_full="L.P. LaDouceur" name_first="L.P." name_last="LaDouceur" name_abbr="L.LaDouceur" birthdate="1981-03-13" birth_place="" high_school="" height="77" weight="255" college="California" position="LS" jersey_number="91" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="d688ad2a-0c21-4749-99c6-4e6da588e6a8" name_full="James Hanna" name_first="James" name_last="Hanna" name_abbr="J.Hanna" birthdate="1989-07-14" birth_place="Flower Mound, Texas" high_school="Flower Mound HS (TX)" height="76" weight="249" college="Oklahoma" position="TE" jersey_number="84" status="ACT" salary="0" experience="" draft_pick="186" draft_round="6" draft_team="DAL">
+  </player>
+  <player id="439874cf-4057-4a7b-922b-f77a90a5bba2" name_full="Sean Lee" name_first="Sean" name_last="Lee" name_abbr="S.Lee" birthdate="1986-07-22" birth_place="" high_school="" height="74" weight="245" college="Penn State" position="LB" jersey_number="50" status="IR" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="5649ae74-aac1-433f-8f0f-ea812a285fac" name_full="Kevin Ogletree" name_first="Kevin" name_last="Ogletree" name_abbr="K.Ogletree" birthdate="1987-08-05" birth_place="" high_school="" height="73" weight="198" college="Virginia" position="WR" jersey_number="85" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="0fdd430e-aa8e-415c-a18c-9827d35ecbdf" name_full="Brian Moorman" name_first="Brian" name_last="Moorman" name_abbr="B.Moorman" birthdate="1976-02-05" birth_place="" high_school="" height="72" weight="174" college="Pittsburg State" position="P" jersey_number="2" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="7092bb09-a161-4ab9-8d19-fdcf1a91bb3d" name_full="Cole Beasley" name_first="Cole" name_last="Beasley" name_abbr="C.Beasley" birthdate="1989-04-26" birth_place="Little Elm, TX" high_school="Little Elm (TX)" height="68" weight="177" college="Southern Methodist" position="WR" jersey_number="11" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="c43cf6a1-8faa-4f95-aa2a-f1aac3ffe103" name_full="John Phillips" name_first="John" name_last="Phillips" name_abbr="J.Phillips" birthdate="1987-06-11" birth_place="" high_school="" height="77" weight="251" college="Virginia" position="TE" jersey_number="89" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="0183334f-5b0d-4504-88b9-fee4470b5d62" start_date="2012-11-15T00:00:00+00:00" game_status="PRO" practice_status="Limited Participation">
+        <description>Ankle</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="e210223b-fd36-4cc2-a5e3-16578ea0d17d" name_full="Danny McCray" name_first="Danny" name_last="McCray" name_abbr="D.McCray" birthdate="1988-03-10" birth_place="" high_school="" height="73" weight="222" college="LSU" position="SAF" jersey_number="40" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="e2bcd797-862d-4c38-abc3-267fc4d555e2" name_full="Phillip Tanner" name_first="Phillip" name_last="Tanner" name_abbr="P.Tanner" birthdate="1988-08-08" birth_place="" high_school="" height="72" weight="218" college="Middle Tennessee State" position="RB" jersey_number="34" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="c32d8200-2b85-4638-8db3-9a52fb86b207" name_full="Tony Romo" name_first="Tony" name_last="Romo" name_abbr="T.Romo" birthdate="1980-04-21" birth_place="" high_school="" height="74" weight="230" college="Eastern Illinois" position="QB" jersey_number="9" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="1b51ed47-793f-43ef-8776-dd2823ab427e" name_full="Matt Johnson" name_first="Matt" name_last="Johnson" name_abbr="M.Johnson" birthdate="1989-07-22" birth_place="Olympia, Washington" high_school="" height="73" weight="215" college="Eastern Washington" position="SAF" jersey_number="37" status="IR" salary="0" experience="" draft_pick="135" draft_round="4" draft_team="DAL">
+    <injuries>
+      <injury id="cc49ad56-6471-4739-8541-a5efb2c12d27" start_date="2012-10-19T00:00:00+00:00" game_status="OUT" practice_status="Did Not Participate">
+        <description>Hamstring</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="ef068d71-d18f-4b67-a7b4-71c416a14cba" name_full="Kyle Orton" name_first="Kyle" name_last="Orton" name_abbr="K.Orton" birthdate="1982-11-14" birth_place="" high_school="" height="76" weight="225" college="Purdue" position="QB" jersey_number="18" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="e0d47951-fea7-4f2a-a936-f4d758ea6b83" name_full="Morris Claiborne" name_first="Morris" name_last="Claiborne" name_abbr="M.Claiborne" birthdate="1990-02-07" birth_place="Shreveport, Louisiana" high_school="Fair Park HS (LA)" height="71" weight="185" college="LSU" position="CB" jersey_number="24" status="ACT" salary="0" experience="" draft_pick="6" draft_round="1" draft_team="DAL">
+  </player>
+  <player id="acf68a6a-3439-4ad6-8937-2562f4eba62b" name_full="Miles Austin" name_first="Miles" name_last="Austin" name_abbr="M.Austin" birthdate="1984-06-30" birth_place="" high_school="" height="74" weight="215" college="Monmouth (N.J.)" position="WR" jersey_number="19" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="ad9a6262-7df3-41a8-9753-b89866f5cd0e" name_full="Barry Church" name_first="Barry" name_last="Church" name_abbr="B.Church" birthdate="1988-02-11" birth_place="" high_school="" height="74" weight="220" college="Toledo" position="SAF" jersey_number="42" status="IR" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="e14a4c78-9a55-4d84-ab7c-d9c7121a6ae1" name_full="David Arkin" name_first="David" name_last="Arkin" name_abbr="D.Arkin" birthdate="1987-10-07" birth_place="" high_school="" height="76" weight="306" college="Missouri State" position="G" jersey_number="62" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="00af4c0c-f627-4033-908b-19e56bf792c1" name_full="Ben Bass" name_first="Ben" name_last="Bass" name_abbr="B.Bass" birthdate="1989-10-12" birth_place="Plano, TX" high_school="West (TX)" height="76" weight="288" college="Texas A&amp;M" position="DE" jersey_number="79" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="def531ce-9a29-4516-a1e4-5e6bdab53e97" name_full="Dan Connor" name_first="Dan" name_last="Connor" name_abbr="D.Connor" birthdate="1985-11-02" birth_place="" high_school="" height="74" weight="231" college="Penn State" position="LB" jersey_number="52" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+    <injuries>
+      <injury id="b793675d-d2f2-4995-977a-9654a7b84a76" start_date="2012-10-31T00:00:00+00:00" game_status="PRO" practice_status="Full Participation">
+        <description>Neck</description>
+        <notes></notes>
+      </injury>
+    </injuries>
+  </player>
+  <player id="b3eadf6a-2c55-4b53-b5be-74fdb6700627" name_full="Doug Free" name_first="Doug" name_last="Free" name_abbr="D.Free" birthdate="1984-01-06" birth_place="" high_school="" height="78" weight="323" college="Northern Illinois" position="OT" jersey_number="68" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="5ed2cea8-e0c6-482c-9ee1-548c06612226" name_full="Dwayne Harris" name_first="Dwayne" name_last="Harris" name_abbr="D.Harris" birthdate="1987-09-16" birth_place="" high_school="" height="70" weight="200" college="East Carolina" position="WR" jersey_number="17" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="8720973c-9bde-4e66-a88e-66e933a99683" name_full="Mackenzy Bernadeau" name_first="Mackenzy" name_last="Bernadeau" name_abbr="M.Bernadeau" birthdate="1986-01-03" birth_place="" high_school="" height="76" weight="320" college="Bentley" position="G" jersey_number="73" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+  <player id="6371b8a8-a1cf-4ff4-b900-0203bbf004e0" name_full="Alex Albright" name_first="Alex" name_last="Albright" name_abbr="A.Albright" birthdate="1988-01-29" birth_place="" high_school="" height="77" weight="256" college="Boston College" position="LB" jersey_number="55" status="ACT" salary="0" experience="" draft_pick="" draft_round="" draft_team="">
+  </player>
+</team>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game xmlns="http://feed.elasticstats.com/schema/nfl/summary-v1.0.xsd" id="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" scheduled="2012-09-06T00:30:00+00:00" home="NYG" away="DAL" status="closed">
+  <team id="NYG" name="Giants" market="New York">
+    <first_downs total="15">
+      <passing>11</passing>
+      <rushing>3</rushing>
+      <penalty>1</penalty>
+    </first_downs>
+    <third_down_efficiency att="12" converted="4" pct="33.3">
+      <passing>3</passing>
+      <rushing>1</rushing>
+      <penalty>0</penalty>
+    </third_down_efficiency>
+    <fourth_down_efficiency att="2" converted="2" pct="100.0">
+      <passing>1</passing>
+      <rushing>1</rushing>
+      <penalty>0</penalty>
+    </fourth_down_efficiency>
+    <total_yards plays="54" yds="269.0" avg="4.981"/>
+    <rushing_yards plays="19" yds="82" avg="4.316"/>
+    <passing att="32" cmp="21" avg="5.343" int="0" sack="3">
+      <yards net_yds="187.0" gross_yds="213" sack_yds="26.0"/>
+    </passing>
+    <return_yards total="56">
+      <punt_return number="1" yds="5"/>
+      <kickoff_return number="5" yds="100"/>
+      <int_return number="1" yds="51"/>
+    </return_yards>
+    <kickoffs number="4" endzone="0" tb="1"/>
+    <punts number="4" avg="50.25" blk="0" net_avg="44.5"/>
+    <penalties number="4" yds="33"/>
+    <fumbles number="1" lost="1"/>
+    <touchdowns number="2">
+      <passing>1</passing>
+      <rushing>1</rushing>
+      <interception>0</interception>
+      <fumble_return>0</fumble_return>
+      <punt_return>0</punt_return>
+      <kickoff_return>0</kickoff_return>
+      <field_goal_return>0</field_goal_return>
+    </touchdowns>
+    <extra_points att="2" made="2">
+      <kicking att="2" made="2" blk="0"/>
+      <two_points att="0" made="0"/>
+    </extra_points>
+    <field_goals att="1" made="1" blk="0"/>
+    <redzone_efficiency att="3" td="2" pct="66.7"/>
+    <goal_efficiency att="3" td="2" pct="66.7"/>
+    <safeties number="0"/>
+    <turnovers number="1"/>
+    <final_score>17</final_score>
+    <possession_time>25:53</possession_time>
+  </team>
+  <team id="DAL" name="Cowboys" market="Dallas">
+    <first_downs total="18">
+      <passing>12</passing>
+      <rushing>5</rushing>
+      <penalty>1</penalty>
+    </first_downs>
+    <third_down_efficiency att="10" converted="4" pct="40.0">
+      <passing>3</passing>
+      <rushing>1</rushing>
+      <penalty>0</penalty>
+    </third_down_efficiency>
+    <fourth_down_efficiency att="1" converted="0" pct="0.0">
+      <passing>0</passing>
+      <rushing>0</rushing>
+      <penalty>0</penalty>
+    </fourth_down_efficiency>
+    <total_yards plays="57" yds="433.0" avg="7.596"/>
+    <rushing_yards plays="26" yds="143" avg="5.5"/>
+    <passing att="29" cmp="22" avg="9.355" int="1" sack="2">
+      <yards net_yds="290.0" gross_yds="307" sack_yds="17.0"/>
+    </passing>
+    <return_yards total="3">
+      <punt_return number="3" yds="3"/>
+      <kickoff_return number="3" yds="61"/>
+      <int_return number="0" yds="0"/>
+    </return_yards>
+    <kickoffs number="5" endzone="3" tb="0"/>
+    <punts number="2" avg="54.0" blk="0" net_avg="51.5"/>
+    <penalties number="13" yds="86"/>
+    <fumbles number="0" lost="0"/>
+    <touchdowns number="3">
+      <passing>3</passing>
+      <rushing>0</rushing>
+      <interception>0</interception>
+      <fumble_return>0</fumble_return>
+      <punt_return>0</punt_return>
+      <kickoff_return>0</kickoff_return>
+      <field_goal_return>0</field_goal_return>
+    </touchdowns>
+    <extra_points att="3" made="3">
+      <kicking att="3" made="3" blk="0"/>
+      <two_points att="0" made="0"/>
+    </extra_points>
+    <field_goals att="1" made="1" blk="0"/>
+    <redzone_efficiency att="3" td="2" pct="66.7"/>
+    <goal_efficiency att="1" td="0" pct="0.0"/>
+    <safeties number="0"/>
+    <turnovers number="1"/>
+    <final_score>24</final_score>
+    <possession_time>34:07</possession_time>
+  </team>
+</game>

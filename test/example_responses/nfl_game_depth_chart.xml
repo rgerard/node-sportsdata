@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<game xmlns="http://feed.elasticstats.com/schema/nfl/depth_chart-v1.0.xsd" id="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" scheduled="2012-09-06T00:30:00+00:00" home="NYG" away="DAL" status="closed">
+  <team id="NYG" name="Giants" market="New York">
+    <offense>
+      <position name="FB" desc="Fullback">
+        <player id="d3ed4b39-7858-405d-b021-348bd57832dd" depth="0" name_full="Henry Hynoski" position="RB" jersey_number="45" status="ACT"/>
+      </position>
+      <position name="LG" desc="Left Guard">
+        <player id="08d08fda-f75f-48cc-9927-ae68a4ec2e64" depth="0" name_full="Kevin Boothe" position="G" jersey_number="77" status="ACT"/>
+        <player id="fdf0209f-ed83-48fd-b02a-8fbaab99cf58" depth="1" name_full="Mitch Petrus" position="G" jersey_number="0" status="ACT"/>
+      </position>
+      <position name="RG" desc="Right Guard">
+        <player id="ff6f5ff1-e368-4869-bf6a-22087f27ee9f" depth="0" name_full="Chris Snee" position="G" jersey_number="76" status="ACT"/>
+        <player id="fdf0209f-ed83-48fd-b02a-8fbaab99cf58" depth="1" name_full="Mitch Petrus" position="G" jersey_number="0" status="ACT"/>
+      </position>
+      <position name="RT" desc="Right Tackle">
+        <player id="4177c51b-e802-4c8a-bbe8-ca444ecd847e" depth="0" name_full="David Diehl" position="OT" jersey_number="66" status="ACT"/>
+        <player id="fa11008e-e199-4bbb-a440-7874bd6e3f3e" depth="1" name_full="James Brewer" position="T" jersey_number="73" status="ACT"/>
+      </position>
+      <position name="LT" desc="Left Tackle">
+        <player id="ab4ae658-8c63-4af9-b6a8-0741bcbae5a9" depth="0" name_full="Will Beatty" position="OT" jersey_number="65" status="ACT"/>
+        <player id="35c4bc3c-8529-4ab7-9f49-f9c365647a19" depth="1" name_full="Sean Locklear" position="T" jersey_number="75" status="ACT"/>
+      </position>
+      <position name="RB" desc="Running Back">
+        <player id="8f22eb36-5282-407a-b6f9-f9b62e5f7318" depth="0" name_full="Ahmad Bradshaw" position="RB" jersey_number="44" status="ACT"/>
+        <player id="a230a959-4fba-43cd-92a0-6552766c2bbf" depth="1" name_full="David Wilson" position="RB" jersey_number="22" status="ACT"/>
+        <player id="9b6f28b0-7329-495b-a0a5-6c5fb975a057" depth="2" name_full="Da'Rel Scott" position="RB" jersey_number="33" status="ACT"/>
+        <player id="53747116-98f0-4405-91da-f25b1d938813" depth="3" name_full="Andre Brown" position="RB" jersey_number="35" status="ACT"/>
+      </position>
+      <position name="WR" desc="Wide Receiver">
+        <player id="51545c6d-3132-4477-8f51-df5c29ed971e" depth="0" name_full="Victor Cruz" position="WR" jersey_number="80" status="ACT"/>
+        <player id="23d7cd82-d526-4fd8-8f8a-97885f2bc926" depth="1" name_full="Hakeem Nicks" position="WR" jersey_number="88" status="ACT"/>
+        <player id="a68521b6-cdfc-4a31-b4fa-ecb3c8eeb390" depth="2" name_full="Jerrel Jernigan" position="WR" jersey_number="12" status="ACT"/>
+        <player id="56223a1a-cf12-473c-8f54-2f3f3fab579d" depth="3" name_full="Rueben Randle" position="WR" jersey_number="82" status="ACT"/>
+        <player id="c69d20c9-d478-4f4e-98be-dedfc108bc8e" depth="4" name_full="Ramses Barden" position="WR" jersey_number="13" status="ACT"/>
+        <player id="22eeb9ce-32a5-4728-bf30-06bd300b9365" depth="5" name_full="Domenik Hixon" position="WR" jersey_number="87" status="ACT"/>
+      </position>
+      <position name="C" desc="Center">
+        <player id="54a60e5b-3a55-4381-a2a8-3063795d5070" depth="0" name_full="David Baas" position="C" jersey_number="64" status="ACT"/>
+        <player id="b8425853-7426-4ac1-bc1b-4978d6c8e684" depth="1" name_full="Jim Cordle" position="C" jersey_number="63" status="ACT"/>
+      </position>
+      <position name="QB" desc="Quarterback">
+        <player id="6cb6226e-f08c-4192-95f1-69709ed686c6" depth="0" name_full="Eli Manning" position="QB" jersey_number="10" status="ACT"/>
+        <player id="569edad4-cceb-4b3e-b03c-71cbe27a3693" depth="1" name_full="David Carr" position="QB" jersey_number="8" status="ACT"/>
+      </position>
+      <position name="TE" desc="Tight End">
+        <player id="fe74dd16-c439-4cf9-89c2-958929fb6fa8" depth="0" name_full="Bear Pascoe" position="TE" jersey_number="86" status="ACT"/>
+        <player id="0ca741f8-58bd-4933-9d5c-0e04de3f4cff" depth="1" name_full="Martellus Bennett" position="TE" jersey_number="85" status="ACT"/>
+        <player id="f8762994-f688-4fba-9efe-95504972ad69" depth="2" name_full="Adrien Robinson" position="TE" jersey_number="81" status="ACT"/>
+      </position>
+    </offense>
+    <defense type="Base 3-4 D">
+      <position name="LOLB" desc="Left Outside Linebacker">
+        <player id="35309193-c21f-4b9a-9f33-2162e8c817b6" depth="0" name_full="Michael Boley" position="LB" jersey_number="59" status="ACT"/>
+        <player id="1e31bf53-67a4-4d8b-867a-af951c00f6d2" depth="1" name_full="Jacquian Williams" position="LB" jersey_number="57" status="ACT"/>
+        <player id="284f5b6f-cb48-42b6-97be-d1957e4d0bdb" depth="2" name_full="Spencer Paysinger" position="LB" jersey_number="52" status="ACT"/>
+      </position>
+      <position name="SS" desc="Strong Safety">
+        <player id="391881cd-4f9f-49c8-ba78-10ce74728f6d" depth="0" name_full="Kenny Phillips" position="SAF" jersey_number="21" status="ACT"/>
+        <player id="6de41d83-0414-4236-9b90-977dfc240a58" depth="1" name_full="Tyler Sash" position="SAF" jersey_number="39" status="SUS"/>
+      </position>
+      <position name="FS" desc="Free Safety">
+        <player id="84d8e40d-8123-4c0e-a3c1-3d86013d48c9" depth="0" name_full="Antrel Rolle" position="SAF" jersey_number="26" status="ACT"/>
+      </position>
+      <position name="LDE" desc="Left Defensive End">
+        <player id="bbfb80d3-910b-4be2-be73-3dab3c5ce398" depth="0" name_full="Justin Tuck" position="DE" jersey_number="91" status="ACT"/>
+        <player id="b132c8bd-f80f-42a4-8c86-9e80e563f30a" depth="1" name_full="Adrian Tracy" position="DE" jersey_number="98" status="ACT"/>
+        <player id="dcc067c1-53af-472a-8827-e4baf71f14f3" depth="2" name_full="Adewale Ojomo" position="DE" jersey_number="71" status="ACT"/>
+      </position>
+      <position name="RDE" desc="Right Defensive End">
+        <player id="e56569f1-eaf4-473b-b92c-fc5c84cc7338" depth="0" name_full="Jason Pierre-Paul" position="DE" jersey_number="90" status="ACT"/>
+        <player id="f28cbca1-9c1e-4b90-865a-699bfa386c75" depth="1" name_full="Osi Umenyiora" position="DE" jersey_number="72" status="ACT"/>
+      </position>
+      <position name="CB" desc="Cornerback">
+        <player id="ed8fdad4-b43e-4232-b0de-c579d5348286" depth="0" name_full="Corey Webster" position="CB" jersey_number="23" status="ACT"/>
+        <player id="f1879cfa-4c07-4140-9da0-c7ebe9af2dfd" depth="1" name_full="Prince Amukamara" position="CB" jersey_number="20" status="ACT"/>
+        <player id="c6682daa-01d2-4924-8aa8-ef2f44c2a2fb" depth="2" name_full="Justin Tryon" position="CB" jersey_number="30" status="ACT"/>
+        <player id="5ce8cd6f-d187-4d23-93c2-9b863dfc7902" depth="3" name_full="Michael Coe" position="CB" jersey_number="37" status="ACT"/>
+      </position>
+      <position name="RILB" desc="Right Inside Linebacker">
+        <player id="35309193-c21f-4b9a-9f33-2162e8c817b6" depth="0" name_full="Michael Boley" position="LB" jersey_number="59" status="ACT"/>
+        <player id="1e31bf53-67a4-4d8b-867a-af951c00f6d2" depth="1" name_full="Jacquian Williams" position="LB" jersey_number="57" status="ACT"/>
+        <player id="284f5b6f-cb48-42b6-97be-d1957e4d0bdb" depth="2" name_full="Spencer Paysinger" position="LB" jersey_number="52" status="ACT"/>
+      </position>
+      <position name="LILB" desc="Left Inside Linebacker">
+        <player id="e53ed040-6008-4de1-b5d4-6f69f85ea9bd" depth="0" name_full="Chase Blackburn" position="LB" jersey_number="93" status="ACT"/>
+        <player id="30be69a5-f203-49dc-a354-19e4733a80da" depth="1" name_full="Mark Herzlich" position="LB" jersey_number="58" status="ACT"/>
+      </position>
+      <position name="ROLB" desc="Right Outside Linebacker">
+        <player id="8f3be89a-281c-4c5c-bf71-92845c46f032" depth="0" name_full="Mathias Kiwanuka" position="LB" jersey_number="94" status="ACT"/>
+        <player id="d2c5d2fa-dd75-444e-b8e0-63c31a3791be" depth="1" name_full="Keith Rivers" position="LB" jersey_number="55" status="ACT"/>
+      </position>
+      <position name="NT" desc="Nose Tackle">
+        <player id="6c48b2a7-924e-43ec-bcd9-f1cda06b2332" depth="0" name_full="Linval Joseph" position="DT" jersey_number="97" status="ACT"/>
+        <player id="5870bbda-5923-4924-865c-964f8ac6da78" depth="1" name_full="Chris Canty" position="DT" jersey_number="99" status="PUP"/>
+        <player id="628e8cfa-8e41-451f-8219-81538fb9a9f4" depth="2" name_full="Marvin Austin" position="DT" jersey_number="96" status="ACT"/>
+      </position>
+    </defense>
+    <special_teams>
+      <position name="KR" desc="Kick Returner">
+        <player id="a68521b6-cdfc-4a31-b4fa-ecb3c8eeb390" depth="0" name_full="Jerrel Jernigan" position="WR" jersey_number="12" status="ACT"/>
+        <player id="9b6f28b0-7329-495b-a0a5-6c5fb975a057" depth="1" name_full="Da'Rel Scott" position="RB" jersey_number="33" status="ACT"/>
+      </position>
+      <position name="PK" desc="Place kicker">
+        <player id="97cebfd1-f7d0-4fc7-b3d8-6d2308e992e3" depth="0" name_full="Lawrence Tynes" position="K" jersey_number="9" status="ACT"/>
+      </position>
+      <position name="LS" desc="Long Snapper">
+        <player id="c38a3fbc-f9af-4676-b905-4f101a99194d" depth="0" name_full="Zak DeOssie" position="LS" jersey_number="51" status="ACT"/>
+      </position>
+      <position name="P" desc="Punter">
+        <player id="2d7263cd-2437-46a8-bca6-a224576e3063" depth="0" name_full="Steve Weatherford" position="P" jersey_number="5" status="ACT"/>
+      </position>
+      <position name="H" desc="Holder">
+        <player id="2d7263cd-2437-46a8-bca6-a224576e3063" depth="0" name_full="Steve Weatherford" position="P" jersey_number="5" status="ACT"/>
+      </position>
+      <position name="PR" desc="Punt Returner">
+        <player id="a68521b6-cdfc-4a31-b4fa-ecb3c8eeb390" depth="0" name_full="Jerrel Jernigan" position="WR" jersey_number="12" status="ACT"/>
+        <player id="22eeb9ce-32a5-4728-bf30-06bd300b9365" depth="1" name_full="Domenik Hixon" position="WR" jersey_number="87" status="ACT"/>
+        <player id="9875ed64-766b-481e-bba2-3f085d4bac24" depth="2" name_full="Jayron Hosley" position="CB" jersey_number="28" status="ACT"/>
+        <player id="51545c6d-3132-4477-8f51-df5c29ed971e" depth="3" name_full="Victor Cruz" position="WR" jersey_number="80" status="ACT"/>
+      </position>
+    </special_teams>
+  </team>
+  <team id="DAL" name="Cowboys" market="Dallas">
+    <offense>
+      <position name="FB" desc="Fullback">
+        <player id="814993fd-79c4-4c89-a4d6-d69be0f6d459" depth="0" name_full="Lawrence Vickers" position="FB" jersey_number="47" status="ACT"/>
+      </position>
+      <position name="LG" desc="Left Guard">
+        <player id="921fca37-0b0f-4d44-90ee-8b655186e32e" depth="0" name_full="Nate Livings" position="G" jersey_number="71" status="ACT"/>
+        <player id="4f27ba8d-0702-4e8d-9345-2118fd2f7824" depth="1" name_full="Derrick Dockery" position="G" jersey_number="76" status="ACT"/>
+      </position>
+      <position name="RG" desc="Right Guard">
+        <player id="8720973c-9bde-4e66-a88e-66e933a99683" depth="0" name_full="Mackenzy Bernadeau" position="G" jersey_number="73" status="ACT"/>
+        <player id="e14a4c78-9a55-4d84-ab7c-d9c7121a6ae1" depth="1" name_full="David Arkin" position="G" jersey_number="62" status="ACT"/>
+      </position>
+      <position name="RT" desc="Right Tackle">
+        <player id="b3eadf6a-2c55-4b53-b5be-74fdb6700627" depth="0" name_full="Doug Free" position="OT" jersey_number="68" status="ACT"/>
+      </position>
+      <position name="LT" desc="Left Tackle">
+        <player id="c3f2ea91-98d6-4d37-b5bd-3c7ac07e5b24" depth="0" name_full="Tyron Smith" position="T" jersey_number="77" status="ACT"/>
+        <player id="0d91e0a9-232f-4e27-b6a5-e7f7e1d3fc6c" depth="1" name_full="Jermey Parnell" position="OT" jersey_number="78" status="ACT"/>
+      </position>
+      <position name="RB" desc="Running Back">
+        <player id="478ae115-d220-424e-af45-56137f163d3a" depth="0" name_full="DeMarco Murray" position="RB" jersey_number="29" status="ACT"/>
+        <player id="f0085214-6339-4843-a6c9-8ae118422284" depth="1" name_full="Felix Jones" position="RB" jersey_number="28" status="ACT"/>
+        <player id="e2bcd797-862d-4c38-abc3-267fc4d555e2" depth="2" name_full="Phillip Tanner" position="RB" jersey_number="34" status="ACT"/>
+      </position>
+      <position name="WR" desc="Wide Receiver">
+        <player id="b84fb536-9705-45a9-b652-92a33578ac48" depth="0" name_full="Dez Bryant" position="WR" jersey_number="88" status="ACT"/>
+        <player id="acf68a6a-3439-4ad6-8937-2562f4eba62b" depth="1" name_full="Miles Austin" position="WR" jersey_number="19" status="ACT"/>
+        <player id="5649ae74-aac1-433f-8f0f-ea812a285fac" depth="2" name_full="Kevin Ogletree" position="WR" jersey_number="85" status="ACT"/>
+        <player id="5ed2cea8-e0c6-482c-9ee1-548c06612226" depth="3" name_full="Dwayne Harris" position="WR" jersey_number="17" status="ACT"/>
+        <player id="7092bb09-a161-4ab9-8d19-fdcf1a91bb3d" depth="4" name_full="Cole Beasley" position="WR" jersey_number="11" status="ACT"/>
+        <player id="996974b8-2e0a-47d9-90a7-c3455192d06b" depth="5" name_full="Andre Holmes" position="WR" jersey_number="15" status="ACT"/>
+      </position>
+      <position name="C" desc="Center">
+        <player id="715a8a5c-7f1f-43ba-8d89-5a481735c85c" depth="0" name_full="Phil Costa" position="C" jersey_number="67" status="ACT"/>
+        <player id="e14a4c78-9a55-4d84-ab7c-d9c7121a6ae1" depth="1" name_full="David Arkin" position="G" jersey_number="62" status="ACT"/>
+      </position>
+      <position name="QB" desc="Quarterback">
+        <player id="c32d8200-2b85-4638-8db3-9a52fb86b207" depth="0" name_full="Tony Romo" position="QB" jersey_number="9" status="ACT"/>
+        <player id="ef068d71-d18f-4b67-a7b4-71c416a14cba" depth="1" name_full="Kyle Orton" position="QB" jersey_number="18" status="ACT"/>
+        <player id="8a312628-d9dc-4de0-a1ac-1ac8cdf87131" depth="2" name_full="Stephen McGee" position="QB" jersey_number="7" status="ACT"/>
+      </position>
+      <position name="TE" desc="Tight End">
+        <player id="e38c9b1b-7c51-48a2-ac1d-a752502e8930" depth="0" name_full="Jason Witten" position="TE" jersey_number="82" status="ACT"/>
+        <player id="c43cf6a1-8faa-4f95-aa2a-f1aac3ffe103" depth="1" name_full="John Phillips" position="TE" jersey_number="89" status="ACT"/>
+        <player id="d688ad2a-0c21-4749-99c6-4e6da588e6a8" depth="2" name_full="James Hanna" position="TE" jersey_number="84" status="ACT"/>
+      </position>
+    </offense>
+    <defense type="Base 3-4 D">
+      <position name="LOLB" desc="Left Outside Linebacker">
+        <player id="65859588-5da0-4df0-a339-6adf83287078" depth="0" name_full="Anthony Spencer" position="LB" jersey_number="93" status="ACT"/>
+        <player id="c25e9222-b7be-4ab9-ab3c-81fa72897e7c" depth="1" name_full="Victor Butler" position="LB" jersey_number="57" status="ACT"/>
+        <player id="cdbaf089-9c7e-418f-829e-d903c28b2628" depth="2" name_full="Kyle Wilber" position="LB" jersey_number="51" status="ACT"/>
+      </position>
+      <position name="SS" desc="Strong Safety">
+        <player id="ad9a6262-7df3-41a8-9753-b89866f5cd0e" depth="0" name_full="Barry Church" position="SAF" jersey_number="42" status="ACT"/>
+        <player id="7d2f7624-2876-4e64-b29c-005fa1e08232" depth="1" name_full="Mana Silva" position="SAF" jersey_number="36" status="ACT"/>
+      </position>
+      <position name="FS" desc="Free Safety">
+        <player id="c50caa8d-a858-46ad-b4af-9201753d2725" depth="0" name_full="Gerald Sensabaugh" position="SAF" jersey_number="43" status="ACT"/>
+        <player id="e210223b-fd36-4cc2-a5e3-16578ea0d17d" depth="1" name_full="Danny McCray" position="SAF" jersey_number="40" status="ACT"/>
+      </position>
+      <position name="LDE" desc="Left Defensive End">
+        <player id="31450578-c69a-4fd0-a09e-49506b50baa0" depth="0" name_full="Kenyon Coleman" position="DE" jersey_number="99" status="ACT"/>
+        <player id="dc632746-2240-41d6-8141-695194706989" depth="1" name_full="Tyrone Crawford" position="DE" jersey_number="70" status="ACT"/>
+      </position>
+      <position name="RDE" desc="Right Defensive End">
+        <player id="75f4e314-a25d-4833-b39e-02014853d7bb" depth="0" name_full="Jason Hatcher" position="DT" jersey_number="97" status="ACT"/>
+        <player id="4cf9b18e-a467-4645-a89a-849f7330de24" depth="1" name_full="Marcus Spears" position="DE" jersey_number="96" status="ACT"/>
+      </position>
+      <position name="CB" desc="Cornerback">
+        <player id="23893852-6ef4-48a9-99a0-c51f41670508" depth="0" name_full="Brandon Carr" position="CB" jersey_number="39" status="ACT"/>
+        <player id="e0d47951-fea7-4f2a-a936-f4d758ea6b83" depth="1" name_full="Morris Claiborne" position="CB" jersey_number="24" status="ACT"/>
+        <player id="ddf524fd-1056-4d69-9c51-14cc57f598b8" depth="2" name_full="Mike Jenkins" position="CB" jersey_number="21" status="ACT"/>
+        <player id="85a051d3-3f76-411d-a59e-82d04a971c3a" depth="3" name_full="Orlando Scandrick" position="CB" jersey_number="32" status="ACT"/>
+      </position>
+      <position name="RILB" desc="Right Inside Linebacker">
+        <player id="def531ce-9a29-4516-a1e4-5e6bdab53e97" depth="0" name_full="Dan Connor" position="LB" jersey_number="52" status="ACT"/>
+        <player id="6fbd5f30-db84-4c38-98ea-69631bdbc53f" depth="1" name_full="Bruce Carter" position="LB" jersey_number="54" status="ACT"/>
+      </position>
+      <position name="LILB" desc="Left Inside Linebacker">
+        <player id="439874cf-4057-4a7b-922b-f77a90a5bba2" depth="0" name_full="Sean Lee" position="LB" jersey_number="50" status="ACT"/>
+      </position>
+      <position name="ROLB" desc="Right Outside Linebacker">
+        <player id="f5fa509a-fc67-4c74-be9f-cb9cc8815a6f" depth="0" name_full="DeMarcus Ware" position="LB" jersey_number="94" status="ACT"/>
+        <player id="6371b8a8-a1cf-4ff4-b900-0203bbf004e0" depth="1" name_full="Alex Albright" position="LB" jersey_number="55" status="ACT"/>
+      </position>
+      <position name="NT" desc="Nose Tackle">
+        <player id="659e5aea-8030-42ab-a41c-fa07fcda8440" depth="0" name_full="Jay Ratliff" position="DT" jersey_number="90" status="ACT"/>
+        <player id="d3b0253a-b4ff-4d4f-aa82-38c6b368e30b" depth="1" name_full="Josh Brent" position="DT" jersey_number="92" status="ACT"/>
+      </position>
+    </defense>
+    <special_teams>
+      <position name="KR" desc="Kick Returner">
+        <player id="f0085214-6339-4843-a6c9-8ae118422284" depth="0" name_full="Felix Jones" position="RB" jersey_number="28" status="ACT"/>
+        <player id="5ed2cea8-e0c6-482c-9ee1-548c06612226" depth="1" name_full="Dwayne Harris" position="WR" jersey_number="17" status="ACT"/>
+      </position>
+      <position name="PK" desc="Place kicker">
+        <player id="beb64618-614c-49f7-a3aa-c0c75b7839ea" depth="0" name_full="Dan Bailey" position="K" jersey_number="5" status="ACT"/>
+      </position>
+      <position name="LS" desc="Long Snapper">
+        <player id="58ac0e67-b0c1-4a2d-b89d-ccf3296c787f" depth="0" name_full="L.P. LaDouceur" position="LS" jersey_number="91" status="ACT"/>
+      </position>
+      <position name="P" desc="Punter">
+        <player id="4d1f4c44-3666-4014-95fc-4b0013b6d9a5" depth="0" name_full="Chris Jones" position="P" jersey_number="6" status="ACT"/>
+      </position>
+      <position name="H" desc="Holder">
+        <player id="4d1f4c44-3666-4014-95fc-4b0013b6d9a5" depth="0" name_full="Chris Jones" position="P" jersey_number="6" status="ACT"/>
+      </position>
+      <position name="PR" desc="Punt Returner">
+        <player id="b84fb536-9705-45a9-b652-92a33578ac48" depth="0" name_full="Dez Bryant" position="WR" jersey_number="88" status="ACT"/>
+        <player id="7092bb09-a161-4ab9-8d19-fdcf1a91bb3d" depth="1" name_full="Cole Beasley" position="WR" jersey_number="11" status="ACT"/>
+        <player id="5ed2cea8-e0c6-482c-9ee1-548c06612226" depth="2" name_full="Dwayne Harris" position="WR" jersey_number="17" status="ACT"/>
+      </position>
+    </special_teams>
+  </team>
+</game>

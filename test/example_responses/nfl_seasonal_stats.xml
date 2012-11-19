@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<season xmlns="http://feed.elasticstats.com/schema/nfl/statistics-v1.0.xsd" season="2012" season_type="REG">
+  <team id="DAL" name="Cowboys" market="Dallas">
+    <two_point_conversion att="2" pass="1" rush="0" rec="1" failed="1"/>
+    <touchdowns pass="14" rush="5" int="1" fum_ret="1" punt_ret="1" kick_ret="0" fg_ret="0" other="0"/>
+    <third_down_efficiency att="128" conv="52" pct="40.6" pass="43" rush="9" pen="0"/>
+    <rushing att="233" yds="831" avg="3.567" lg="48" td="5" fd="50" fd_pct="21.5" sfty="0" rz_att="28" fum="1" yds_10_pls="15" yds_20_pls="2" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0"/>
+    <redzone_efficiency att="32" td="14" pct="43.8"/>
+    <receiving tar="397" rec="274" yds="3005" yac="3006" fd="144" avg="10.967" td="14" lg="65" rz_tar="43" fum="3" yds_10_pls="89" yds_20_pls="19" yds_30_pls="8" yds_40_pls="3" yds_50_pls="2"/>
+    <punting punts="41" yds="1787" net_yds="1701" lg="60" blk="1" in20="22" tb="0" ret="17" avg="42.548" net_avg="40.5" ret_yds="86" avg_ret="5.059" in20_pct="53.7" tb_pct="0.0"/>
+    <punt_return returns="22" yds="243" fc="9" lg="78" td="1" avg="11.045" yds_10_pls="4" yds_20_pls="1" yds_30_pls="1" yds_40_pls="1" yds_50_pls="1"/>
+    <penalty num="83" yds="600" fd="21"/>
+    <passing att="404" cmp="274" yds="3005" lg="65" sk="24" sk_yds="162.0" td="14" int="13" int_td="3" fd="145" sfty="0" rz_att="51" rating="87.91" avg="7.438" cmp_pct="67.8" cmp_avg="10.967" td_pct="3.5" int_pct="3.2" yds_10_pls="89" yds_20_pls="19" yds_30_pls="8" yds_40_pls="3" yds_50_pls="2"/>
+    <kickoffs kicks="50" yds="3002" net_yds="2020" lg="74" endzone="34" in20="11" tb="15" ret="31" avg="60.04" net_avg="40.4" ret_yds="982" avg_ret="31.677" in20_pct="22.0" tb_pct="30.0"/>
+    <kick_return returns="24" yds="482" fc="0" lg="44" td="0" avg="20.083" yds_10_pls="9" yds_20_pls="11" yds_30_pls="1" yds_40_pls="1" yds_50_pls="0"/>
+    <goal_efficiency att="11" td="6" pct="54.5"/>
+    <fumbles fum="15" lost="7" oob="0" own_rec="8" own_rec_yds="-4" own_rec_td="0" force_fum="10" opp_rec="7" opp_rec_yds="6" opp_rec_td="1"/>
+    <fourth_down_efficiency att="8" conv="5" pct="62.5" pass="4" rush="1" pen="0"/>
+    <first_downs num="214" pass="144" rush="47" pen="23"/>
+    <field_goal att="21" made="19" pct="90.5" lg="51" att_19="1" made_19="1" att_29="4" made_29="4" att_39="9" made_39="9" att_49="4" made_49="4" att_50="3" made_50="1"/>
+    <extra_point att="20" made="20" pct="100.0" blk="0"/>
+    <defense tackle="443" ast="102" comb="545" tlost="47" sack="20.0" sack_yds="135.0" sfty="0" int="4" int_yds="47" int_lg="47" int_td="1" force_fum="9" fum_rec="8" fum_td="1" qh="8" pd="20" bk="0" sp_tackle="48" sp_ast="6" sp_comb="54" sp_force_fum="0" sp_fum_rec="2" misc_tackle="11" misc_ast="0" misc_comb="11" misc_force_fum="0" misc_fum_rec="5"/>
+    <players>
+      <player id="921fca37-0b0f-4d44-90ee-8b655186e32e" name="Nate Livings" games_played="10" games_started="10" jersey="71" position="G">
+        <penalty num="1" yds="10" fd="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="58ac0e67-b0c1-4a2d-b89d-ccf3296c787f" name="L.P. LaDouceur" games_played="10" games_started="0" jersey="91" position="LS">
+      </player>
+      <player id="cc852f05-a588-4470-8981-0410bb8f1f2f" name="Eric Frampton" games_played="8" games_started="0" jersey="27" position="SAF">
+        <penalty num="1" yds="5" fd="1"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="1" own_rec_yds="3" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="2" ast="0" comb="2" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="7" sp_ast="0" sp_comb="7" sp_force_fum="0" sp_fum_rec="1" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="478ae115-d220-424e-af45-56137f163d3a" name="DeMarco Murray" games_played="5" games_started="5" jersey="29" position="RB">
+        <touchdowns pass="0" rush="1" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <rushing att="75" yds="330" avg="4.4" lg="48" td="1" fd="14" fd_pct="18.7" sfty="0" rz_att="7" fum="0" yds_10_pls="5" yds_20_pls="1" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0"/>
+        <receiving tar="18" rec="17" yds="118" yac="118" fd="5" avg="6.941" td="0" lg="20" rz_tar="2" fum="1" yds_10_pls="3" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <fumbles fum="1" lost="0" oob="0" own_rec="1" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="20" pass="5" rush="14" pen="1"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="1"/>
+      </player>
+      <player id="ddf524fd-1056-4d69-9c51-14cc57f598b8" name="Mike Jenkins" games_played="7" games_started="1" jersey="21" position="CB">
+        <defense tackle="3" ast="0" comb="3" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="2" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="5ed2cea8-e0c6-482c-9ee1-548c06612226" name="Dwayne Harris" games_played="10" games_started="0" jersey="17" position="WR">
+        <touchdowns pass="0" rush="0" int="0" fum_ret="0" punt_ret="1" kick_ret="0" fg_ret="0" other="0"/>
+        <receiving tar="4" rec="3" yds="20" yac="20" fd="0" avg="6.667" td="0" lg="8" rz_tar="0" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <punt_return returns="10" yds="178" fc="7" lg="78" td="1" avg="17.8" yds_10_pls="1" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="1"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="7bf9f37e-9d80-43ef-8453-e1e01d341a64" name="Vincent Agnew" games_played="2" games_started="0" jersey="23" position="CB">
+      </player>
+      <player id="62c8ee28-9301-4d5e-aacc-2b59698abe4b" name="Ryan Cook" games_played="8" games_started="6" jersey="63" position="G">
+        <fumbles fum="1" lost="0" oob="0" own_rec="1" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="1"/>
+      </player>
+      <player id="0fdd430e-aa8e-415c-a18c-9827d35ecbdf" name="Brian Moorman" games_played="9" games_started="0" jersey="2" position="P">
+        <punting punts="29" yds="1245" net_yds="1181" lg="59" blk="0" in20="16" tb="0" ret="11" avg="42.931" net_avg="40.724" ret_yds="64" avg_ret="5.818" in20_pct="55.2" tb_pct="0.0"/>
+      </player>
+      <player id="c43cf6a1-8faa-4f95-aa2a-f1aac3ffe103" name="John Phillips" games_played="10" games_started="5" jersey="89" position="TE">
+        <touchdowns pass="1" rush="0" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <receiving tar="8" rec="7" yds="55" yac="55" fd="3" avg="7.857" td="1" lg="19" rz_tar="1" fum="0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="3" yds="25" fd="1"/>
+        <first_downs num="3" pass="3" rush="0" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="2" sp_ast="0" sp_comb="2" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="16f6687f-265d-40d4-bdad-7d308978daca" name="Kevin Kowalski" games_played="1" games_started="0" jersey="60" position="C">
+      </player>
+      <player id="1b51ed47-793f-43ef-8776-dd2823ab427e" name="Matt Johnson" games_played="0" games_started="0" jersey="37" position="SAF">
+      </player>
+      <player id="5649ae74-aac1-433f-8f0f-ea812a285fac" name="Kevin Ogletree" games_played="10" games_started="1" jersey="85" position="WR">
+        <touchdowns pass="3" rush="0" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <rushing att="2" yds="9" avg="4.5" lg="5" td="0" fd="0" fd_pct="0.0" sfty="0" rz_att="0" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="44" rec="25" yds="354" yac="354" fd="14" avg="14.16" td="3" lg="65" rz_tar="6" fum="0" yds_10_pls="11" yds_20_pls="2" yds_30_pls="0" yds_40_pls="1" yds_50_pls="1"/>
+        <penalty num="3" yds="15" fd="0"/>
+        <first_downs num="15" pass="14" rush="0" pen="1"/>
+      </player>
+      <player id="c3f2ea91-98d6-4d37-b5bd-3c7ac07e5b24" name="Tyron Smith" games_played="10" games_started="10" jersey="77" position="T">
+        <penalty num="9" yds="56" fd="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="31450578-c69a-4fd0-a09e-49506b50baa0" name="Kenyon Coleman" games_played="7" games_started="5" jersey="99" position="DE">
+        <penalty num="1" yds="1" fd="1"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="1" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="14" ast="1" comb="15" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="1" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="db57c764-97b8-4f48-91ae-9698ca992e5f" name="Colin Cochart" games_played="0" games_started="0" jersey="87" position="TE">
+      </player>
+      <player id="4d1f4c44-3666-4014-95fc-4b0013b6d9a5" name="Chris Jones" games_played="4" games_started="0" jersey="6" position="P">
+        <punting punts="12" yds="542" net_yds="520" lg="60" blk="1" in20="6" tb="0" ret="6" avg="41.692" net_avg="40.0" ret_yds="22" avg_ret="3.667" in20_pct="50.0" tb_pct="0.0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="e38c9b1b-7c51-48a2-ac1d-a752502e8930" name="Jason Witten" games_played="10" games_started="10" jersey="82" position="TE">
+        <touchdowns pass="1" rush="0" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <receiving tar="96" rec="73" yds="636" yac="636" fd="35" avg="8.712" td="1" lg="35" rz_tar="10" fum="0" yds_10_pls="19" yds_20_pls="3" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="5" yds="35" fd="0"/>
+        <kick_return returns="1" yds="0" fc="0" lg="0" td="0" avg="0.0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <first_downs num="35" pass="35" rush="0" pen="0"/>
+      </player>
+      <player id="ad9a6262-7df3-41a8-9753-b89866f5cd0e" name="Barry Church" games_played="3" games_started="3" jersey="42" position="SAF">
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="1" opp_rec_yds="6" opp_rec_td="0"/>
+        <defense tackle="4" ast="1" comb="5" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="439874cf-4057-4a7b-922b-f77a90a5bba2" name="Sean Lee" games_played="6" games_started="6" jersey="50" position="LB">
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="1" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="40" ast="17" comb="57" tlost="2" sack="0.0" sack_yds="0.0" sfty="0" int="1" int_yds="0" int_lg="0" int_td="0" force_fum="1" fum_rec="0" fum_td="0" qh="0" pd="1" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="6fbd5f30-db84-4c38-98ea-69631bdbc53f" name="Bruce Carter" games_played="10" games_started="10" jersey="54" position="LB">
+        <penalty num="2" yds="20" fd="2"/>
+        <defense tackle="52" ast="9" comb="61" tlost="9" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="1" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="715a8a5c-7f1f-43ba-8d89-5a481735c85c" name="Phil Costa" games_played="3" games_started="3" jersey="67" position="C">
+      </player>
+      <player id="ef068d71-d18f-4b67-a7b4-71c416a14cba" name="Kyle Orton" games_played="1" games_started="0" jersey="18" position="QB">
+        <two_point_conversion att="1" pass="1" rush="0" rec="0" failed="0"/>
+        <passing att="10" cmp="9" yds="89" lg="21" sk="0" sk_yds="0.0" td="1" int="0" int_td="0" fd="6" sfty="0" rz_att="2" rating="137.08" avg="8.9" cmp_pct="90.0" cmp_avg="9.889" td_pct="10.0" int_pct="0.0" yds_10_pls="2" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+      </player>
+      <player id="e14a4c78-9a55-4d84-ab7c-d9c7121a6ae1" name="David Arkin" games_played="1" games_started="0" jersey="62" position="G">
+      </player>
+      <player id="c50caa8d-a858-46ad-b4af-9201753d2725" name="Gerald Sensabaugh" games_played="9" games_started="9" jersey="43" position="SAF">
+        <penalty num="1" yds="5" fd="0"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="1" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="27" ast="2" comb="29" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="1" fum_rec="0" fum_td="0" qh="0" pd="1" bk="0" sp_tackle="3" sp_ast="0" sp_comb="3" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="23893852-6ef4-48a9-99a0-c51f41670508" name="Brandon Carr" games_played="10" games_started="10" jersey="39" position="CB">
+        <touchdowns pass="0" rush="0" int="1" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <penalty num="2" yds="8" fd="2"/>
+        <defense tackle="30" ast="0" comb="30" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="1" int_yds="47" int_lg="47" int_td="1" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="3" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="cdbaf089-9c7e-418f-829e-d903c28b2628" name="Kyle Wilber" games_played="6" games_started="0" jersey="51" position="LB">
+        <defense tackle="1" ast="0" comb="1" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="e210223b-fd36-4cc2-a5e3-16578ea0d17d" name="Danny McCray" games_played="9" games_started="6" jersey="40" position="SAF">
+        <defense tackle="32" ast="8" comb="40" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="1" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="3" sp_ast="0" sp_comb="3" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="def531ce-9a29-4516-a1e4-5e6bdab53e97" name="Dan Connor" games_played="8" games_started="2" jersey="52" position="LB">
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="1" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="10" ast="5" comb="15" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="1" bk="0" sp_tackle="3" sp_ast="0" sp_comb="3" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="0d91e0a9-232f-4e27-b6a5-e7f7e1d3fc6c" name="Jermey Parnell" games_played="10" games_started="0" jersey="78" position="OT">
+        <penalty num="2" yds="15" fd="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="4cf9b18e-a467-4645-a89a-849f7330de24" name="Marcus Spears" games_played="9" games_started="1" jersey="96" position="DE">
+        <defense tackle="9" ast="6" comb="15" tlost="2" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="8720973c-9bde-4e66-a88e-66e933a99683" name="Mackenzy Bernadeau" games_played="10" games_started="10" jersey="73" position="G">
+        <penalty num="2" yds="20" fd="0"/>
+      </player>
+      <player id="814993fd-79c4-4c89-a4d6-d69be0f6d459" name="Lawrence Vickers" games_played="10" games_started="3" jersey="47" position="FB">
+        <rushing att="3" yds="11" avg="3.667" lg="13" td="0" fd="1" fd_pct="33.3" sfty="0" rz_att="0" fum="0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="7" rec="7" yds="49" yac="49" fd="5" avg="7.0" td="0" lg="17" rz_tar="0" fum="0" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="1" yds="10" fd="0"/>
+        <kick_return returns="1" yds="14" fc="0" lg="14" td="0" avg="14.0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <first_downs num="6" pass="5" rush="1" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="2" sp_ast="1" sp_comb="3" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="85a051d3-3f76-411d-a59e-82d04a971c3a" name="Orlando Scandrick" games_played="10" games_started="3" jersey="32" position="CB">
+        <penalty num="3" yds="25" fd="2"/>
+        <defense tackle="17" ast="3" comb="20" tlost="2" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="3" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="75f4e314-a25d-4833-b39e-02014853d7bb" name="Jason Hatcher" games_played="10" games_started="10" jersey="97" position="DT">
+        <touchdowns pass="0" rush="0" int="0" fum_ret="1" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <penalty num="4" yds="30" fd="1"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="1" opp_rec_yds="0" opp_rec_td="1"/>
+        <defense tackle="24" ast="4" comb="28" tlost="2" sack="2.0" sack_yds="12.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="1" qh="1" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="4db7ac7a-33fa-4c76-a56a-9c41e35db455" name="Caleb McSurdy" games_played="0" games_started="0" jersey="56" position="LB">
+      </player>
+      <player id="996974b8-2e0a-47d9-90a7-c3455192d06b" name="Andre Holmes" games_played="6" games_started="0" jersey="15" position="WR">
+        <receiving tar="1" rec="1" yds="7" yac="7" fd="1" avg="7.0" td="0" lg="7" rz_tar="0" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <first_downs num="1" pass="1" rush="0" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="2" sp_ast="0" sp_comb="2" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="dc632746-2240-41d6-8141-695194706989" name="Tyrone Crawford" games_played="10" games_started="0" jersey="70" position="DE">
+        <defense tackle="6" ast="1" comb="7" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="1" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="f5fa509a-fc67-4c74-be9f-cb9cc8815a6f" name="DeMarcus Ware" games_played="10" games_started="10" jersey="94" position="LB">
+        <penalty num="3" yds="15" fd="0"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="4" opp_rec="1" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="31" ast="12" comb="43" tlost="11" sack="10.0" sack_yds="59.5" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="4" fum_rec="1" fum_td="0" qh="1" pd="1" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="d688ad2a-0c21-4749-99c6-4e6da588e6a8" name="James Hanna" games_played="10" games_started="1" jersey="84" position="TE">
+        <receiving tar="2" rec="1" yds="10" yac="10" fd="1" avg="10.0" td="0" lg="10" rz_tar="1" fum="0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <kick_return returns="1" yds="0" fc="0" lg="0" td="0" avg="0.0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <first_downs num="1" pass="1" rush="0" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="3" sp_ast="0" sp_comb="3" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="b3eadf6a-2c55-4b53-b5be-74fdb6700627" name="Doug Free" games_played="10" games_started="10" jersey="68" position="OT">
+        <penalty num="10" yds="65" fd="0"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="1" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="1"/>
+      </player>
+      <player id="acf68a6a-3439-4ad6-8937-2562f4eba62b" name="Miles Austin" games_played="10" games_started="9" jersey="19" position="WR">
+        <touchdowns pass="4" rush="0" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <receiving tar="83" rec="49" yds="727" yac="728" fd="35" avg="14.837" td="4" lg="49" rz_tar="9" fum="1" yds_10_pls="23" yds_20_pls="9" yds_30_pls="2" yds_40_pls="1" yds_50_pls="0"/>
+        <fumbles fum="1" lost="1" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="35" pass="35" rush="0" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="2" misc_ast="0" misc_comb="2" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="0f1c72eb-d0ca-4c33-86ec-a4890935364d" name="Ernie Sims" games_played="4" games_started="2" jersey="59" position="LB">
+        <defense tackle="14" ast="2" comb="16" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="f0085214-6339-4843-a6c9-8ae118422284" name="Felix Jones" games_played="10" games_started="6" jersey="28" position="RB">
+        <touchdowns pass="1" rush="3" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <rushing att="88" yds="321" avg="3.648" lg="22" td="3" fd="21" fd_pct="23.9" sfty="0" rz_att="8" fum="1" yds_10_pls="6" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="30" rec="22" yds="215" yac="215" fd="8" avg="9.773" td="1" lg="39" rz_tar="1" fum="0" yds_10_pls="7" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="1" yds="15" fd="0"/>
+        <kick_return returns="11" yds="236" fc="0" lg="29" td="0" avg="21.455" yds_10_pls="4" yds_20_pls="7" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <fumbles fum="2" lost="2" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="31" pass="8" rush="20" pen="3"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="c32d8200-2b85-4638-8db3-9a52fb86b207" name="Tony Romo" games_played="10" games_started="10" jersey="9" position="QB">
+        <two_point_conversion att="1" pass="0" rush="0" rec="0" failed="1"/>
+        <touchdowns pass="0" rush="1" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <rushing att="20" yds="32" avg="1.6" lg="10" td="1" fd="5" fd_pct="25.0" sfty="0" rz_att="3" fum="0" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="1" rec="1" yds="-1" yac="-1" fd="0" avg="-1.0" td="0" lg="-1" rz_tar="1" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="4" yds="20" fd="0"/>
+        <passing att="394" cmp="265" yds="2916" lg="65" sk="24" sk_yds="162.0" td="13" int="13" int_td="3" fd="139" sfty="0" rz_att="49" rating="86.25" avg="7.401" cmp_pct="67.3" cmp_avg="11.004" td_pct="3.3" int_pct="3.3" yds_10_pls="87" yds_20_pls="18" yds_30_pls="8" yds_40_pls="3" yds_50_pls="2"/>
+        <fumbles fum="5" lost="3" oob="0" own_rec="2" own_rec_yds="-7" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="20" pass="0" rush="4" pen="16"/>
+        <defense tackle="0" ast="0" comb="0" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="2"/>
+      </player>
+      <player id="e0d47951-fea7-4f2a-a936-f4d758ea6b83" name="Morris Claiborne" games_played="10" games_started="10" jersey="24" position="CB">
+        <penalty num="6" yds="50" fd="4"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="1" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="29" ast="2" comb="31" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="1" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="0" qh="0" pd="2" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="beb64618-614c-49f7-a3aa-c0c75b7839ea" name="Dan Bailey" games_played="10" games_started="0" jersey="5" position="K">
+        <kickoffs kicks="50" yds="3002" net_yds="2020" lg="74" endzone="34" in20="11" tb="15" ret="31" avg="60.04" net_avg="40.4" ret_yds="982" avg_ret="31.677" in20_pct="22.0" tb_pct="30.0"/>
+        <field_goal att="21" made="19" pct="90.5" lg="51" att_19="1" made_19="1" att_29="4" made_29="4" att_39="9" made_39="9" att_49="4" made_49="4" att_50="3" made_50="1"/>
+        <extra_point att="20" made="20" pct="100.0" blk="0"/>
+      </player>
+      <player id="7d2f7624-2876-4e64-b29c-005fa1e08232" name="Mana Silva" games_played="3" games_started="0" jersey="30" position="SAF">
+        <penalty num="1" yds="10" fd="1"/>
+        <defense tackle="1" ast="0" comb="1" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="0" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="2c3874aa-2fdd-4b2f-89ba-cd0ce8472754" name="Orie Lemon" games_played="5" games_started="0" jersey="58" position="LB">
+        <penalty num="1" yds="10" fd="0"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="1" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="2" ast="1" comb="3" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="1" sp_ast="1" sp_comb="2" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="659e5aea-8030-42ab-a41c-fa07fcda8440" name="Jay Ratliff" games_played="6" games_started="6" jersey="90" position="DT">
+        <penalty num="2" yds="20" fd="2"/>
+        <defense tackle="11" ast="5" comb="16" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="2" pd="1" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="e2bcd797-862d-4c38-abc3-267fc4d555e2" name="Phillip Tanner" games_played="10" games_started="0" jersey="34" position="RB">
+        <rushing att="25" yds="61" avg="2.44" lg="9" td="0" fd="4" fd_pct="16.0" sfty="0" rz_att="8" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="5" rec="4" yds="41" yac="41" fd="3" avg="10.25" td="0" lg="15" rz_tar="0" fum="0" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <penalty num="1" yds="10" fd="0"/>
+        <first_downs num="7" pass="3" rush="3" pen="1"/>
+        <defense tackle="0" ast="0" comb="0" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="5" sp_ast="2" sp_comb="7" sp_force_fum="0" sp_fum_rec="0" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="c25e9222-b7be-4ab9-ab3c-81fa72897e7c" name="Victor Butler" games_played="9" games_started="2" jersey="57" position="LB">
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="1" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="15" ast="1" comb="16" tlost="2" sack="2.0" sack_yds="14.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="0" qh="1" pd="1" bk="0" sp_tackle="0" sp_ast="1" sp_comb="1" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="8a312628-d9dc-4de0-a1ac-1ac8cdf87131" name="Stephen McGee" games_played="0" games_started="0" jersey="7" position="QB">
+      </player>
+      <player id="23bb4d19-b9a1-4766-b13d-3d38fff777bd" name="LeQuan Lewis" games_played="3" games_started="0" jersey="30" position="CB">
+        <defense tackle="1" ast="0" comb="1" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="1" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="bd2376bf-500e-4cac-a256-11b5448ce7c2" name="Gary Guyton" games_played="0" games_started="0" jersey="98" position="LB">
+      </player>
+      <player id="9f0f0495-b5b8-45c2-866b-02d9f96087f7" name="Lance Dunbar" games_played="6" games_started="0" jersey="25" position="RB">
+        <rushing att="20" yds="67" avg="3.35" lg="18" td="0" fd="5" fd_pct="25.0" sfty="0" rz_att="2" fum="0" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <receiving tar="5" rec="2" yds="6" yac="6" fd="1" avg="3.0" td="0" lg="6" rz_tar="1" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <kick_return returns="10" yds="232" fc="0" lg="44" td="0" avg="23.2" yds_10_pls="4" yds_20_pls="4" yds_30_pls="1" yds_40_pls="1" yds_50_pls="0"/>
+        <fumbles fum="1" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="6" pass="1" rush="5" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="7" sp_ast="0" sp_comb="7" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="70a54b5f-a78f-4e3f-a482-0536ff978571" name="Sean Lissemore" games_played="5" games_started="2" jersey="95" position="DE">
+        <penalty num="1" yds="15" fd="1"/>
+        <defense tackle="17" ast="3" comb="20" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="1" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="b84fb536-9705-45a9-b652-92a33578ac48" name="Dez Bryant" games_played="10" games_started="9" jersey="88" position="WR">
+        <two_point_conversion att="0" pass="0" rush="0" rec="1" failed="0"/>
+        <touchdowns pass="4" rush="0" int="0" fum_ret="0" punt_ret="0" kick_ret="0" fg_ret="0" other="0"/>
+        <receiving tar="87" rec="57" yds="735" yac="735" fd="32" avg="12.895" td="4" lg="55" rz_tar="9" fum="1" yds_10_pls="20" yds_20_pls="3" yds_30_pls="4" yds_40_pls="1" yds_50_pls="1"/>
+        <punt_return returns="12" yds="65" fc="2" lg="44" td="0" avg="5.417" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0"/>
+        <penalty num="4" yds="30" fd="1"/>
+        <fumbles fum="4" lost="1" oob="0" own_rec="2" own_rec_yds="0" own_rec_td="0" force_fum="0" opp_rec="0" opp_rec_yds="0" opp_rec_td="0"/>
+        <first_downs num="32" pass="32" rush="0" pen="0"/>
+        <defense tackle="0" ast="0" comb="0" tlost="1" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="1" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="1" misc_tackle="1" misc_ast="0" misc_comb="1" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="d3b0253a-b4ff-4d4f-aa82-38c6b368e30b" name="Josh Price-Brent" games_played="10" games_started="3" jersey="92" position="DT">
+        <penalty num="2" yds="13" fd="1"/>
+        <defense tackle="12" ast="4" comb="16" tlost="1" sack="1.5" sack_yds="7.5" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="00af4c0c-f627-4033-908b-19e56bf792c1" name="Ben Bass" games_played="1" games_started="0" jersey="79" position="DE">
+        <defense tackle="0" ast="1" comb="1" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="e73ca5b4-2138-4d34-a9de-fd94c733e740" name="Charlie Peprah" games_played="2" games_started="1" jersey="26" position="SAF">
+        <defense tackle="1" ast="1" comb="2" tlost="0" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="2" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="552cb977-8c04-4f20-b618-ddeb9ba9ad11" name="Mario Butler" games_played="2" games_started="0" jersey="31" position="DB">
+      </player>
+      <player id="6371b8a8-a1cf-4ff4-b900-0203bbf004e0" name="Alex Albright" games_played="8" games_started="0" jersey="55" position="LB">
+        <penalty num="1" yds="10" fd="0"/>
+        <defense tackle="4" ast="0" comb="4" tlost="2" sack="0.0" sack_yds="0.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="0" fum_rec="0" fum_td="0" qh="0" pd="0" bk="0" sp_tackle="3" sp_ast="1" sp_comb="4" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="4f27ba8d-0702-4e8d-9345-2118fd2f7824" name="Derrick Dockery" games_played="9" games_started="1" jersey="76" position="G">
+        <penalty num="1" yds="7" fd="0"/>
+      </player>
+      <player id="65859588-5da0-4df0-a339-6adf83287078" name="Anthony Spencer" games_played="8" games_started="8" jersey="93" position="LB">
+        <penalty num="3" yds="25" fd="1"/>
+        <fumbles fum="0" lost="0" oob="0" own_rec="0" own_rec_yds="0" own_rec_td="0" force_fum="2" opp_rec="1" opp_rec_yds="0" opp_rec_td="0"/>
+        <defense tackle="34" ast="13" comb="47" tlost="8" sack="4.5" sack_yds="42.0" sfty="0" int="0" int_yds="0" int_lg="0" int_td="0" force_fum="2" fum_rec="1" fum_td="0" qh="1" pd="0" bk="0" sp_tackle="0" sp_ast="0" sp_comb="0" sp_force_fum="0" sp_fum_rec="0" misc_tackle="0" misc_ast="0" misc_comb="0" misc_force_fum="0" misc_fum_rec="0"/>
+      </player>
+      <player id="7092bb09-a161-4ab9-8d19-fdcf1a91bb3d" name="Cole Beasley" games_played="6" games_started="0" jersey="11" position="WR">
+        <receiving tar="6" rec="5" yds="33" yac="33" fd="1" avg="6.6" td="0" lg="8" rz_tar="2" fum="0" yds_10_pls="0" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0"/>
+        <first_downs num="1" pass="1" rush="0" pen="0"/>
+      </player>
+    </players>
+  </team>
+</season>

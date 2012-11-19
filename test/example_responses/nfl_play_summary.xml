@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generation started at Thu Sep 06 00:42:24 +0000 2012 -->
+<play xmlns="http://feed.elasticstats.com/schema/nfl/extended-play-v1.0.xsd" id="fdec3736-3598-4cde-ad4c-7270afc6d4e7" game="8c0bce5a-7ca2-41e5-9838-d1b8c356ddc3" type="kick" official="true" clock="15:00" quarter="1" controller="DAL" updated="2012-09-06T00:42:24+00:00">
+  <summary>5-D.Bailey kicks 69 yards from DAL 35. 22-D.Wilson to NYG 16 for 20 yards (15-A.Holmes).</summary>
+  <start_situation team="DAL" side="DAL" yard_line="35"/>
+  <end_situation team="NYG" side="NYG" yard_line="16" down="1" yfd="10"/>
+  <statistics>
+    <player id="a230a959-4fba-43cd-92a0-6552766c2bbf" name="David Wilson" jersey="22" position="RB" team="NYG">
+      <kick_return returns="1" yds="20" fc="0" td="0"/>
+    </player>
+    <player id="beb64618-614c-49f7-a3aa-c0c75b7839ea" name="Dan Bailey" jersey="5" position="K" team="DAL">
+      <kickoffs kicks="1" yds="69" net_yds="49" endzone="1" in20="1" tb="0" ret="1"/>
+    </player>
+    <player id="996974b8-2e0a-47d9-90a7-c3455192d06b" name="Andre Holmes" jersey="15" position="WR" team="DAL">
+      <defense tackle="1" ast="0" category="special_team" tlost="0" sack="0" sack_yds="0.0" sfty="0" int="0" force_fum="0"/>
+    </player>
+  </statistics>
+</play>
+<!-- Generation finished at Thu Sep 06 00:42:25 +0000 2012 -->

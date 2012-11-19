@@ -1,0 +1,312 @@
+<?xml version="1.0"?>
+<leaders season="2012" type="REG" week="1" xmlns="http://feed.elasticstats.com/schema/nfl/statistics-v1.0.xsd"><!--Generation started at Thu Oct 18 21:04:49 +0000 2012-->  <passing>
+    <player att="48" avg="7.396" cmp="32" cmp_avg="11.094" cmp_pct="66.7" fd="23" id="ade43b1a-0601-4672-83b6-d246bc066a19" int="3" int_pct="6.3" int_td="1" jersey="9" lg="51" name="Matthew Stafford" position="QB" rating="69.23" rz_att="8" sfty="0" sk="1" sk_yds="9.0" td="1" td_pct="2.1" yds="355" yds_10_pls="7" yds_20_pls="5" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="DET" market="Detroit" name="Lions"/>
+    </player>
+    <player att="52" avg="6.519" cmp="24" cmp_avg="14.125" cmp_pct="46.2" fd="18" id="bb5957e6-ce7d-47ab-8036-22191ffc1c44" int="2" int_pct="3.8" int_td="0" jersey="9" lg="33" name="Drew Brees" position="QB" rating="71.25" rz_att="8" sfty="0" sk="2" sk_yds="13.0" td="3" td_pct="5.8" yds="339" yds_10_pls="11" yds_20_pls="5" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="NO" market="New Orleans" name="Saints"/>
+    </player>
+    <player att="35" avg="9.514" cmp="21" cmp_avg="15.857" cmp_pct="60.0" fd="15" id="ecd3bc0f-04dd-4945-9454-3fc4722fa5a8" int="1" int_pct="2.9" int_td="1" jersey="6" lg="42" name="Jay Cutler" position="QB" rating="98.64" rz_att="4" sfty="0" sk="2" sk_yds="19.0" td="2" td_pct="5.7" yds="333" yds_10_pls="8" yds_20_pls="5" yds_30_pls="1" yds_40_pls="1" yds_50_pls="0">
+      <team id="CHI" market="Chicago" name="Bears"/>
+    </player>
+    <player att="26" avg="12.308" cmp="19" cmp_avg="16.842" cmp_pct="73.1" fd="13" id="8dfb370d-460c-4bfc-9d62-888687248783" int="0" int_pct="0.0" int_td="0" jersey="10" lg="88" name="Robert Griffin III" position="QB" rating="139.95" rz_att="5" sfty="0" sk="2" sk_yds="14.0" td="2" td_pct="7.7" yds="320" yds_10_pls="4" yds_20_pls="6" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="WAS" market="Washington" name="Redskins"/>
+    </player>
+    <player att="56" avg="5.661" cmp="29" cmp_avg="10.931" cmp_pct="51.8" fd="14" id="b797d6fa-1520-4b3d-a212-157afd4a3bd0" int="4" int_pct="7.1" int_td="1" jersey="7" lg="46" name="Michael Vick" position="QB" rating="51.25" rz_att="3" sfty="0" sk="2" sk_yds="11.0" td="2" td_pct="3.6" yds="317" yds_10_pls="10" yds_20_pls="1" yds_30_pls="1" yds_40_pls="1" yds_50_pls="0">
+      <team id="PHI" market="Philadelphia" name="Eagles"/>
+    </player>
+    <player att="45" avg="6.867" cmp="23" cmp_avg="13.435" cmp_pct="51.1" fd="16" id="e3181493-6a2a-4e95-aa6f-3fc1ddeb7512" int="3" int_pct="6.7" int_td="0" jersey="12" lg="26" name="Andrew Luck" position="QB" rating="52.7" rz_att="7" sfty="0" sk="3" sk_yds="16.0" td="1" td_pct="2.2" yds="309" yds_10_pls="7" yds_20_pls="7" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="IND" market="Indianapolis" name="Colts"/>
+    </player>
+    <player att="29" avg="10.586" cmp="22" cmp_avg="13.955" cmp_pct="75.9" fd="12" id="c32d8200-2b85-4638-8db3-9a52fb86b207" int="1" int_pct="3.4" int_td="0" jersey="9" lg="40" name="Tony Romo" position="QB" rating="129.61" rz_att="4" sfty="0" sk="2" sk_yds="17.0" td="3" td_pct="10.3" yds="307" yds_10_pls="9" yds_20_pls="1" yds_30_pls="2" yds_40_pls="1" yds_50_pls="0">
+      <team id="DAL" market="Dallas" name="Cowboys"/>
+    </player>
+    <player att="44" avg="6.886" cmp="30" cmp_avg="10.1" cmp_pct="68.2" fd="17" id="0ce48193-e2fa-466e-a986-33f751add206" int="1" int_pct="2.3" int_td="0" jersey="12" lg="49" name="Aaron Rodgers" position="QB" rating="93.03" rz_att="3" sfty="0" sk="3" sk_yds="24.0" td="2" td_pct="4.5" yds="303" yds_10_pls="10" yds_20_pls="1" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0">
+      <team id="GB" market="Green Bay" name="Packers"/>
+    </player>
+    <player att="33" avg="9.182" cmp="23" cmp_avg="13.174" cmp_pct="69.7" fd="14" id="214e55e4-a089-412d-9598-a16495df0d25" int="2" int_pct="6.1" int_td="0" jersey="1" lg="51" name="Cam Newton" position="QB" rating="83.01" rz_att="3" sfty="0" sk="3" sk_yds="12.0" td="1" td_pct="3.0" yds="303" yds_10_pls="6" yds_20_pls="4" yds_30_pls="2" yds_40_pls="0" yds_50_pls="1">
+      <team id="CAR" market="Carolina" name="Panthers"/>
+    </player>
+    <player att="29" avg="10.31" cmp="21" cmp_avg="14.238" cmp_pct="72.4" fd="14" id="64797df2-efd3-4b27-86ee-1d48f7edb09f" int="0" int_pct="0.0" int_td="0" jersey="5" lg="52" name="Joe Flacco" position="QB" rating="128.38" rz_att="4" sfty="0" sk="3" sk_yds="21.0" td="2" td_pct="6.9" yds="299" yds_10_pls="8" yds_20_pls="3" yds_30_pls="1" yds_40_pls="0" yds_50_pls="1">
+      <team id="BAL" market="Baltimore" name="Ravens"/>
+    </player>
+    <player att="31" avg="9.645" cmp="23" cmp_avg="13.0" cmp_pct="74.2" fd="17" id="7e648a0b-fdc8-4661-a587-5826f2cac11b" int="0" int_pct="0.0" int_td="0" jersey="2" lg="31" name="Matt Ryan" position="QB" rating="136.44" rz_att="10" sfty="0" sk="1" sk_yds="7.0" td="3" td_pct="9.7" yds="299" yds_10_pls="8" yds_20_pls="3" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="ATL" market="Atlanta" name="Falcons"/>
+    </player>
+    <player att="46" avg="6.457" cmp="32" cmp_avg="9.281" cmp_pct="69.6" fd="15" id="57ad34b3-f60d-4b2d-9e01-3cb5a9451c37" int="0" int_pct="0.0" int_td="0" jersey="3" lg="26" name="Carson Palmer" position="QB" rating="94.32" rz_att="5" sfty="0" sk="3" sk_yds="21.0" td="1" td_pct="2.2" yds="297" yds_10_pls="11" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="OAK" market="Oakland" name="Raiders"/>
+    </player>
+    <player att="27" avg="10.0" cmp="20" cmp_avg="13.5" cmp_pct="74.1" fd="14" id="3467ae3e-4ddf-450d-8f36-b741ea3a2564" int="0" int_pct="0.0" int_td="0" jersey="7" lg="29" name="Christian Ponder" position="QB" rating="105.5" rz_att="4" sfty="0" sk="2" sk_yds="4.0" td="0" td_pct="0.0" yds="270" yds_10_pls="11" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="MIN" market="Minnesota" name="Vikings"/>
+    </player>
+    <player att="31" avg="8.581" cmp="20" cmp_avg="13.3" cmp_pct="64.5" fd="15" id="1f09583f-dcc1-43e8-a7fc-f063d2c96508" int="0" int_pct="0.0" int_td="0" jersey="8" lg="29" name="Matt Schaub" position="QB" rating="102.25" rz_att="4" sfty="0" sk="2" sk_yds="12.0" td="1" td_pct="3.2" yds="266" yds_10_pls="8" yds_20_pls="5" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player att="27" avg="9.852" cmp="19" cmp_avg="14.0" cmp_pct="70.4" fd="15" id="e6c40f79-1bbd-4f62-9391-7f535f110c0d" int="1" int_pct="3.7" int_td="0" jersey="6" lg="33" name="Mark Sanchez" position="QB" rating="123.38" rz_att="4" sfty="0" sk="0" sk_yds="0.0" td="3" td_pct="11.1" yds="266" yds_10_pls="7" yds_20_pls="3" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="NYJ" market="New York" name="Jets"/>
+    </player>
+    <player att="39" avg="6.667" cmp="23" cmp_avg="11.304" cmp_pct="59.0" fd="13" id="de816e24-8442-49a4-99cd-dde7e7c05863" int="0" int_pct="0.0" int_td="0" jersey="11" lg="39" name="Blaine Gabbert" position="QB" rating="96.03" rz_att="3" sfty="0" sk="2" sk_yds="18.0" td="2" td_pct="5.1" yds="260" yds_10_pls="6" yds_20_pls="2" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="JAC" market="Jacksonville" name="Jaguars"/>
+    </player>
+    <player att="33" avg="7.818" cmp="21" cmp_avg="12.286" cmp_pct="63.6" fd="13" id="8263e101-aa33-435f-bf0f-388e1c4eeb59" int="2" int_pct="6.1" int_td="0" jersey="7" lg="24" name="Matt Cassel" position="QB" rating="72.24" rz_att="3" sfty="0" sk="3" sk_yds="17.0" td="1" td_pct="3.0" yds="258" yds_10_pls="6" yds_20_pls="5" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="KC" market="Kansas City" name="Chiefs"/>
+    </player>
+    <player att="26" avg="9.731" cmp="19" cmp_avg="13.316" cmp_pct="73.1" fd="11" id="aae6d92e-5f28-43ee-b0dc-522e80e99f76" int="0" int_pct="0.0" int_td="0" jersey="18" lg="71" name="Peyton Manning" position="QB" rating="129.21" rz_att="4" sfty="0" sk="2" sk_yds="13.0" td="2" td_pct="7.7" yds="253" yds_10_pls="6" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="DEN" market="Denver" name="Broncos"/>
+    </player>
+    <player att="40" avg="6.125" cmp="22" cmp_avg="11.136" cmp_pct="55.0" fd="15" id="ea357add-1a41-4a8b-8f34-bbfade7f4d98" int="1" int_pct="2.5" int_td="1" jersey="7" lg="27" name="Ben Roethlisberger" position="QB" rating="79.69" rz_att="10" sfty="0" sk="5" sk_yds="36.0" td="2" td_pct="5.0" yds="245" yds_10_pls="10" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="PIT" market="Pittsburgh" name="Steelers"/>
+    </player>
+    <player att="31" avg="7.613" cmp="23" cmp_avg="10.261" cmp_pct="74.2" fd="12" id="41c44740-d0f6-44ab-8347-3b5d515e5ecf" int="0" int_pct="0.0" int_td="0" jersey="12" lg="28" name="Tom Brady" position="QB" rating="117.3" rz_att="3" sfty="0" sk="1" sk_yds="8.0" td="2" td_pct="6.5" yds="236" yds_10_pls="3" yds_20_pls="4" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="NE" market="New England" name="Patriots"/>
+    </player>
+  </passing>
+  <rushing>
+    <player att="14" avg="12.071" fd="5" fd_pct="35.7" fum="0" id="64d9a11b-2d05-4173-ac72-4f9e63fb4aa6" jersey="28" lg="56" name="C.J. Spiller" position="RB" rz_att="1" sfty="0" td="1" yds="169" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="1">
+      <team id="BUF" market="Buffalo" name="Bills"/>
+    </player>
+    <player att="20" avg="6.55" fd="4" fd_pct="20.0" fum="0" id="478ae115-d220-424e-af45-56137f163d3a" jersey="29" lg="48" name="DeMarco Murray" position="RB" rz_att="1" sfty="0" td="0" yds="131" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0">
+      <team id="DAL" market="Dallas" name="Cowboys"/>
+    </player>
+    <player att="21" avg="5.952" fd="10" fd_pct="47.6" fum="0" id="170b4c5f-a345-4899-8d81-e8982b0f3d65" jersey="22" lg="17" name="Stevan Ridley" position="RB" rz_att="5" sfty="0" td="1" yds="125" yds_10_pls="6" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="NE" market="New England" name="Patriots"/>
+    </player>
+    <player att="16" avg="7.0" fd="4" fd_pct="25.0" fum="0" id="6a2b129d-a9e5-4131-b491-82269b323f77" jersey="21" lg="23" name="Frank Gore" position="RB" rz_att="0" sfty="0" td="1" yds="112" yds_10_pls="2" yds_20_pls="2" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="SF" market="San Francisco" name="49ers"/>
+    </player>
+    <player att="20" avg="5.5" fd="9" fd_pct="45.0" fum="1" id="166292fc-629e-4c7b-b7bf-f572ca9eeb43" jersey="25" lg="22" name="LeSean McCoy" position="RB" rz_att="0" sfty="0" td="0" yds="110" yds_10_pls="3" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="PHI" market="Philadelphia" name="Eagles"/>
+    </player>
+    <player att="28" avg="3.429" fd="5" fd_pct="17.9" fum="0" id="bd10efdf-d8e7-4e23-ab1a-1e42fb65131b" jersey="46" lg="18" name="Alfred Morris " position="RB" rz_att="4" sfty="0" td="2" yds="96" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="WAS" market="Washington" name="Redskins"/>
+    </player>
+    <player att="24" avg="3.958" fd="4" fd_pct="16.7" fum="0" id="5c2a0c83-e18a-43dd-bd65-704771157e42" jersey="22" lg="15" name="Doug Martin" position="RB" rz_att="6" sfty="0" td="0" yds="95" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="TB" market="Tampa Bay" name="Buccaneers"/>
+    </player>
+    <player att="27" avg="3.481" fd="4" fd_pct="14.8" fum="2" id="f3a2dfe6-3a57-45bc-afed-1c1881946ea4" jersey="23" lg="14" name="Shonn Greene" position="RB" rz_att="6" sfty="0" td="1" yds="94" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="NYJ" market="New York" name="Jets"/>
+    </player>
+    <player att="18" avg="5.056" fd="7" fd_pct="38.9" fum="0" id="7f73e63f-6875-4883-9113-baee8fb7bd5c" jersey="42" lg="14" name="BenJarvus Green-Ellis" position="RB" rz_att="3" sfty="0" td="1" yds="91" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="CIN" market="Cincinnati" name="Bengals"/>
+    </player>
+    <player att="16" avg="5.438" fd="4" fd_pct="25.0" fum="0" id="aca06a5e-0e3a-4285-a025-199f8fa0376f" jersey="25" lg="46" name="Jamaal Charles" position="RB" rz_att="2" sfty="0" td="0" yds="87" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0">
+      <team id="KC" market="Kansas City" name="Chiefs"/>
+    </player>
+    <player att="21" avg="4.048" fd="3" fd_pct="14.3" fum="1" id="82bce0be-9a87-4b6d-a85b-623bf8d1674e" jersey="24" lg="11" name="Marshawn Lynch" position="RB" rz_att="3" sfty="0" td="0" yds="85" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="SEA" market="Seattle" name="Seahawks"/>
+    </player>
+    <player att="17" avg="4.941" fd="5" fd_pct="29.4" fum="0" id="ab58c0ac-a747-47e6-9b3c-505e41d2bd3d" jersey="28" lg="20" name="Adrian Peterson" position="RB" rz_att="4" sfty="0" td="2" yds="84" yds_10_pls="2" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="MIN" market="Minnesota" name="Vikings"/>
+    </player>
+    <player att="16" avg="5.0" fd="4" fd_pct="25.0" fum="0" id="a4970b66-6eea-4d9a-9f96-15b528161b57" jersey="22" lg="32" name="Matt Forte" position="RB" rz_att="3" sfty="0" td="1" yds="80" yds_10_pls="1" yds_20_pls="0" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="CHI" market="Chicago" name="Bears"/>
+    </player>
+    <player att="26" avg="3.038" fd="2" fd_pct="7.7" fum="0" id="d89d2aef-c383-4ddf-bed8-3761aed35b10" jersey="23" lg="14" name="Arian Foster" position="RB" rz_att="6" sfty="0" td="2" yds="79" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player att="17" avg="4.588" fd="3" fd_pct="17.6" fum="0" id="8f22eb36-5282-407a-b6f9-f9b62e5f7318" jersey="44" lg="33" name="Ahmad Bradshaw" position="RB" rz_att="4" sfty="0" td="1" yds="78" yds_10_pls="1" yds_20_pls="0" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="NYG" market="New York" name="Giants"/>
+    </player>
+    <player att="19" avg="4.053" fd="4" fd_pct="21.1" fum="0" id="f20d4a79-b8ca-4922-b276-29f46985bb3b" jersey="32" lg="11" name="Maurice Jones-Drew" position="RB" rz_att="2" sfty="0" td="0" yds="77" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="JAC" market="Jacksonville" name="Jaguars"/>
+    </player>
+    <player att="14" avg="4.929" fd="5" fd_pct="35.7" fum="1" id="0acdcd3b-5442-4311-a139-ae7c506faf88" jersey="22" lg="13" name="Reggie Bush" position="RB" rz_att="1" sfty="0" td="0" yds="69" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="MIA" market="Miami" name="Dolphins"/>
+    </player>
+    <player att="10" avg="6.8" fd="5" fd_pct="50.0" fum="0" id="712617bb-3379-46e9-86c6-af1c098e0a72" jersey="27" lg="16" name="Ray Rice" position="RB" rz_att="2" sfty="0" td="2" yds="68" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="BAL" market="Baltimore" name="Ravens"/>
+    </player>
+    <player att="16" avg="4.0" fd="3" fd_pct="18.8" fum="1" id="9d310afd-c478-48d7-a669-4171b055aaac" jersey="23" lg="12" name="Willis McGahee" position="RB" rz_att="2" sfty="0" td="0" yds="64" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="DEN" market="Denver" name="Broncos"/>
+    </player>
+    <player att="13" avg="4.769" fd="3" fd_pct="23.1" fum="0" id="0f95943d-95a9-40a9-aa0c-9648bd8f7a62" jersey="30" lg="19" name="Kevin Smith" position="RB" rz_att="2" sfty="0" td="1" yds="62" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="DET" market="Detroit" name="Lions"/>
+    </player>
+  </rushing>
+  <receiving>
+    <player avg="15.0" fd="7" fum="0" id="94fc7e6c-8c37-4713-abef-68154ac41d06" jersey="87" lg="23" name="Reggie Wayne" position="WR" rec="9" rz_tar="3" tar="18" td="0" yac="135" yds="135" yds_10_pls="3" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="IND" market="Indianapolis" name="Colts"/>
+    </player>
+    <player avg="20.0" fd="6" fum="0" id="65ec05af-e851-4988-86f4-62c4f775a1a3" jersey="16" lg="33" name="Lance Moore" position="WR" rec="6" rz_tar="0" tar="10" td="1" yac="120" yds="120" yds_10_pls="4" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="NO" market="New Orleans" name="Saints"/>
+    </player>
+    <player avg="13.222" fd="6" fum="0" id="bbca096b-fd15-498a-86c2-feb44737363f" jersey="15" lg="24" name="Brandon Marshall" position="WR" rec="9" rz_tar="2" tar="15" td="1" yac="119" yds="119" yds_10_pls="4" yds_20_pls="2" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="CHI" market="Chicago" name="Bears"/>
+    </player>
+    <player avg="14.875" fd="8" fum="0" id="848b34eb-1ca8-435c-a805-957aa71d4883" jersey="80" lg="29" name="Andre Johnson" position="WR" rec="8" rz_tar="1" tar="10" td="1" yac="119" yds="119" yds_10_pls="5" yds_20_pls="2" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player avg="14.25" fd="5" fum="0" id="5649ae74-aac1-433f-8f0f-ea812a285fac" jersey="85" lg="40" name="Kevin Ogletree" position="WR" rec="8" rz_tar="3" tar="11" td="2" yac="114" yds="114" yds_10_pls="4" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0">
+      <team id="DAL" market="Dallas" name="Cowboys"/>
+    </player>
+    <player avg="18.5" fd="6" fum="0" id="2c56748d-6e13-495c-bec2-de67a8683fa0" jersey="81" lg="51" name="Calvin Johnson" position="WR" rec="6" rz_tar="1" tar="7" td="0" yac="111" yds="111" yds_10_pls="2" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="DET" market="Detroit" name="Lions"/>
+    </player>
+    <player avg="22.0" fd="3" fum="0" id="6e444737-a1e1-4ddd-b963-cd6a9496fde0" jersey="88" lg="71" name="Demaryius Thomas" position="WR" rec="5" rz_tar="0" tar="7" td="1" yac="110" yds="110" yds_10_pls="0" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="DEN" market="Denver" name="Broncos"/>
+    </player>
+    <player avg="27.25" fd="2" fum="0" id="a824d9ff-12a4-4ed2-812d-404b0b4e52f9" jersey="88" lg="88" name="Pierre Garcon" position="WR" rec="4" rz_tar="0" tar="4" td="1" yac="109" yds="109" yds_10_pls="1" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="1">
+      <team id="WAS" market="Washington" name="Redskins"/>
+    </player>
+    <player avg="18.0" fd="6" fum="0" id="0b3217b9-ba37-4222-95cb-a7a222441e8b" jersey="11" lg="31" name="Julio Jones" position="WR" rec="6" rz_tar="3" tar="9" td="2" yac="108" yds="108" yds_10_pls="3" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="ATL" market="Atlanta" name="Falcons"/>
+    </player>
+    <player avg="15.143" fd="5" fum="0" id="a69419b7-3cdc-48b9-b3a3-c50f2bf4e6f1" jersey="89" lg="32" name="Steve Smith" position="WR" rec="7" rz_tar="2" tar="10" td="0" yac="106" yds="106" yds_10_pls="2" yds_20_pls="0" yds_30_pls="2" yds_40_pls="0" yds_50_pls="0">
+      <team id="CAR" market="Carolina" name="Panthers"/>
+    </player>
+    <player avg="13.714" fd="3" fum="0" id="5f05de83-f15d-42f1-8271-284ca54f63de" jersey="18" lg="46" name="Jeremy Maclin" position="WR" rec="7" rz_tar="2" tar="14" td="1" yac="96" yds="96" yds_10_pls="2" yds_20_pls="0" yds_30_pls="0" yds_40_pls="1" yds_50_pls="0">
+      <team id="PHI" market="Philadelphia" name="Eagles"/>
+    </player>
+    <player avg="17.8" fd="5" fum="0" id="512c64d9-c14a-404a-bd33-7f9a90e53d9a" jersey="84" lg="33" name="Stephen Hill" position="WR" rec="5" rz_tar="1" tar="6" td="2" yac="84" yds="89" yds_10_pls="1" yds_20_pls="1" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="NYJ" market="New York" name="Jets"/>
+    </player>
+    <player avg="14.5" fd="5" fum="0" id="51e470b5-73ea-49b2-ae83-c26256a30812" jersey="84" lg="26" name="Roddy White" position="WR" rec="6" rz_tar="3" tar="8" td="0" yac="87" yds="87" yds_10_pls="3" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="ATL" market="Atlanta" name="Falcons"/>
+    </player>
+    <player avg="21.75" fd="4" fum="0" id="7e5ce2d0-6487-4a9f-83b6-634886ee78f3" jersey="81" lg="29" name="Owen Daniels" position="TE" rec="4" rz_tar="1" tar="8" td="0" yac="87" yds="87" yds_10_pls="1" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player avg="10.75" fd="4" fum="0" id="308cde80-c1e5-46a8-8df4-19a191b49c95" jersey="16" lg="27" name="Andrew Hawkins" position="WR" rec="8" rz_tar="0" tar="9" td="0" yac="86" yds="86" yds_10_pls="2" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="CIN" market="Cincinnati" name="Bengals"/>
+    </player>
+    <player avg="6.615" fd="3" fum="0" id="97132012-53f4-44c8-96da-88f0e8a819e8" jersey="20" lg="17" name="Darren McFadden" position="RB" rec="13" rz_tar="1" tar="18" td="0" yac="87" yds="86" yds_10_pls="3" yds_20_pls="0" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="OAK" market="Oakland" name="Raiders"/>
+    </player>
+    <player avg="21.25" fd="3" fum="0" id="b84fb536-9705-45a9-b652-92a33578ac48" jersey="88" lg="38" name="Dez Bryant" position="WR" rec="4" rz_tar="0" tar="5" td="0" yac="85" yds="85" yds_10_pls="3" yds_20_pls="0" yds_30_pls="1" yds_40_pls="0" yds_50_pls="0">
+      <team id="DAL" market="Dallas" name="Cowboys"/>
+    </player>
+    <player avg="14.167" fd="4" fum="0" id="fd85786d-3900-4dc0-9b30-334ee30413ed" jersey="80" lg="23" name="Jimmy Graham" position="TE" rec="6" rz_tar="2" tar="10" td="1" yac="85" yds="85" yds_10_pls="1" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="NO" market="New Orleans" name="Saints"/>
+    </player>
+    <player avg="14.0" fd="5" fum="0" id="3752af7b-f40d-4f82-8072-4fb84d15090d" jersey="12" lg="20" name="Percy Harvin" position="WR" rec="6" rz_tar="1" tar="8" td="0" yac="79" yds="84" yds_10_pls="4" yds_20_pls="1" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="MIN" market="Minnesota" name="Vikings"/>
+    </player>
+    <player avg="13.667" fd="3" fum="0" id="9102665d-a658-4264-81c3-b9810776ddf0" jersey="80" lg="24" name="Coby Fleener" position="TE" rec="6" rz_tar="0" tar="10" td="0" yac="82" yds="82" yds_10_pls="0" yds_20_pls="3" yds_30_pls="0" yds_40_pls="0" yds_50_pls="0">
+      <team id="IND" market="Indianapolis" name="Colts"/>
+    </player>
+  </receiving>
+  <field_goal>
+    <player att="5" att_19="1" att_29="2" att_39="0" att_49="2" att_50="0" blk="0" id="160ac860-9974-4d27-91b2-849ff0a43f35" jersey="10" lg="45" made="5" made_19="1" made_29="2" made_39="0" made_49="2" made_50="0" name="Nate Kaeding" pct="100.0" position="K">
+      <team id="SD" market="San Diego" name="Chargers"/>
+    </player>
+    <player att="4" att_19="0" att_29="1" att_39="1" att_49="1" att_50="1" blk="0" id="afac3e25-d72d-43f7-be4b-d33ed91a0bf8" jersey="3" lg="55" made="4" made_19="0" made_29="1" made_39="1" made_49="1" made_50="1" name="Blair Walsh" pct="100.0" position="K">
+      <team id="MIN" market="Minnesota" name="Vikings"/>
+    </player>
+    <player att="4" att_19="0" att_29="1" att_39="2" att_49="1" att_50="0" blk="0" id="218d1644-603e-4da3-9ce1-48ce3927494f" jersey="3" lg="41" made="4" made_19="0" made_29="1" made_39="2" made_49="1" made_50="0" name="Matt Bryant" pct="100.0" position="K">
+      <team id="ATL" market="Atlanta" name="Falcons"/>
+    </player>
+    <player att="4" att_19="0" att_29="0" att_39="2" att_49="2" att_50="0" blk="0" id="5fc8485a-e32a-451b-a16f-5d6a655b7e14" jersey="5" lg="45" made="4" made_19="0" made_29="0" made_39="2" made_49="2" made_50="0" name="Billy Cundiff" pct="100.0" position="K">
+      <team id="WAS" market="Washington" name="Redskins"/>
+    </player>
+    <player att="3" att_19="0" att_29="1" att_39="0" att_49="2" att_50="0" blk="0" id="e5247e5f-c4af-4a9b-8c7c-da75ef7fbf8d" jersey="4" lg="43" made="3" made_19="0" made_29="1" made_39="0" made_49="2" made_50="0" name="Phil Dawson" pct="100.0" position="K">
+      <team id="CLE" market="Cleveland" name="Browns"/>
+    </player>
+    <player att="3" att_19="0" att_29="0" att_39="0" att_49="2" att_50="1" blk="0" id="8259ba2b-d4ae-4290-964f-903fa09b1c4f" jersey="2" lg="63" made="3" made_19="0" made_29="0" made_39="0" made_49="2" made_50="1" name="David Akers" pct="100.0" position="K">
+      <team id="SF" market="San Francisco" name="49ers"/>
+    </player>
+    <player att="4" att_19="0" att_29="1" att_39="1" att_49="1" att_50="1" blk="1" id="40cda44b-2ee3-4ad1-834e-995e30db84d4" jersey="4" lg="47" made="3" made_19="0" made_29="1" made_39="1" made_49="1" made_50="0" name="Steven Hauschka" pct="75.0" position="K">
+      <team id="SEA" market="Seattle" name="Seahawks"/>
+    </player>
+    <player att="4" att_19="1" att_29="0" att_39="1" att_49="1" att_50="1" blk="0" id="21324436-47e6-4e7e-9f57-6e343cf5aa07" jersey="17" lg="40" made="3" made_19="1" made_29="0" made_39="1" made_49="1" made_50="0" name="Shayne Graham" pct="75.0" position="K">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player att="3" att_19="0" att_29="1" att_39="0" att_49="2" att_50="0" blk="0" id="93d11276-45d2-4168-a9b7-df0cbf12dabb" jersey="4" lg="48" made="3" made_19="0" made_29="1" made_39="0" made_49="2" made_50="0" name="Greg Zuerlein" pct="100.0" position="K">
+      <team id="STL" market="St. Louis" name="Rams"/>
+    </player>
+    <player att="3" att_19="0" att_29="0" att_39="1" att_49="2" att_50="0" blk="0" id="20a0bad2-d530-4ff4-a2df-5c0a21a1f5db" jersey="9" lg="46" made="3" made_19="0" made_29="0" made_39="1" made_49="2" made_50="0" name="Justin Tucker" pct="100.0" position="K">
+      <team id="BAL" market="Baltimore" name="Ravens"/>
+    </player>
+    <player att="3" att_19="0" att_29="1" att_39="1" att_49="1" att_50="0" blk="0" id="4869b8db-2e38-4327-af11-cc1e17ef3490" jersey="10" lg="40" made="3" made_19="0" made_29="1" made_39="1" made_49="1" made_50="0" name="Connor Barth" pct="100.0" position="K">
+      <team id="TB" market="Tampa Bay" name="Buccaneers"/>
+    </player>
+    <player att="3" att_19="1" att_29="1" att_39="0" att_49="1" att_50="0" blk="0" id="ed29fd68-0d5d-4636-8010-31436a78c9c6" jersey="10" lg="47" made="3" made_19="1" made_29="1" made_39="0" made_49="1" made_50="0" name="Josh Scobee" pct="100.0" position="K">
+      <team id="JAC" market="Jacksonville" name="Jaguars"/>
+    </player>
+    <player att="2" att_19="0" att_29="1" att_39="1" att_49="0" att_50="0" blk="0" id="eccdeff9-fbcc-4871-8348-7b72e78d1bda" jersey="3" lg="31" made="2" made_19="0" made_29="1" made_39="1" made_49="0" made_50="0" name="Jay Feely" pct="100.0" position="K">
+      <team id="ARI" market="Arizona" name="Cardinals"/>
+    </player>
+    <player att="2" att_19="0" att_29="1" att_39="1" att_49="0" att_50="0" blk="0" id="b37c621e-1125-4c35-bea0-fcabb1527060" jersey="2" lg="39" made="2" made_19="0" made_29="1" made_39="1" made_49="0" made_50="0" name="Nick Folk" pct="100.0" position="K">
+      <team id="NYJ" market="New York" name="Jets"/>
+    </player>
+    <player att="2" att_19="1" att_29="0" att_39="0" att_49="0" att_50="1" blk="0" id="480277d1-47c9-44df-969e-038a84cd0fea" jersey="11" lg="51" made="2" made_19="1" made_29="0" made_39="0" made_49="0" made_50="1" name="Sebastian Janikowski" pct="100.0" position="K">
+      <team id="OAK" market="Oakland" name="Raiders"/>
+    </player>
+    <player att="2" att_19="1" att_29="0" att_39="1" att_49="0" att_50="0" blk="0" id="e017e12b-07a7-4a35-b837-2faa9ffe3ce8" jersey="2" lg="34" made="2" made_19="1" made_29="0" made_39="1" made_49="0" made_50="0" name="Mike Nugent" pct="100.0" position="K">
+      <team id="CIN" market="Cincinnati" name="Bengals"/>
+    </player>
+    <player att="2" att_19="0" att_29="1" att_39="1" att_49="0" att_50="0" blk="0" id="abd73d50-ce60-47f1-b37f-2f9a05b0d7b9" jersey="9" lg="35" made="2" made_19="0" made_29="1" made_39="1" made_49="0" made_50="0" name="Robbie Gould" pct="100.0" position="K">
+      <team id="CHI" market="Chicago" name="Bears"/>
+    </player>
+    <player att="2" att_19="0" att_29="1" att_39="1" att_49="0" att_50="0" blk="0" id="a527b7db-0b52-4379-9e4c-2e08c1fe1bed" jersey="3" lg="31" made="2" made_19="0" made_29="1" made_39="1" made_49="0" made_50="0" name="Stephen Gostkowski" pct="100.0" position="K">
+      <team id="NE" market="New England" name="Patriots"/>
+    </player>
+    <player att="2" att_19="0" att_29="1" att_39="1" att_49="0" att_50="0" blk="0" id="d1a06132-76d1-4654-af3e-633c5f07a4b4" jersey="6" lg="35" made="2" made_19="0" made_29="1" made_39="1" made_49="0" made_50="0" name="Shaun Suisham" pct="100.0" position="K">
+      <team id="PIT" market="Pittsburgh" name="Steelers"/>
+    </player>
+    <player att="2" att_19="0" att_29="0" att_39="0" att_49="2" att_50="0" blk="0" id="8a64b8d0-b306-4f8d-98f6-b1025e36e2a6" jersey="4" lg="45" made="2" made_19="0" made_29="0" made_39="0" made_49="2" made_50="0" name="Jason Hanson" pct="100.0" position="K">
+      <team id="DET" market="Detroit" name="Lions"/>
+    </player>
+  </field_goal>
+  <extra_point>
+    <player att="6" blk="0" id="b37c621e-1125-4c35-bea0-fcabb1527060" jersey="2" made="6" name="Nick Folk" pct="100.0" position="K">
+      <team id="NYJ" market="New York" name="Jets"/>
+    </player>
+    <player att="5" blk="0" id="20a0bad2-d530-4ff4-a2df-5c0a21a1f5db" jersey="9" made="5" name="Justin Tucker" pct="100.0" position="K">
+      <team id="BAL" market="Baltimore" name="Ravens"/>
+    </player>
+    <player att="5" blk="0" id="abd73d50-ce60-47f1-b37f-2f9a05b0d7b9" jersey="9" made="5" name="Robbie Gould" pct="100.0" position="K">
+      <team id="CHI" market="Chicago" name="Bears"/>
+    </player>
+    <player att="4" blk="0" id="a527b7db-0b52-4379-9e4c-2e08c1fe1bed" jersey="3" made="4" name="Stephen Gostkowski" pct="100.0" position="K">
+      <team id="NE" market="New England" name="Patriots"/>
+    </player>
+    <player att="4" blk="0" id="f07fcd37-8671-4f9d-9659-455114a6b345" jersey="9" made="4" name="Rian Lindell" pct="100.0" position="K">
+      <team id="BUF" market="Buffalo" name="Bills"/>
+    </player>
+    <player att="4" blk="0" id="5fc8485a-e32a-451b-a16f-5d6a655b7e14" jersey="5" made="4" name="Billy Cundiff" pct="100.0" position="K">
+      <team id="WAS" market="Washington" name="Redskins"/>
+    </player>
+    <player att="4" blk="0" id="218d1644-603e-4da3-9ce1-48ce3927494f" jersey="3" made="4" name="Matt Bryant" pct="100.0" position="K">
+      <team id="ATL" market="Atlanta" name="Falcons"/>
+    </player>
+    <player att="3" blk="0" id="21324436-47e6-4e7e-9f57-6e343cf5aa07" jersey="17" made="3" name="Shayne Graham" pct="100.0" position="K">
+      <team id="HOU" market="Houston" name="Texans"/>
+    </player>
+    <player att="3" blk="0" id="8259ba2b-d4ae-4290-964f-903fa09b1c4f" jersey="2" made="3" name="David Akers" pct="100.0" position="K">
+      <team id="SF" market="San Francisco" name="49ers"/>
+    </player>
+    <player att="3" blk="0" id="83f8a30f-829f-4928-9816-7497ce6339c7" jersey="5" made="3" name="Garrett Hartley" pct="100.0" position="K">
+      <team id="NO" market="New Orleans" name="Saints"/>
+    </player>
+    <player att="3" blk="0" id="beb64618-614c-49f7-a3aa-c0c75b7839ea" jersey="5" made="3" name="Dan Bailey" pct="100.0" position="K">
+      <team id="DAL" market="Dallas" name="Cowboys"/>
+    </player>
+    <player att="3" blk="0" id="ecc4f0c1-64e0-46cc-9b58-91c2b215e62a" jersey="6" made="3" name="Ryan Succop" pct="100.0" position="K">
+      <team id="KC" market="Kansas City" name="Chiefs"/>
+    </player>
+    <player att="3" blk="0" id="9ecf8040-10f9-4a5c-92da-1b4d77bd6760" jersey="4" made="3" name="Adam Vinatieri" pct="100.0" position="K">
+      <team id="IND" market="Indianapolis" name="Colts"/>
+    </player>
+    <player att="3" blk="0" id="8a64b8d0-b306-4f8d-98f6-b1025e36e2a6" jersey="4" made="3" name="Jason Hanson" pct="100.0" position="K">
+      <team id="DET" market="Detroit" name="Lions"/>
+    </player>
+    <player att="2" blk="0" id="e0856548-6fd5-4f83-9aa0-91f1bf4cbbd8" jersey="2" made="2" name="Mason Crosby" pct="100.0" position="K">
+      <team id="GB" market="Green Bay" name="Packers"/>
+    </player>
+    <player att="2" blk="0" id="93d11276-45d2-4168-a9b7-df0cbf12dabb" jersey="4" made="2" name="Greg Zuerlein" pct="100.0" position="K">
+      <team id="STL" market="St. Louis" name="Rams"/>
+    </player>
+    <player att="2" blk="0" id="afac3e25-d72d-43f7-be4b-d33ed91a0bf8" jersey="3" made="2" name="Blair Walsh" pct="100.0" position="K">
+      <team id="MIN" market="Minnesota" name="Vikings"/>
+    </player>
+    <player att="2" blk="0" id="eccdeff9-fbcc-4871-8348-7b72e78d1bda" jersey="3" made="2" name="Jay Feely" pct="100.0" position="K">
+      <team id="ARI" market="Arizona" name="Cardinals"/>
+    </player>
+    <player att="2" blk="0" id="67f5e782-f91c-4536-9818-cf4a0e7e821d" jersey="5" made="2" name="Matt Prater" pct="100.0" position="K">
+      <team id="DEN" market="Denver" name="Broncos"/>
+    </player>
+    <player att="2" blk="0" id="d184bc5e-7221-463e-a5b4-08967489685c" jersey="6" made="2" name="Alex Henery" pct="100.0" position="K">
+      <team id="PHI" market="Philadelphia" name="Eagles"/>
+    </player>
+  </extra_point>
+<!--Generation finished at Thu Oct 18 21:04:51 +0000 2012--></leaders>

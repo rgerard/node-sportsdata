@@ -1,4 +1,4 @@
-var mainIndex = require('../index'),
+var mainIndex = require('../index_nfl'),
     mockRequest = require('./mock_request');
 
 module.exports = {
