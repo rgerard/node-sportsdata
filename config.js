@@ -10,10 +10,10 @@ config.nfl.season = 'REG';
 config.nfl.format = 'xml';
 
 config.nba = {};
+config.nba.access_level = 't';
 config.nba.version = '2';
 config.nba.apikey = '';
-config.nba.year = '2012';
+config.nba.seasonID = '2012';
 config.nba.season = 'REG';
-config.nba.format = 'xml';
 
 module.exports = config;
