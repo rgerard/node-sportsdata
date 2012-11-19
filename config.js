@@ -1,9 +1,8 @@
 var config = {}
 
-config.access_level = 't';
-config.version = '1';
-
 config.nfl = {};
+config.nfl.access_level = 't';
+config.nfl.version = '1';
 config.nfl.apikey = '';
 config.nfl.year = '2012';
 config.nfl.season = 'REG';

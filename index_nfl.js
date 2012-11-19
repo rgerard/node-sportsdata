@@ -2,7 +2,7 @@ var config = require('./config'),
     request = require('request'),
     xml2js = require('xml2js'),
     parser = new xml2js.Parser(),
-    urlHelper = require('./util/url_helper');
+    urlHelper = require('./util/url_helper_nfl');
 
 function getWeeklySchedule(week, callback) {
     var url = urlHelper.getWeeklyScheduleUrl(week);

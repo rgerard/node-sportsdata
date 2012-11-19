@@ -1,6 +1,6 @@
 
 var fs = require('fs'),
-    urlHelper = require('../util/url_helper');
+    urlHelper = require('../util/url_helper_nfl');
 
 function request(uri, callback) {
 
