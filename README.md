@@ -17,14 +17,14 @@ Or from source:
 
 ## Configure
 
-Modify config.js and input your own API key and API access level.
+Modify config.js and input your own API key and API access level for whatever sports you have a key for.
 
 ## Super simple to use
 
 node-sportsdata is designed to be a simple wrapper around the SportsData API.
 
 ```javascript
-var sportsdata = require('sportsdata');
+var sportsdata = require('index_nfl');
 sportsdata.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule) // Print the season schedule for the NFL season
