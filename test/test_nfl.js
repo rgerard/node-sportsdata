@@ -1,10 +1,11 @@
-var mainIndex = require('../index_nfl'),
+var mainIndex = require('../index'),
+    nfl = mainIndex.NFL,
     mockRequest = require('./mock_request');
 
 module.exports = {
     setUp: function (callback) {
         // Replace the normal request object with a mock request object that returns real responses
-        mainIndex.setRequest(mockRequest);
+        nfl.setRequest(mockRequest);
         callback();
     },
 
@@ -16,7 +17,7 @@ module.exports = {
         test.expect(2);
 
         // Get the NFL schedule for week 1
-        mainIndex.getWeeklySchedule(1, function(err, body) {
+        nfl.getWeeklySchedule(1, function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
@@ -27,7 +28,7 @@ module.exports = {
         test.expect(2);
 
         // Get the NFL season schedule
-        mainIndex.getSeasonSchedule(function(err, body) {
+        nfl.getSeasonSchedule(function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
@@ -38,7 +39,7 @@ module.exports = {
         test.expect(2);
 
         // Get the stats for Game 1 between DAL and NYG
-        mainIndex.getGameStats(1, 'DAL', 'NYG', function(err, body) {
+        nfl.getGameStats(1, 'DAL', 'NYG', function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
@@ -49,7 +50,7 @@ module.exports = {
         test.expect(2);
 
         // Get the NFL weekly boxscore for Week 1
-        mainIndex.getWeeklyBoxscore(1, function(err, body) {
+        nfl.getWeeklyBoxscore(1, function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();

@@ -22,7 +22,7 @@ Or from source:
 ## Simple Examples
 
 ```javascript
-var sportsdata_nfl = require('index_nfl');
+var sportsdata_nfl = require('sportsdata').NFL;
 
 // Init the object with the access level, version, apikey, year, and season you care about
 sportsdata_nfl.init('t', 1, apikey, '2012', 'REG');
@@ -35,7 +35,7 @@ sportsdata_nfl.getSeasonSchedule(function(error, schedule) {
 });
 
 
-var sportsdata_nba = require('index_nba');
+var sportsdata_nba = require('sportsdata').NBA;
 
 // Init the object with the access level, version, apikey, seasonID, and season you care about
 sportsdata_nba.init('t', 2, apikey, '2012', 'REG');
