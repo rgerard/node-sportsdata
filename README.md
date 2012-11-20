@@ -66,6 +66,8 @@ nodeunit test/
 
 ### NFL
 
+Please refer to the <a href="http://developer.sportsdatallc.com/docs/read/NFL_API">SportsData NFL API documentation</a> for more detail on their API.
+
 * [init](#init)
 * [getWeeklySchedule](#getWeeklySchedule)
 * [getSeasonSchedule](#getSeasonSchedule)
@@ -572,6 +574,8 @@ sportsdata.getSeasonalStats('DAL', function(error, data) {
 
 
 ## NBA API
+
+Please refer to the <a href="http://developer.sportsdatallc.com/docs/read/NBA_API">SportsData NBA API documentation</a> for more detail on their API.
 
 <a name="initNba" />
 ### init(access_level, version, apikey, seasonID, season)
