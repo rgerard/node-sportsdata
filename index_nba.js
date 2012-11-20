@@ -18,6 +18,14 @@ var config = require('./config'),
     parser = new xml2js.Parser(),
     urlHelper = require('./util/url_helper_nba');
 
+function init(access_level, version, apikey, seasonID, season) {
+    config.nba.access_level = access_level;
+    config.nba.version = version;
+    config.nba.apikey = apikey;
+    config.nba.seasonID = seasonID;
+    config.nba.season = season;
+}
+
 function getSeasonSchedule(callback) {
     var url = urlHelper.getSeasonScheduleUrl();
     createRequest(url, callback);
@@ -80,6 +88,11 @@ function createRequest(url, callback) {
 }
 
 module.exports = {
+
+    init: function(access_level, version, apikey, seasonID, season) {
+        return init(access_level, version, apikey, seasonID, season);
+    },
+
     setRequest: function(reqObj) {
         request = reqObj;
     },

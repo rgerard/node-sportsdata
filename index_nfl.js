@@ -18,6 +18,14 @@ var config = require('./config'),
     parser = new xml2js.Parser(),
     urlHelper = require('./util/url_helper_nfl');
 
+function init(access_level, version, apikey, year, season) {
+    config.nfl.access_level = access_level;
+    config.nfl.version = version;
+    config.nfl.apikey = apikey;
+    config.nfl.year = year;
+    config.nfl.season = season;
+}
+
 function getWeeklySchedule(week, callback) {
     var url = urlHelper.getWeeklyScheduleUrl(week);
     createRequest(url, callback);
@@ -124,6 +132,10 @@ function createRequest(url, callback) {
 }
 
 module.exports = {
+    init: function(access_level, version, apikey, year, season) {
+        return init(access_level, version, apikey, year, season);
+    },
+
     setRequest: function(reqObj) {
         request = reqObj;
     },

@@ -19,22 +19,28 @@ Or from source:
 </pre>
 
 
-## Configure
-
-Modify config.js and input your own API key and API access level for whatever sports you have a key for.
-
-
 ## Simple Examples
 
 ```javascript
 var sportsdata_nfl = require('index_nfl');
+
+// Init the object with the access level, version, apikey, year, and season you care about
+sportsdata_nfl.init('t', 1, apikey, '2012', 'REG');
+
+// Get the season schedule
 sportsdata_nfl.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule) // Print the season schedule for the NFL season
   }
 });
 
+
 var sportsdata_nba = require('index_nba');
+
+// Init the object with the access level, version, apikey, seasonID, and season you care about
+sportsdata_nba.init('t', 2, apikey, '2012', 'REG');
+
+// Get the season schedule
 sportsdata_nba.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule) // Print the season schedule for the NBA season
@@ -60,6 +66,7 @@ nodeunit test/
 
 ### NFL
 
+* [init](#init)
 * [getWeeklySchedule](#getWeeklySchedule)
 * [getSeasonSchedule](#getSeasonSchedule)
 * [getGameStats](#getGameStats)
@@ -81,6 +88,7 @@ nodeunit test/
 
 ### NBA
 
+* [init](#initNba)
 * [getSeasonSchedule](#getSeasonScheduleNba)
 * [get3DaySchedule](#get3DaySchedule)
 * [getStandings](#getStandingsNba)
@@ -92,6 +100,29 @@ nodeunit test/
 
 
 ## NFL API
+
+<a name="init" />
+### init(access_level, version, apikey, year, season)
+
+Inits the object with your API data, including your API key.
+
+__Arguments__
+
+* access_level - Your API access level
+* version - The version of the API
+* apikey - Your API key
+* year - The year
+* season - The season type
+
+__Example__
+
+```js
+// Fetch the schedule for Week 1 of the NFL season
+
+sportsdata_nfl.init('t', 1, apikey, '2012', 'REG');
+```
+
+---------------------------------------
 
 <a name="getWeeklySchedule" />
 ### getWeeklySchedule(week, callback)
@@ -541,6 +572,29 @@ sportsdata.getSeasonalStats('DAL', function(error, data) {
 
 
 ## NBA API
+
+<a name="initNba" />
+### init(access_level, version, apikey, seasonID, season)
+
+Inits the object with your API data, including your API key.
+
+__Arguments__
+
+* access_level - Your API access level
+* version - The version of the API to use
+* apikey - Your API key
+* seasonID - The year
+* season - The season type
+
+__Example__
+
+```js
+// Init the object with the access level, version, apikey, seasonID, and season you care about
+
+sportsdata_nba.init('t', 2, apikey, '2012', 'REG');
+```
+
+---------------------------------------
 
 <a name="getSeasonScheduleNba" />
 ### getSeasonSchedule(callback)
