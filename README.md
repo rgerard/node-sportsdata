@@ -65,6 +65,15 @@ sportsdata_nba.getSeasonSchedule(function(error, schedule) {
 ### NBA
 
 * [getSeasonSchedule](#getSeasonScheduleNba)
+* [get3DaySchedule](#get3DaySchedule)
+* [getStandings](#getStandingsNba)
+* [getRosters](#getRosters)
+* [getGameScoreAndStats](#getGameScoreAndStats)
+* [getPlayByPlay](#getPlayByPlayNba)
+* [getEventsGloassary](#getEventsGloassary)
+* [getSeasonalStats](#getSeasonalStatsNba)
+* [getStatus](#getStatus)
+
 
 ## NFL API
 
@@ -529,7 +538,7 @@ __Arguments__
 __Example__
 
 ```js
-// Fetch the schedule for the entire NFL season
+// Fetch the schedule for the entire NBA season
 
 sportsdata.getSeasonSchedule(function(error, schedule) {
  if (!error) {
@@ -539,3 +548,165 @@ sportsdata.getSeasonSchedule(function(error, schedule) {
 ```
 
 ---------------------------------------
+
+<a name="get3DaySchedule" />
+### get3DaySchedule(callback)
+
+Returns the rolling 3-day schedule as a JSON object
+
+__Arguments__
+
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the rolling 3-day schedule
+
+sportsdata.get3DaySchedule(function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getStandingsNba" />
+### getStandings(callback)
+
+Returns the standings as a JSON object
+
+__Arguments__
+
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the standings
+
+sportsdata.getStandings(function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getRosters" />
+### getRosters(callback)
+
+Returns the rosters as a JSON object
+
+__Arguments__
+
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the rosters
+
+sportsdata.getRosters(function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getGameScoreAndStats" />
+### getGameScoreAndStats(gameid, callback)
+
+Returns the game score and stats of a specific game as a JSON object
+
+__Arguments__
+
+* gameid - The id of the game in question. This value is returned from the API call [getSeasonSchedule](#getSeasonScheduleNba).
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the rosters
+
+sportsdata.getGameScoreAndStats(2393, function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getPlayByPlayNba" />
+### getPlayByPlay(gameid, callback)
+
+Returns the play-by-play of a specific game as a JSON object
+
+__Arguments__
+
+* gameid - The id of the game in question. This value is returned from the API call [getSeasonSchedule](#getSeasonScheduleNba).
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the play-by-play
+
+sportsdata.getPlayByPlay(2393, function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getEventsGloassary" />
+### getEventsGloassary(callback)
+
+Returns the events glossary as a JSON object
+
+__Arguments__
+
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the events glossary
+
+sportsdata.getEventsGloassary(function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
+
+---------------------------------------
+
+<a name="getSeasonalStatsNba" />
+### getSeasonalStats(teamid, callback)
+
+Returns the events glossary as a JSON object
+
+__Arguments__
+
+* teamid - The id of the team in question. This value is returned from the API call [getStandings](#getStandingsNba).
+* callback(err, body) - A callback which is called after the API call has returned, or an error has occurred.
+
+__Example__
+
+```js
+// Fetch the events glossary
+
+sportsdata.getSeasonalStats(7406, function(error, schedule) {
+ if (!error) {
+    console.log(schedule);
+  }
+});
+```
