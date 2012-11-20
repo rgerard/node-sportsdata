@@ -164,7 +164,7 @@ module.exports = {
         return getWeeklyBoxscore(week, callback);
     },
 
-    getGameRoster: function(week, callback) {
+    getGameRoster: function(week, awayteam, hometeam, callback) {
         return getGameRoster(week, awayteam, hometeam, callback);
     },
 
