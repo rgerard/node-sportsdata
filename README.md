@@ -18,9 +18,11 @@ Or from source:
   npm install
 </pre>
 
+
 ## Configure
 
 Modify config.js and input your own API key and API access level for whatever sports you have a key for.
+
 
 ## Simple Examples
 
@@ -39,6 +41,21 @@ sportsdata_nba.getSeasonSchedule(function(error, schedule) {
   }
 });
 ```
+
+
+## Test
+
+I have written unit tests for these API calls using the <a href="https://github.com/caolan/nodeunit">nodeunit</a> framework.
+The unit tests do not make actual API calls, as that would waste your API call limit.
+Instead, I have mocked the request object, and replace the call response with a pre-captured response for that exact same API call.
+
+To run the unit tests:
+
+```
+nodeunit test/
+```
+
+
 ## Documentation
 
 ### NFL
@@ -72,7 +89,6 @@ sportsdata_nba.getSeasonSchedule(function(error, schedule) {
 * [getPlayByPlay](#getPlayByPlayNba)
 * [getEventsGloassary](#getEventsGloassary)
 * [getSeasonalStats](#getSeasonalStatsNba)
-* [getStatus](#getStatus)
 
 
 ## NFL API
