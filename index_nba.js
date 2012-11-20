@@ -71,7 +71,7 @@ function createRequest(url, callback) {
 
             // Parse the XML to JSON
             parser.parseString(body, function (err, result) {
-                callback(error, result);
+                callback(err, result);
             });
         } else {
             callback(error, body);
