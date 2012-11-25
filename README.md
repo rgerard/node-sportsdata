@@ -122,6 +122,7 @@ __Example__
 
 ```js
 // Fetch the schedule for Week 1 of the NFL season
+var sportsdata_nfl = require('sportsdata').NFL;
 sportsdata_nfl.init('t', 1, apikey, '2012', 'REG');
 ```
 
@@ -575,6 +576,7 @@ __Example__
 
 ```js
 // Init the object with the access level, version, apikey, seasonID, and season you care about
+var sportsdata_nba = require('sportsdata').NBA;
 sportsdata_nba.init('t', 2, apikey, '2012', 'REG');
 ```
 
