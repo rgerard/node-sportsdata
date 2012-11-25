@@ -122,7 +122,6 @@ __Example__
 
 ```js
 // Fetch the schedule for Week 1 of the NFL season
-
 sportsdata_nfl.init('t', 1, apikey, '2012', 'REG');
 ```
 
@@ -142,7 +141,6 @@ __Example__
 
 ```js
 // Fetch the schedule for Week 1 of the NFL season
-
 sportsdata.getWeeklySchedule(1, function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -165,7 +163,6 @@ __Example__
 
 ```js
 // Fetch the schedule for the entire NFL season
-
 sportsdata.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -191,7 +188,6 @@ __Example__
 
 ```js
 // Fetch the game stats
-
 sportsdata.getGameStats(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -217,7 +213,6 @@ __Example__
 
 ```js
 // Fetch the game summary
-
 sportsdata.getGameSummary(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -243,7 +238,6 @@ __Example__
 
 ```js
 // Fetch the play-by-play
-
 sportsdata.getPlayByPlay(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -270,7 +264,6 @@ __Example__
 
 ```js
 // Fetch the play summary
-
 sportsdata.getPlaySummary(1, 'DAL', 'NYG', 'fdec3736-3598-4cde-ad4c-7270afc6d4e7', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -296,7 +289,6 @@ __Example__
 
 ```js
 // Fetch the boxscore
-
 sportsdata.getGameBoxscore(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -322,7 +314,6 @@ __Example__
 
 ```js
 // Fetch the extended boxscore
-
 sportsdata.getExtendedBoxscore(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -346,7 +337,6 @@ __Example__
 
 ```js
 // Fetch the weekly boxscores
-
 sportsdata.getWeeklyBoxscore(1, function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -372,7 +362,6 @@ __Example__
 
 ```js
 // Fetch the game roster
-
 sportsdata.getGameRoster(1, 'DAL', 'NYG', function(error, stats) {
  if (!error) {
     console.log(stats);
@@ -395,7 +384,6 @@ __Example__
 
 ```js
 // Fetch the team hierarchy
-
 sportsdata.getTeamHierarchy(function(error, data) {
  if (!error) {
     console.log(data);
@@ -419,7 +407,6 @@ __Example__
 
 ```js
 // Fetch the team hierarchy
-
 sportsdata.getTeamRoster('DAL', function(error, data) {
  if (!error) {
     console.log(data);
@@ -445,7 +432,6 @@ __Example__
 
 ```js
 // Fetch the injuries
-
 sportsdata.getInjuries(1, 'DAL', 'NYG', function(error, data) {
  if (!error) {
     console.log(data);
@@ -471,7 +457,6 @@ __Example__
 
 ```js
 // Fetch the game depth chart
-
 sportsdata.getGameDepthChart(1, 'DAL', 'NYG', function(error, data) {
  if (!error) {
     console.log(data);
@@ -495,7 +480,6 @@ __Example__
 
 ```js
 // Fetch the team depth chart
-
 sportsdata.getTeamDepthChart('DAL', function(error, data) {
  if (!error) {
     console.log(data);
@@ -519,7 +503,6 @@ __Example__
 
 ```js
 // Fetch the weekly leaders
-
 sportsdata.getWeeklyLeagueLeaders(1, function(error, data) {
  if (!error) {
     console.log(data);
@@ -542,7 +525,6 @@ __Example__
 
 ```js
 // Fetch the standings
-
 sportsdata.getStandings(function(error, data) {
  if (!error) {
     console.log(data);
@@ -566,7 +548,6 @@ __Example__
 
 ```js
 // Fetch the seasonal stats for a team
-
 sportsdata.getSeasonalStats('DAL', function(error, data) {
  if (!error) {
     console.log(data);
@@ -594,7 +575,6 @@ __Example__
 
 ```js
 // Init the object with the access level, version, apikey, seasonID, and season you care about
-
 sportsdata_nba.init('t', 2, apikey, '2012', 'REG');
 ```
 
@@ -613,7 +593,6 @@ __Example__
 
 ```js
 // Fetch the schedule for the entire NBA season
-
 sportsdata.getSeasonSchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -636,7 +615,6 @@ __Example__
 
 ```js
 // Fetch the rolling 3-day schedule
-
 sportsdata.get3DaySchedule(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -659,7 +637,6 @@ __Example__
 
 ```js
 // Fetch the standings
-
 sportsdata.getStandings(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -682,7 +659,6 @@ __Example__
 
 ```js
 // Fetch the rosters
-
 sportsdata.getRosters(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -706,7 +682,6 @@ __Example__
 
 ```js
 // Fetch the rosters
-
 sportsdata.getGameScoreAndStats(2393, function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -730,7 +705,6 @@ __Example__
 
 ```js
 // Fetch the play-by-play
-
 sportsdata.getPlayByPlay(2393, function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -753,7 +727,6 @@ __Example__
 
 ```js
 // Fetch the events glossary
-
 sportsdata.getEventsGloassary(function(error, schedule) {
  if (!error) {
     console.log(schedule);
@@ -777,7 +750,6 @@ __Example__
 
 ```js
 // Fetch the events glossary
-
 sportsdata.getSeasonalStats(7406, function(error, schedule) {
  if (!error) {
     console.log(schedule);
