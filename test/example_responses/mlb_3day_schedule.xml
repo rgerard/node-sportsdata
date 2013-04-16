@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<outlook season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" xmlns="http://feed.elasticstats.com/schema/mlb/outlook-v2.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <schedules>
+    <event id="02e4ac81-4ddb-4a9f-a859-5c19de95e57f" season_type="REG" status="scheduled" visitor="f246a5e5-afdb-479c-9aaa-c68beeda7af6" home="29dd9a87-5bcc-4774-80c3-7f50d985068b" venue="85dd5cd6-7324-4b52-a1cc-68f816d0cdce" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T00:40:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="3b12157e-fb6f-4005-8b9f-df11d991083b"/>
+      </visitor>
+      <home>
+        <pitching probable="24b6f004-b276-4537-97ea-0edcfcd08721"/>
+      </home>
+    </event>
+    <event id="08099644-ff68-40b0-ad6a-2593527d74c8" season_type="REG" status="scheduled" visitor="a7723160-10b7-4277-a309-d8dd95a8ae65" home="dcfd5266-00ce-442c-bc09-264cd20cf455" venue="3d13c8a7-283f-482b-ade1-441e25b6465d" tbd="false">
+      <broadcast network="FSWI" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="9e44ea08-c78a-484e-967d-2f4cb5783fd0"/>
+      </visitor>
+      <home>
+        <pitching probable="0d8e671c-d03c-4024-9817-44b803833083"/>
+      </home>
+    </event>
+    <event id="0faee8bd-ccd4-451b-ad4d-3677a2cf603c" season_type="REG" status="scheduled" visitor="25507be1-6a68-4267-bd82-e097d94b359b" home="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" venue="706e9828-6687-4ac8-a409-3fb972e8bae9" tbd="false">
+      <broadcast network="MY9" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="d8326a8e-0f8a-49dc-b3a9-610ddfdc53b7"/>
+      </visitor>
+      <home>
+        <pitching probable="34c78a46-c798-4545-a05c-f9b693635e9b"/>
+      </home>
+    </event>
+    <event id="1ab0356e-c5e8-4712-90e4-9348a07fadde" season_type="REG" status="scheduled" visitor="d89bed32-3aee-4407-99e3-4103641b999a" home="03556285-bdbb-4576-a06d-42f71f46ddc5" venue="d5a66fb3-ff26-4f36-910c-3df5cedb36b3" tbd="false">
+      <broadcast network="FS-F" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="c4f314c0-86cb-444d-bf9b-5f30badb7f2c"/>
+      </visitor>
+      <home>
+        <pitching probable="dac738e2-a373-411d-a371-03da14fb23f6"/>
+      </home>
+    </event>
+    <event id="248e1246-d852-43c7-baff-285188f13d27" season_type="REG" status="scheduled" visitor="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" home="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" venue="61314394-c8b8-411e-b891-ca41285d5362" tbd="false">
+      <broadcast network="MLBN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="f83736c4-6587-438f-af93-bb880f0763c5"/>
+      </visitor>
+      <home>
+        <pitching probable="a468fd82-8723-433d-a302-15aaf2c9c07a"/>
+      </home>
+    </event>
+    <event id="275cf37c-0222-41a4-8cf9-43eae2a83010" season_type="REG" status="closed" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+      <broadcast network="FS-O" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-15T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="eb396b37-7b6e-485f-8b1f-f7d675229548" start="eb396b37-7b6e-485f-8b1f-f7d675229548" loss="c6b0f7cd-180e-4114-a1f8-6d532402b9d1"/>
+      </visitor>
+      <home>
+        <pitching probable="53083fd6-8f9f-40d5-a622-49a628f94a51" start="53083fd6-8f9f-40d5-a622-49a628f94a51" win="53083fd6-8f9f-40d5-a622-49a628f94a51" save="17a14a6a-42f8-4f2e-86f3-42051584563e"/>
+      </home>
+    </event>
+    <event id="2c127a55-f214-44c9-8c90-cc1a48838196" season_type="REG" status="scheduled" visitor="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" home="1d678440-b4b1-4954-9b39-70afb3ebbcfa" venue="84d72338-2173-4a90-9d25-99adc6c86f4b" tbd="false">
+      <broadcast network="SNET" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:07:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="97033dc6-7b8c-4afb-ac7f-a36a4d1fb25a"/>
+      </visitor>
+      <home>
+        <pitching probable="70637c96-12e4-4755-b9b0-b174a5c1f259"/>
+      </home>
+    </event>
+    <event id="359bda7e-60be-49c1-90ae-f4d7232e6b84" season_type="REG" status="closed" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+      <broadcast network="FS-N" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="511b2ca3-52c1-4bd9-82c5-bee07d3d373a" start="511b2ca3-52c1-4bd9-82c5-bee07d3d373a" loss="511b2ca3-52c1-4bd9-82c5-bee07d3d373a"/>
+      </visitor>
+      <home>
+        <pitching probable="61593da6-408b-4777-b404-c283e5d3bb00" start="61593da6-408b-4777-b404-c283e5d3bb00" win="61593da6-408b-4777-b404-c283e5d3bb00"/>
+      </home>
+    </event>
+    <event id="3af48043-9395-4755-9c2f-11569b3b73ad" season_type="REG" status="scheduled" visitor="a7723160-10b7-4277-a309-d8dd95a8ae65" home="dcfd5266-00ce-442c-bc09-264cd20cf455" venue="3d13c8a7-283f-482b-ade1-441e25b6465d" tbd="false">
+      <broadcast network="FSWI" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ad484ec7-057c-48ea-8f1b-55aa0abdbb83"/>
+      </visitor>
+      <home>
+        <pitching probable="e0b021ce-33aa-46fc-b673-6bd35f220eb6"/>
+      </home>
+    </event>
+    <event id="3c844fd2-5b3d-4cc0-8f65-3dc321b9d3dc" season_type="REG" status="scheduled" visitor="bdc11650-6f74-49c4-875e-778aeb7632d9" home="75729d34-bca7-4a0f-b3df-6f26c6ad3719" venue="434aa63c-1049-4a54-a6bc-3790c7772ee1" tbd="false">
+      <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="a4d6c32a-74f0-45ff-a397-ca045fcaba2b"/>
+      </visitor>
+      <home>
+        <pitching probable="cb4d530e-a63e-4328-b3a5-7307e168086e"/>
+      </home>
+    </event>
+    <event id="3e2417c7-3ced-4542-84e5-d3c834ab00d9" season_type="REG" status="scheduled" visitor="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" home="1d678440-b4b1-4954-9b39-70afb3ebbcfa" venue="84d72338-2173-4a90-9d25-99adc6c86f4b" tbd="false">
+      <broadcast network="SNET" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:07:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="b1e3b804-0022-40bc-8f53-8c82ee4eb1b9"/>
+      </visitor>
+      <home>
+        <pitching probable="9760f1d6-9560-45ed-bc73-5ec2205905a2"/>
+      </home>
+    </event>
+    <event id="480cbbd5-3141-4490-8617-cb8692bfeee9" season_type="REG" status="scheduled" visitor="d99f919b-1534-4516-8e8a-9cd106c6d8cd" home="55714da8-fcaf-4574-8443-59bfb511a524" venue="53f8eb0d-a361-4a7a-930b-2f8735ea0698" tbd="false">
+      <broadcast network="CSN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T00:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="bbf735b4-af04-4ad8-b3e0-ea02dae770c4"/>
+      </visitor>
+      <home>
+        <pitching probable="30cf8052-8573-4b76-9028-035c3d81fa1e"/>
+      </home>
+    </event>
+    <event id="4a0965f7-0206-4d96-876d-335745d94412" season_type="REG" status="closed" visitor="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" home="1d678440-b4b1-4954-9b39-70afb3ebbcfa" venue="84d72338-2173-4a90-9d25-99adc6c86f4b" tbd="false">
+      <broadcast network="SNET" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-15T23:07:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="54c4ba30-77d5-4051-9bef-9995a3a9cabf" start="54c4ba30-77d5-4051-9bef-9995a3a9cabf" loss="54c4ba30-77d5-4051-9bef-9995a3a9cabf"/>
+      </visitor>
+      <home>
+        <pitching probable="2aee445d-7116-4616-bcfd-1a8931da5a06" start="2aee445d-7116-4616-bcfd-1a8931da5a06" win="2aee445d-7116-4616-bcfd-1a8931da5a06" save="4f5a3887-b699-4877-96fd-8a9a03ed5ffa"/>
+      </home>
+    </event>
+    <event id="4e6848e7-fa6e-4f5a-a846-f47ede075b64" season_type="REG" status="closed" visitor="eb21dadd-8f10-4095-8bf3-dfb3b779f107" home="27a59d3b-ff7c-48ea-b016-4798f560f5e1" venue="48cbd35a-d932-4a75-beab-067bfbacfc26" tbd="false">
+      <broadcast network="CSNCA" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T02:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f" start="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f" loss="e9c7033a-f2af-4efc-b4cc-eba4d931bf1f"/>
+      </visitor>
+      <home>
+        <pitching probable="6e86edc9-b40a-4ab2-b8ec-8b751041bc62" start="6e86edc9-b40a-4ab2-b8ec-8b751041bc62" win="6e86edc9-b40a-4ab2-b8ec-8b751041bc62"/>
+      </home>
+    </event>
+    <event id="587382dc-65f8-4d38-ba49-3fbb08414b97" season_type="REG" status="scheduled" visitor="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" home="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" venue="61314394-c8b8-411e-b891-ca41285d5362" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="9c15e4aa-cd70-4207-a34b-cdbb67224818"/>
+      </visitor>
+      <home>
+        <pitching probable="5cfbee7b-8b88-4f9a-947d-777319fc7690"/>
+      </home>
+    </event>
+    <event id="5acb8cb7-cb62-4d56-9b8f-1f0071b5884a" season_type="REG" status="scheduled" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+      <broadcast network="FS-N" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="719c94af-760b-4060-8276-439068ce2f46"/>
+      </visitor>
+      <home>
+        <pitching probable="cfea261e-b8d0-4ac5-bacc-19ce63c0fe79"/>
+      </home>
+    </event>
+    <event id="5ebf5899-ff0a-46a0-9dfa-24649832e70e" season_type="REG" status="scheduled" visitor="93941372-eb4c-4c40-aced-fe3267174393" home="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" venue="2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16" tbd="false">
+      <broadcast network="SportsTime Ohio" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="002f8bc7-87df-4014-91b5-44db51523d5e"/>
+      </visitor>
+      <home>
+        <pitching probable="5df70178-4bba-4983-b39b-c2ae69dd70bb"/>
+      </home>
+    </event>
+    <event id="69fad333-78dd-48a3-8cfd-7ea80501cc5e" season_type="REG" status="scheduled" visitor="d99f919b-1534-4516-8e8a-9cd106c6d8cd" home="55714da8-fcaf-4574-8443-59bfb511a524" venue="53f8eb0d-a361-4a7a-930b-2f8735ea0698" tbd="false">
+      <broadcast network="WGN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T00:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="b5b04988-d88f-4689-a1ed-8642c1391834"/>
+      </visitor>
+      <home>
+        <pitching probable="4e179243-e437-4fc6-8a2a-822f1248054a"/>
+      </home>
+    </event>
+    <event id="6ac4577c-1adb-4a96-b11b-d4b10faa658c" season_type="REG" status="scheduled" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+      <broadcast network="FS-O" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="b931f014-546a-43cd-bb35-a5cbb3e36152"/>
+      </visitor>
+      <home>
+        <pitching probable="7908ee05-a767-4085-88b1-3cb029c9e5eb"/>
+      </home>
+    </event>
+    <event id="78f0fea1-ad76-4c2c-9fe3-80a95b82625a" season_type="REG" status="scheduled" visitor="2142e1ba-3b40-445c-b8bb-f1f8b1054220" home="c874a065-c115-4e7d-b0f0-235584fb0e6f" venue="f102d8fb-de67-4b86-9053-8b55f578d45c" tbd="false">
+      <broadcast network="FS-O" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:00:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="1d41a552-87d2-435f-9d37-f803c61c60ef"/>
+      </visitor>
+      <home>
+        <pitching probable="7b54341a-7d39-4ea6-8b94-19ef145c8fba"/>
+      </home>
+    </event>
+    <event id="79917b71-da9a-49db-b9f0-b37f40d82fc9" season_type="REG" status="scheduled" visitor="575c19b7-4052-41c2-9f0a-1c5813d02f99" home="43a39081-52b4-4f93-ad29-da7f329ea960" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="40fdeb6f-06d1-48e2-9e73-545150c95703"/>
+      </visitor>
+      <home>
+        <pitching probable="90cf6f0b-1ed0-43ac-b99f-e3c74a20f754"/>
+      </home>
+    </event>
+    <event id="7b35a505-9d19-4791-b9cd-f22d18e2a87c" season_type="REG" status="scheduled" visitor="93941372-eb4c-4c40-aced-fe3267174393" home="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" venue="2b0ccd49-4d87-4996-ac4d-27ffc7ee4c16" tbd="false">
+      <broadcast network="SportsTime Ohio" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="b5a61195-d81a-4994-9d42-45f68fb425ba"/>
+      </visitor>
+      <home>
+        <pitching probable="c8b89470-a344-46f4-b0e4-e73fdb964a37"/>
+      </home>
+    </event>
+    <event id="7ef13b22-f8c8-4a43-8a62-647d700f8d4c" season_type="REG" status="scheduled" visitor="bdc11650-6f74-49c4-875e-778aeb7632d9" home="75729d34-bca7-4a0f-b3df-6f26c6ad3719" venue="434aa63c-1049-4a54-a6bc-3790c7772ee1" tbd="false">
+      <broadcast network="MASN HD" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="42aa0ca9-8242-4035-9dfb-0033a11d6706"/>
+      </visitor>
+      <home>
+        <pitching probable="772dc88a-0c6d-40c3-b176-ed8a791bf108"/>
+      </home>
+    </event>
+    <event id="9039c283-81bd-4f9c-9e8f-261820682a26" season_type="REG" status="scheduled" visitor="833a51a9-0d84-410f-bd77-da08c3e5e26e" home="12079497-e414-450a-8bf2-29f91de646bf" venue="0c6fc7f2-a2cc-4821-b125-f087f8bfcaa7" tbd="false">
+      <broadcast network="FSS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T16:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="ae9e0be2-30f9-4dab-ac78-f592f5a50f31"/>
+      </visitor>
+      <home>
+        <pitching probable="f7188ee3-cf88-4a71-9b62-601ff63d9fe7"/>
+      </home>
+    </event>
+    <event id="93c65207-a2c9-49f1-bee5-be1f2fc86042" season_type="REG" status="scheduled" visitor="d89bed32-3aee-4407-99e3-4103641b999a" home="03556285-bdbb-4576-a06d-42f71f46ddc5" venue="d5a66fb3-ff26-4f36-910c-3df5cedb36b3" tbd="false">
+      <broadcast network="FS-F" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="2d0e1c28-a11c-49db-a59e-0c00e7b55ae0"/>
+      </visitor>
+      <home>
+        <pitching probable="026fe66b-7a46-4f7b-83a0-000a661878fc"/>
+      </home>
+    </event>
+    <event id="a1873c0f-8585-499e-b6cb-62be59789f01" season_type="REG" status="scheduled" visitor="4f735188-37c8-473d-ae32-1f7e34ccf892" home="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" venue="302f8dcd-eed6-4b83-8609-81548d51e955" tbd="false">
+      <broadcast network="FS-N" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T00:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="2d60f0d5-dacb-40dd-b9a2-adb7716b40e2"/>
+      </visitor>
+      <home>
+        <pitching probable="85f71381-e86e-471e-a344-182ec1f6a76b"/>
+      </home>
+    </event>
+    <event id="a3953cc1-4b2a-4f9a-93fe-3af6ce20fe21" season_type="REG" status="scheduled" visitor="575c19b7-4052-41c2-9f0a-1c5813d02f99" home="43a39081-52b4-4f93-ad29-da7f329ea960" venue="f1c03dac-3c0f-437c-a325-8d5702cd321a" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="2527770b-cf48-42b9-81fa-9323756fb311"/>
+      </visitor>
+      <home>
+        <pitching probable="d6cfb6c9-8f3f-498a-98f9-2c19954c6e8d"/>
+      </home>
+    </event>
+    <event id="aa0fc762-96c4-4618-93d8-bcf8b976ce26" season_type="REG" status="scheduled" visitor="f246a5e5-afdb-479c-9aaa-c68beeda7af6" home="29dd9a87-5bcc-4774-80c3-7f50d985068b" venue="85dd5cd6-7324-4b52-a1cc-68f816d0cdce" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T00:40:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="0a13c1d4-6efa-4118-9087-5f61e414b937"/>
+      </visitor>
+      <home>
+        <pitching probable="eddc5866-4854-46dc-8ea3-a4d9475f55f7"/>
+      </home>
+    </event>
+    <event id="ad3bd3b7-e3d7-4556-a988-3fedd4ebec90" season_type="REG" status="scheduled" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+      <broadcast network="KCAL" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-18T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="8ad5b50f-e381-4654-8479-583d62e2ff29"/>
+      </visitor>
+      <home>
+        <pitching probable="d3351c6e-12cf-4ab5-b651-ad23d49c4245"/>
+      </home>
+    </event>
+    <event id="b141f6c9-7e8d-4532-a71d-bd2ff4f368a7" season_type="REG" status="scheduled" visitor="25507be1-6a68-4267-bd82-e097d94b359b" home="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" venue="706e9828-6687-4ac8-a409-3fb972e8bae9" tbd="false">
+      <broadcast network="YES" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="c8488db1-1ad6-4e69-9072-56422bc3f1b1"/>
+      </visitor>
+      <home>
+        <pitching probable="af2db144-f849-4c6e-96ed-8c1c9ce12979"/>
+      </home>
+    </event>
+    <event id="b4d0e3b9-c4da-42e9-a59b-82191dfb3fb9" season_type="REG" status="closed" visitor="bdc11650-6f74-49c4-875e-778aeb7632d9" home="93941372-eb4c-4c40-aced-fe3267174393" venue="b27b0dc5-c2c5-401d-b8b9-a6a2dbc225e5" tbd="false">
+      <broadcast network="NESN" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-15T15:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="09bb7528-d8a1-4d91-b28e-53a35ce3f678" start="09bb7528-d8a1-4d91-b28e-53a35ce3f678" loss="b0c4c887-d6e4-4bbf-84db-3fa699a8f251"/>
+      </visitor>
+      <home>
+        <pitching probable="4a4fc99c-aa36-4af1-a074-19757f5ca8d4" start="4a4fc99c-aa36-4af1-a074-19757f5ca8d4" win="970d1ba0-93be-4a15-bb0d-70389f8d3d3f"/>
+      </home>
+    </event>
+    <event id="b6dd5b54-a925-44cd-aaea-df90b2dab174" season_type="REG" status="scheduled" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+      <broadcast network="KCAL" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="bc1d614b-c8a8-4286-8f7d-3dd1ce29a1ff"/>
+      </visitor>
+      <home>
+        <pitching probable="d9ea99d4-3c15-4b23-8d40-9b92ecb78b8d"/>
+      </home>
+    </event>
+    <event id="c4aa6b9e-db0b-48ef-bd3d-10b42965fb2b" season_type="REG" status="scheduled" visitor="eb21dadd-8f10-4095-8bf3-dfb3b779f107" home="27a59d3b-ff7c-48ea-b016-4798f560f5e1" venue="48cbd35a-d932-4a75-beab-067bfbacfc26" tbd="false">
+      <broadcast network="" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T19:35:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="1a45223e-cf9a-40a7-891b-c8d4ce081513"/>
+      </visitor>
+      <home>
+        <pitching probable="1e4a62ff-7ae0-40b5-8f56-7c4a6d40a705"/>
+      </home>
+    </event>
+    <event id="de4b4950-fed3-4acd-8508-411880c69e25" season_type="REG" status="scheduled" visitor="833a51a9-0d84-410f-bd77-da08c3e5e26e" home="12079497-e414-450a-8bf2-29f91de646bf" venue="0c6fc7f2-a2cc-4821-b125-f087f8bfcaa7" tbd="false">
+      <broadcast network="FSS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="cc47e6ef-f625-4028-ab8d-cff2d408d4ae"/>
+      </visitor>
+      <home>
+        <pitching probable="7570d0a2-7246-4078-bf8c-d38a283e0829"/>
+      </home>
+    </event>
+    <event id="df0dcf41-2b64-4b36-b186-9d574ebd21be" season_type="REG" status="closed" visitor="d89bed32-3aee-4407-99e3-4103641b999a" home="03556285-bdbb-4576-a06d-42f71f46ddc5" venue="d5a66fb3-ff26-4f36-910c-3df5cedb36b3" tbd="false">
+      <broadcast network="FS-F" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-15T23:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="8f131591-cc6e-43ad-a6e2-b15963fcb6ba" start="8f131591-cc6e-43ad-a6e2-b15963fcb6ba" win="8f131591-cc6e-43ad-a6e2-b15963fcb6ba"/>
+      </visitor>
+      <home>
+        <pitching probable="5f368c8c-5ddb-4be8-9c59-ee5dd81c51cc" start="5f368c8c-5ddb-4be8-9c59-ee5dd81c51cc" loss="5f368c8c-5ddb-4be8-9c59-ee5dd81c51cc"/>
+      </home>
+    </event>
+    <event id="e3f7c23f-9cc1-4126-9f04-e0fb98102317" season_type="REG" status="closed" visitor="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" home="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" venue="61314394-c8b8-411e-b891-ca41285d5362" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-15T23:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="532d4a28-6fd6-4f5e-9054-69203c78de4b" start="532d4a28-6fd6-4f5e-9054-69203c78de4b" win="532d4a28-6fd6-4f5e-9054-69203c78de4b"/>
+      </visitor>
+      <home>
+        <pitching probable="04a1b769-2c73-4239-8de3-e3789310f5bb" start="04a1b769-2c73-4239-8de3-e3789310f5bb" loss="04a1b769-2c73-4239-8de3-e3789310f5bb"/>
+      </home>
+    </event>
+    <event id="ec4bfc7a-cf78-4178-b39d-82a138747f71" season_type="REG" status="scheduled" visitor="f246a5e5-afdb-479c-9aaa-c68beeda7af6" home="29dd9a87-5bcc-4774-80c3-7f50d985068b" venue="85dd5cd6-7324-4b52-a1cc-68f816d0cdce" tbd="false">
+      <broadcast network="ROOT SPORTS" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T19:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="c5b20b29-9b09-474f-863e-b96eb955f5c9"/>
+      </visitor>
+      <home>
+        <pitching probable="210e7381-03c4-4f96-86bf-4eadd45a27c8"/>
+      </home>
+    </event>
+    <event id="f7e9bbbd-6601-468d-a760-94990af3a9ad" season_type="REG" status="scheduled" visitor="eb21dadd-8f10-4095-8bf3-dfb3b779f107" home="27a59d3b-ff7c-48ea-b016-4798f560f5e1" venue="48cbd35a-d932-4a75-beab-067bfbacfc26" tbd="false">
+      <broadcast network="CSNCA" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-17T02:05:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="cf5e31cf-9fe7-4153-bcda-0e21423b9ed0"/>
+      </visitor>
+      <home>
+        <pitching probable="9547fb4e-796c-4ac2-a2d2-5ea68c194093"/>
+      </home>
+    </event>
+    <event id="fbcd9469-e1c6-48cf-bb8e-d53f70465ec7" season_type="REG" status="closed" visitor="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" home="ef64da7f-cfaf-4300-87b0-9313386b977c" venue="66a19c3d-24fe-477d-bee7-c6ef1b98352f" tbd="false">
+      <broadcast network="PRIME" satellite="" internet="" cable=""/>
+      <scheduled_start>2013-04-16T02:10:00Z</scheduled_start>
+      <visitor>
+        <pitching probable="bb79abfd-596f-4cac-9ba9-f4411f6f95fe" start="bb79abfd-596f-4cac-9ba9-f4411f6f95fe" win="bb79abfd-596f-4cac-9ba9-f4411f6f95fe" save="dc69d6ad-e76a-43a2-a8b8-177e0a16c365"/>
+      </visitor>
+      <home>
+        <pitching probable="fe7e148d-0c38-44c5-b98d-96926bfac869" start="fe7e148d-0c38-44c5-b98d-96926bfac869" loss="efd12a8b-f56c-4270-aebb-678cb85ededd"/>
+      </home>
+    </event>
+  </schedules>
+</outlook>
+<!-- 2013-04-16T12:39:23-05:00 -->

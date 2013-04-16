@@ -1,11 +1,11 @@
 var mainIndex = require('../index'),
-    nfl = mainIndex.NFL,
-    mockRequest = require('./mock_request_nfl');
+    mlb = mainIndex.MLB,
+    mockRequest = require('./mock_request_mlb');
 
 module.exports = {
     setUp: function (callback) {
         // Replace the normal request object with a mock request object that returns real responses
-        nfl.setRequest(mockRequest);
+        mlb.setRequest(mockRequest);
         callback();
     },
 
@@ -13,44 +13,33 @@ module.exports = {
         callback();
     },
 
-    testGetWeeklySchedule: function(test) {
-        test.expect(2);
-
-        // Get the NFL schedule for week 1
-        nfl.getWeeklySchedule(1, function(err, body) {
-            test.ok(err === null, 'Error is not null! ' + err);
-            test.ok(body !== null, 'Body is null! ' + body);
-            test.done();
-        });
-    },
-
     testGetSeasonSchedule: function(test) {
         test.expect(2);
 
         // Get the NFL season schedule
-        nfl.getSeasonSchedule(function(err, body) {
+        mlb.getSeasonSchedule(function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
         });
     },
 
-    testGetGameStats: function(test) {
+    testGet3DaySchedule: function(test) {
         test.expect(2);
 
-        // Get the stats for Game 1 between DAL and NYG
-        nfl.getGameStats(1, 'DAL', 'NYG', function(err, body) {
+        // Get the NFL season schedule
+        mlb.get3DaySchedule(function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
         });
     },
 
-    testGetWeeklyBoxscore: function(test) {
+    testGetStandings: function(test) {
         test.expect(2);
 
-        // Get the NFL weekly boxscore for Week 1
-        nfl.getWeeklyBoxscore(1, function(err, body) {
+        // Get the NFL season schedule
+        mlb.getStandings(function(err, body) {
             test.ok(err === null, 'Error is not null! ' + err);
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();

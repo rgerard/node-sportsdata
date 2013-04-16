@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<standings season_id="58dd9a81-4a38-4a66-8cd7-32ae4d567ba8" season_year="2013" xmlns="http://feed.elasticstats.com/schema/mlb/standings-v3.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <league id="NL">
+    <division id="E">
+      <team id="12079497-e414-450a-8bf2-29f91de646bf" name="Braves" win="11" loss="1" win_p="0.917" home_win="5" home_loss="1" away_win="6" away_loss="0" games_back="0.0" streak="W9" last_10_won="9" last_10_lost="1" elimination_number="0" wild_card_back="0.0"/>
+      <team id="d89bed32-3aee-4407-99e3-4103641b999a" name="Nationals" win="8" loss="5" win_p="0.615" home_win="6" home_loss="3" away_win="2" away_loss="2" games_back="3.5" streak="W1" last_10_won="5" last_10_lost="5" elimination_number="147" wild_card_back="0.0"/>
+      <team id="f246a5e5-afdb-479c-9aaa-c68beeda7af6" name="Mets" win="7" loss="4" win_p="0.636" home_win="4" home_loss="2" away_win="3" away_loss="2" games_back="3.5" streak="W2" last_10_won="6" last_10_lost="4" elimination_number="148" wild_card_back="0.0"/>
+      <team id="2142e1ba-3b40-445c-b8bb-f1f8b1054220" name="Phillies" win="6" loss="7" win_p="0.462" home_win="3" home_loss="3" away_win="3" away_loss="4" games_back="5.5" streak="L1" last_10_won="5" last_10_lost="5" elimination_number="145" wild_card_back="2.0"/>
+      <team id="03556285-bdbb-4576-a06d-42f71f46ddc5" name="Marlins" win="2" loss="11" win_p="0.154" home_win="1" home_loss="6" away_win="1" away_loss="5" games_back="9.5" streak="L2" last_10_won="2" last_10_lost="8" elimination_number="141" wild_card_back="6.0"/>
+    </division>
+    <division id="C">
+      <team id="44671792-dc02-4fdd-a5ad-f5f17edaa9d7" name="Cardinals" win="8" loss="5" win_p="0.615" home_win="4" home_loss="2" away_win="4" away_loss="3" games_back="0.0" streak="W1" last_10_won="7" last_10_lost="3" elimination_number="0" wild_card_back="0.0"/>
+      <team id="c874a065-c115-4e7d-b0f0-235584fb0e6f" name="Reds" win="6" loss="7" win_p="0.462" home_win="5" home_loss="2" away_win="1" away_loss="5" games_back="2.0" streak="W1" last_10_won="4" last_10_lost="6" elimination_number="148" wild_card_back="2.0"/>
+      <team id="481dfe7e-5dab-46ab-a49f-9dcc2b6e2cfd" name="Pirates" win="6" loss="7" win_p="0.462" home_win="4" home_loss="3" away_win="2" away_loss="4" games_back="2.0" streak="L1" last_10_won="5" last_10_lost="5" elimination_number="148" wild_card_back="2.0"/>
+      <team id="55714da8-fcaf-4574-8443-59bfb511a524" name="Cubs" win="4" loss="8" win_p="0.333" home_win="2" home_loss="4" away_win="2" away_loss="4" games_back="3.5" streak="L2" last_10_won="3" last_10_lost="7" elimination_number="147" wild_card_back="3.5"/>
+      <team id="dcfd5266-00ce-442c-bc09-264cd20cf455" name="Brewers" win="3" loss="8" win_p="0.273" home_win="1" home_loss="5" away_win="2" away_loss="3" games_back="4.0" streak="W1" last_10_won="2" last_10_lost="8" elimination_number="147" wild_card_back="4.0"/>
+    </division>
+    <division id="W">
+      <team id="a7723160-10b7-4277-a309-d8dd95a8ae65" name="Giants" win="9" loss="4" win_p="0.692" home_win="4" home_loss="2" away_win="5" away_loss="2" games_back="0.0" streak="W2" last_10_won="7" last_10_lost="3" elimination_number="0" wild_card_back="0.0"/>
+      <team id="25507be1-6a68-4267-bd82-e097d94b359b" name="Diamondbacks" win="8" loss="4" win_p="0.667" home_win="5" home_loss="4" away_win="3" away_loss="0" games_back="0.5" streak="W1" last_10_won="7" last_10_lost="3" elimination_number="150" wild_card_back="0.0"/>
+      <team id="29dd9a87-5bcc-4774-80c3-7f50d985068b" name="Rockies" win="8" loss="4" win_p="0.667" home_win="3" home_loss="0" away_win="5" away_loss="4" games_back="0.5" streak="W3" last_10_won="7" last_10_lost="3" elimination_number="150" wild_card_back="0.0"/>
+      <team id="ef64da7f-cfaf-4300-87b0-9313386b977c" name="Dodgers" win="7" loss="6" win_p="0.538" home_win="4" home_loss="3" away_win="3" away_loss="3" games_back="2.0" streak="L2" last_10_won="6" last_10_lost="4" elimination_number="148" wild_card_back="1.0"/>
+      <team id="d52d5339-cbdd-43f3-9dfa-a42fd588b9a3" name="Padres" win="3" loss="10" win_p="0.231" home_win="1" home_loss="5" away_win="2" away_loss="5" games_back="6.0" streak="W1" last_10_won="2" last_10_lost="8" elimination_number="144" wild_card_back="5.0"/>
+    </division>
+  </league>
+  <league id="AL">
+    <division id="E">
+      <team id="93941372-eb4c-4c40-aced-fe3267174393" name="Red Sox" win="8" loss="4" win_p="0.667" home_win="4" home_loss="2" away_win="4" away_loss="2" games_back="0.0" streak="W3" last_10_won="6" last_10_lost="4" elimination_number="0" wild_card_back="0.0"/>
+      <team id="a09ec676-f887-43dc-bbb3-cf4bbaee9a18" name="Yankees" win="6" loss="5" win_p="0.545" home_win="3" home_loss="3" away_win="3" away_loss="2" games_back="1.5" streak="W1" last_10_won="6" last_10_lost="4" elimination_number="150" wild_card_back="0.0"/>
+      <team id="75729d34-bca7-4a0f-b3df-6f26c6ad3719" name="Orioles" win="6" loss="6" win_p="0.5" home_win="1" home_loss="2" away_win="5" away_loss="4" games_back="2.0" streak="L1" last_10_won="5" last_10_lost="5" elimination_number="149" wild_card_back="0.5"/>
+      <team id="1d678440-b4b1-4954-9b39-70afb3ebbcfa" name="Blue Jays" win="6" loss="7" win_p="0.462" home_win="3" home_loss="4" away_win="3" away_loss="3" games_back="2.5" streak="W1" last_10_won="5" last_10_lost="5" elimination_number="148" wild_card_back="1.0"/>
+      <team id="bdc11650-6f74-49c4-875e-778aeb7632d9" name="Rays" win="4" loss="8" win_p="0.333" home_win="3" home_loss="3" away_win="1" away_loss="5" games_back="4.0" streak="L3" last_10_won="3" last_10_lost="7" elimination_number="147" wild_card_back="2.5"/>
+    </division>
+    <division id="C">
+      <team id="575c19b7-4052-41c2-9f0a-1c5813d02f99" name="Tigers" win="7" loss="5" win_p="0.583" home_win="4" home_loss="2" away_win="3" away_loss="3" games_back="0.0" streak="W2" last_10_won="6" last_10_lost="4" elimination_number="0" wild_card_back="0.0"/>
+      <team id="833a51a9-0d84-410f-bd77-da08c3e5e26e" name="Royals" win="7" loss="5" win_p="0.583" home_win="4" home_loss="2" away_win="3" away_loss="3" games_back="0.0" streak="W1" last_10_won="7" last_10_lost="3" elimination_number="0" wild_card_back="0.0"/>
+      <team id="80715d0d-0d2a-450f-a970-1b9a3b18c7e7" name="Indians" win="5" loss="6" win_p="0.455" home_win="2" home_loss="3" away_win="3" away_loss="3" games_back="1.5" streak="L1" last_10_won="4" last_10_lost="6" elimination_number="150" wild_card_back="1.0"/>
+      <team id="aa34e0ed-f342-4ec6-b774-c79b47b60e2d" name="Twins" win="5" loss="7" win_p="0.417" home_win="3" home_loss="3" away_win="2" away_loss="4" games_back="2.0" streak="W1" last_10_won="4" last_10_lost="6" elimination_number="149" wild_card_back="1.5"/>
+      <team id="47f490cd-2f58-4ef7-9dfd-2ad6ba6c1ae8" name="White Sox" win="5" loss="8" win_p="0.385" home_win="4" home_loss="2" away_win="1" away_loss="6" games_back="2.5" streak="L1" last_10_won="3" last_10_lost="7" elimination_number="148" wild_card_back="2.0"/>
+    </division>
+    <division id="W">
+      <team id="27a59d3b-ff7c-48ea-b016-4798f560f5e1" name="Athletics" win="10" loss="4" win_p="0.714" home_win="4" home_loss="4" away_win="6" away_loss="0" games_back="0.0" streak="W1" last_10_won="8" last_10_lost="2" elimination_number="0" wild_card_back="0.0"/>
+      <team id="d99f919b-1534-4516-8e8a-9cd106c6d8cd" name="Rangers" win="8" loss="5" win_p="0.615" home_win="4" home_loss="2" away_win="4" away_loss="3" games_back="1.5" streak="L1" last_10_won="6" last_10_lost="4" elimination_number="148" wild_card_back="0.0"/>
+      <team id="43a39081-52b4-4f93-ad29-da7f329ea960" name="Mariners" win="6" loss="8" win_p="0.429" home_win="3" home_loss="4" away_win="3" away_loss="4" games_back="4.0" streak="W1" last_10_won="4" last_10_lost="6" elimination_number="145" wild_card_back="1.5"/>
+      <team id="4f735188-37c8-473d-ae32-1f7e34ccf892" name="Angels" win="4" loss="9" win_p="0.308" home_win="2" home_loss="4" away_win="2" away_loss="5" games_back="5.5" streak="L1" last_10_won="3" last_10_lost="7" elimination_number="144" wild_card_back="3.0"/>
+      <team id="eb21dadd-8f10-4095-8bf3-dfb3b779f107" name="Astros" win="4" loss="9" win_p="0.308" home_win="1" home_loss="5" away_win="3" away_loss="4" games_back="5.5" streak="L3" last_10_won="3" last_10_lost="7" elimination_number="144" wild_card_back="3.0"/>
+    </division>
+  </league>
+</standings>
+<!-- 2013-04-16T12:42:06-05:00 -->
