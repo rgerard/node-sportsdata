@@ -15,4 +15,10 @@ config.nba.apikey = '';
 config.nba.seasonID = '2012';
 config.nba.season = 'REG';
 
+config.mlb = {};
+config.mlb.access_level = 't';
+config.mlb.version = '3';
+config.mlb.apikey = '';
+config.mlb.year = '2013';
+
 module.exports = config;
