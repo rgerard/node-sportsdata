@@ -24,7 +24,7 @@ function createNba() {
     return sportsdata_nba;
 }
 
-function createNba() {
+function createMlb() {
     return sportsdata_mlb;
 }
 
