@@ -44,5 +44,16 @@ module.exports = {
             test.ok(body !== null, 'Body is null! ' + body);
             test.done();
         });
+    },
+
+    testGetDailyBoxscore: function(test) {
+        test.expect(2);
+
+        // Get the NFL season schedule
+        mlb.getDailyBoxscore('2013', '04', '04', function(err, body) {
+            test.ok(err === null, 'Error is not null! ' + err);
+            test.ok(body !== null, 'Body is null! ' + body);
+            test.done();
+        });
     }
 };

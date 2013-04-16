@@ -19,6 +19,10 @@ function request(uri, callback) {
         fs.readFile('./test/example_responses/mlb_standings.xml', 'utf8', function (err, data) {
             callback(err, data);
         });
+    } else if(uri === mlbUrlHelper.getDailyBoxscoreUrl('2013', '04', '04')) {
+        fs.readFile('./test/example_responses/mlb_daily_boxscore.xml', 'utf8', function (err, data) {
+            callback(err, data);
+        });
     }
 }
 

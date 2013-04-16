@@ -13,6 +13,23 @@ function createUrlWithEndpointAndYear(endpoint) {
         + config.mlb.apikey;
 }
 
+function createUrlWithEndpointAndDate(endpoint, year, month, day) {
+    // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/[endpoint]/boxscore/[year]/[month]/[day].xml?api_key=[your_api_key]
+    return 'http://api.sportsdatallc.org/mlb-'
+        + config.mlb.access_level
+        + config.mlb.version
+        + '/'
+        + endpoint
+        + '/'
+        + year
+        + '/'
+        + month
+        + '/'
+        + day
+        + '.xml?api_key='
+        + config.mlb.apikey;
+}
+
 function createUrlWithEndpointAndEvent(endpoint, event) {
     // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/[endpoint]/[event_id].xml?api_key=[your_api_key]
     return 'http://api.sportsdatallc.org/mlb-'
@@ -59,6 +76,12 @@ function createGameStatisticsUrl(event) {
 
     // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/statistics/[event_id].xml?api_key=[your_api_key]
     return createUrlWithEndpointAndEvent('statistics', event);
+}
+
+function createDailyBoxscoreUrl(year, month, day) {
+
+    // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/daily/boxscore/[year]/[month]/[day].xml?api_key=[your_api_key]
+    return createUrlWithEndpointAndDate('daily/boxscore', year, month, day);
 }
 
 function createPlayByPlayUrl(event) {
@@ -108,6 +131,10 @@ module.exports = {
 
     getGameStatisticsUrl: function(event) {
         return createGameStatisticsUrl(event);
+    },
+
+    getDailyBoxscoreUrl: function(year, month, day) {
+        return createDailyBoxscoreUrl(year, month, day);
     },
 
     getPlayByPlayUrl: function(event) {

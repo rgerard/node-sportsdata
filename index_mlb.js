@@ -45,6 +45,11 @@ function getGameStatistics(callback, event) {
     createRequest(url, callback);
 }
 
+function getDailyBoxscore(year, month, day, callback) {
+    var url = urlHelper.getDailyBoxscoreUrl(year, month, day);
+    createRequest(url, callback);
+}
+
 function getPlayByPlay(callback, event) {
     var url = urlHelper.getPlayByPlayUrl(event);
     createRequest(url, callback);
@@ -110,6 +115,10 @@ module.exports = {
 
     getGameStatistics: function(callback, event) {
         return getGameStatistics(callback, event);
+    },
+
+    getDailyBoxscore: function(year, month, day, callback) {
+        return getDailyBoxscore(year, month, day, callback);
     },
 
     getPlayByPlay: function(callback, event) {
