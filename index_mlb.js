@@ -40,6 +40,37 @@ function getStandings(callback) {
     createRequest(url, callback);
 }
 
+function getGameStatistics(callback, event) {
+    var url = urlHelper.getGameStatisticsUrl(event);
+    createRequest(url, callback);
+}
+
+function getPlayByPlay(callback, event) {
+    var url = urlHelper.getPlayByPlayUrl(event);
+    createRequest(url, callback);
+}
+
+function getGameBoxscore(callback, event) {
+    var url = urlHelper.getGameBoxscoreUrl(event);
+    createRequest(url, callback);
+}
+
+function getActiveTeamRoster(callback, event) {
+    var url = urlHelper.getActiveTeamRosterUrl();
+    createRequest(url, callback);
+}
+
+function getFullTeamRoster(callback, event) {
+    var url = urlHelper.getFullTeamRosterUrl();
+    createRequest(url, callback);
+}
+
+function getTeamsHierarchy(callback, event) {
+    var url = urlHelper.getTeamsHierarchyUrl();
+    createRequest(url, callback);
+}
+
+
 function createRequest(url, callback) {
     request(url, function (error, response, body) {
 
@@ -75,5 +106,29 @@ module.exports = {
 
     getStandings: function(callback) {
         return getStandings(callback);
+    },
+
+    getGameStatistics: function(callback, event) {
+        return getGameStatistics(callback, event);
+    },
+
+    getPlayByPlay: function(callback, event) {
+        return getPlayByPlay(callback, event);
+    },
+
+    getGameBoxscore: function(callback, event) {
+        return getGameBoxscore(callback, event);
+    },
+
+    getActiveTeamRoster: function(callback) {
+        return getActiveTeamRoster(callback);
+    },
+
+    getFullTeamRoster: function(callback) {
+        return getFullTeamRoster(callback);
+    },
+
+    getTeamsHierarchy: function(callback) {
+        return getTeamsHierarchy(callback);
     }
 };
