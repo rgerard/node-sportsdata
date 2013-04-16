@@ -2,7 +2,7 @@ var config = require('../config');
 
 function createUrlWithEndpointAndYear(endpoint) {
     // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/[endpoint]/[year].xml?api_key=[your_api_key]
-    return 'api.sportsdatallc.org/mlb-'
+    return 'http://api.sportsdatallc.org/mlb-'
         + config.mlb.access_level
         + config.mlb.version
         + '/'
@@ -15,7 +15,7 @@ function createUrlWithEndpointAndYear(endpoint) {
 
 function createUrlWithEndpointAndEvent(endpoint, event) {
     // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/[endpoint]/[event_id].xml?api_key=[your_api_key]
-    return 'api.sportsdatallc.org/mlb-'
+    return 'http://api.sportsdatallc.org/mlb-'
         + config.mlb.access_level
         + config.mlb.version
         + '/'
@@ -28,7 +28,7 @@ function createUrlWithEndpointAndEvent(endpoint, event) {
 
 function createUrlWithEndpoint(endpoint) {
     // URL should look like: http://api.sportsdatallc.org/mlb-[access_level][version]/[endpoint]?api_key=[your_api_key]
-    return 'api.sportsdatallc.org/mlb-'
+    return 'http://api.sportsdatallc.org/mlb-'
         + config.mlb.access_level
         + config.mlb.version
         + '/'
