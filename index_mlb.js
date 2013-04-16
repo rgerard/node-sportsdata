@@ -88,8 +88,8 @@ function createRequest(url, callback) {
 
 module.exports = {
 
-    init: function(access_level, version, apikey, seasonID, season) {
-        return init(access_level, version, apikey, seasonID, season);
+    init: function(access_level, version, apikey, year) {
+        return init(access_level, version, apikey, year);
     },
 
     setRequest: function(reqObj) {
