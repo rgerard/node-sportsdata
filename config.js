@@ -21,4 +21,11 @@ config.mlb.version = '3';
 config.mlb.apikey = '';
 config.mlb.year = '2013';
 
+config.ncaaf = {};
+config.ncaaf.access_level = 't';
+config.ncaaf.version = '1';
+config.ncaaf.season = 'REG';
+config.ncaaf.apikey = '';
+config.ncaaf.year = '2013';
+
 module.exports = config;
