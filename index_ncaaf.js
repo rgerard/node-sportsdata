@@ -56,6 +56,11 @@ function getStandings(division, callback) {
     createRequest(url, callback);
 }
 
+function getTeamHierarchy(division, callback) {
+    var url = urlHelper.getTeamHierarchyUrl(division);
+    createRequest(url, callback);
+}
+
 function createRequest(url, callback) {
     request(url, function (error, response, body) {
 
@@ -103,5 +108,9 @@ module.exports = {
 
     getStandings: function(division, callback) {
         return getStandings(division, callback);
+    },
+
+    getTeamHierarchy: function(division, callback) {
+        return getTeamHierarchy(division, callback);
     }
 };

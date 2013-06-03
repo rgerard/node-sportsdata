@@ -32,6 +32,19 @@ function createUrlWithEndpointAndWeekAndYear(week, endpoint) {
         + config.ncaaf.apikey;
 }
 
+function createUrlWithEndpointAndDivision(division, endpoint) {
+    // URL should look like: http://api.sportsdatallc.org/ncaafb-[access_level][version]/teams/[division]/[endpoint].[format]?api_key=[your_api_key]
+    return 'http://api.sportsdatallc.org/ncaafb-'
+        + config.ncaaf.access_level
+        + config.ncaaf.version
+        + '/teams/'
+        + division
+        + '/'
+        + endpoint
+        + '.xml?api_key='
+        + config.ncaaf.apikey;
+}
+
 function createUrlWithEndpointAndDivisionAndYear(division, endpoint) {
     // URL should look like: http://api.sportsdatallc.org/ncaafb-[access_level][version]/teams/[division]/[year]/[ncaafb_season]/[endpoint].[format]?api_key=[your_api_key]
     return 'http://api.sportsdatallc.org/ncaafb-'
@@ -106,6 +119,12 @@ function createStandingsUrl(division) {
     return createUrlWithEndpointAndDivisionAndYear(division, 'standings');
 }
 
+function createTeamHierarchyUrl(division) {
+
+    // URL should look like: http://api.sportsdatallc.org/ncaafb-[access_level][version]/teams/[division]/hierarchy.[format]?api_key=[your_api_key]
+    return createUrlWithEndpointAndDivision(division, 'hierarchy');
+}
+
 
 module.exports = {
 
@@ -131,5 +150,9 @@ module.exports = {
 
     getStandingsUrl: function(division) {
         return createStandingsUrl(division);
+    },
+
+    getTeamHierarchyUrl: function(division) {
+        return createTeamHierarchyUrl(division);
     }
 }
