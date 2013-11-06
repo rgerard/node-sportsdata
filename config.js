@@ -28,4 +28,11 @@ config.ncaaf.season = 'REG';
 config.ncaaf.apikey = '';
 config.ncaaf.year = '2013';
 
+config.nhl = {};
+config.nhl.access_level = 't';
+config.nhl.version = '3';
+config.nhl.apikey = '';
+config.nhl.seasonID = '2013';
+config.nhl.season = 'REG';
+
 module.exports = config;
