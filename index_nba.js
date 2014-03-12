@@ -41,6 +41,11 @@ function getBoxScore(gameID, callback) {
   createRequest(url, callback);
 }
 
+function getGameScoreAndStats(gameID, callback) {
+  var url = urlHelper.getGameSummaryUrl(gameID);
+  createRequest(url, callback);
+}
+
 function getStandings(callback) {
     var url = urlHelper.getStandingsUrl();
     createRequest(url, callback);
@@ -81,6 +86,10 @@ module.exports = {
 
     getBoxScore: function(gameID, callback) {
       return getBoxScore(gameID, callback);
+    },
+
+    getGameScoreAndStats: function(gameID, callback) {
+      return getGameScoreAndStats(gameID, callback);
     },
 
     getStandings: function(callback) {
