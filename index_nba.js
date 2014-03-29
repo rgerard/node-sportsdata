@@ -51,6 +51,11 @@ function getStandings(callback) {
     createRequest(url, callback);
 }
 
+function getInjuries(callback) {
+    var url = urlHelper.getInjuriesUrl();
+    createRequest(url, callback);
+}
+
 function createRequest(url, callback) {
     request(url, function (error, response, body) {
 
@@ -94,5 +99,9 @@ module.exports = {
 
     getStandings: function(callback) {
         return getStandings(callback);
+    }
+
+    getInjuries: function(callback) {
+        return getInjuries(callback);
     }
 };
