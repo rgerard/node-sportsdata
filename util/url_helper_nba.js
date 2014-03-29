@@ -82,6 +82,17 @@ function createStandingsUrl() {
     + config.nba.apikey;
 }
 
+function createInjuriesUrl() {
+
+  // URL should look like: http://api.sportsdatallc.org/nba-[access_level][version]/league/injuries.xml?api_key=[your_api_key]
+  return 'http://api.sportsdatallc.org/nba-'
+    + config.nba.access_level
+    + config.nba.version
+    + '/league/'
+    + '/injuries.xml?api_key='
+    + config.nba.apikey;
+}
+
 module.exports = {
 
   getSeasonScheduleUrl: function () {
@@ -102,5 +113,9 @@ module.exports = {
 
   getStandingsUrl: function () {
     return createStandingsUrl();
+  }
+
+  getInjuriesUrl: function () {
+    return createdInjuriesUrl();
   }
 }
