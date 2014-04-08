@@ -99,7 +99,7 @@ module.exports = {
 
     getStandings: function(callback) {
         return getStandings(callback);
-    }
+    },
 
     getInjuries: function(callback) {
         return getInjuries(callback);
