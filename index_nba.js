@@ -56,6 +56,11 @@ function getInjuries(callback) {
     createRequest(url, callback);
 }
 
+function getRoster(teamID, callback) {
+    var url = urlHelper.getRosterUrl(teamID);
+    createRequest(url, callback);
+}
+
 function createRequest(url, callback) {
     request(url, function (error, response, body) {
 
@@ -103,5 +108,9 @@ module.exports = {
 
     getInjuries: function(callback) {
         return getInjuries(callback);
+    },
+
+    getRoster: function(teamID, callback) {
+        return getRoster(teamID, callback);
     }
 };
