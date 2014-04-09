@@ -113,7 +113,7 @@ module.exports = {
 
   getStandingsUrl: function () {
     return createStandingsUrl();
-  }
+  },
 
   getInjuriesUrl: function () {
     return createdInjuriesUrl();
