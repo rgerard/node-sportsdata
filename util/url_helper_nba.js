@@ -82,6 +82,19 @@ function createStandingsUrl() {
     + config.nba.apikey;
 }
 
+function createRankingsUrl() {
+  // URL should look like:  http://api.sportsdatallc.org/nba-[access_level][version]/seasontd/[season]/[nba_season]/rankings.xml?api_key=[your_api_key]
+return 'http://api.sportsdatallc.org/nba-'
+    + config.nba.access_level
+    + config.nba.version
+    + '/seasontd/'
+    + config.nba.seasonID
+    + '/'
+    + config.nba.season
+    + '/rankings.xml?api_key='
+    + config.nba.apikey;
+}
+
 function createInjuriesUrl() {
 
   // URL should look like: http://api.sportsdatallc.org/nba-[access_level][version]/league/injuries.xml?api_key=[your_api_key]
@@ -124,6 +137,10 @@ module.exports = {
 
   getStandingsUrl: function () {
     return createStandingsUrl();
+  },
+
+  getRankingsUrl: function () {
+    return createRankingsUrl();
   },
 
   getInjuriesUrl: function () {

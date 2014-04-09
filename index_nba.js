@@ -51,6 +51,11 @@ function getStandings(callback) {
     createRequest(url, callback);
 }
 
+function getRankings(callback) {
+    var url = urlHelper.getRankingsUrl();
+    createRequest(url, callback);
+}
+
 function getInjuries(callback) {
     var url = urlHelper.getInjuriesUrl();
     createRequest(url, callback);
@@ -104,6 +109,10 @@ module.exports = {
 
     getStandings: function(callback) {
         return getStandings(callback);
+    },
+
+    getRankings: function(callback) {
+        return getRankings(callback);
     },
 
     getInjuries: function(callback) {
