@@ -40,7 +40,7 @@ function getStandings(callback) {
     createRequest(url, callback);
 }
 
-function getGameStatistics(callback, event) {
+function getGameStatistics(event, callback) {
     var url = urlHelper.getGameStatisticsUrl(event);
     createRequest(url, callback);
 }
@@ -50,22 +50,22 @@ function getDailyBoxscore(year, month, day, callback) {
     createRequest(url, callback);
 }
 
-function getPlayByPlay(callback, event) {
+function getPlayByPlay(event, callback) {
     var url = urlHelper.getPlayByPlayUrl(event);
     createRequest(url, callback);
 }
 
-function getGameBoxscore(callback, event) {
+function getGameBoxscore(event, callback) {
     var url = urlHelper.getGameBoxscoreUrl(event);
     createRequest(url, callback);
 }
 
-function getActiveTeamRoster(callback, event) {
+function getActiveTeamRoster(callback) {
     var url = urlHelper.getActiveTeamRosterUrl();
     createRequest(url, callback);
 }
 
-function getFullTeamRoster(callback, event) {
+function getFullTeamRoster(callback) {
     var url = urlHelper.getFullTeamRosterUrl();
     createRequest(url, callback);
 }
@@ -113,20 +113,20 @@ module.exports = {
         return getStandings(callback);
     },
 
-    getGameStatistics: function(callback, event) {
-        return getGameStatistics(callback, event);
+    getGameStatistics: function(event, callback) {
+        return getGameStatistics(event, callback);
     },
 
     getDailyBoxscore: function(year, month, day, callback) {
         return getDailyBoxscore(year, month, day, callback);
     },
 
-    getPlayByPlay: function(callback, event) {
-        return getPlayByPlay(callback, event);
+    getPlayByPlay: function(event, callback) {
+        return getPlayByPlay(event, callback);
     },
 
-    getGameBoxscore: function(callback, event) {
-        return getGameBoxscore(callback, event);
+    getGameBoxscore: function(event, callback) {
+        return getGameBoxscore(event, callback);
     },
 
     getActiveTeamRoster: function(callback) {
