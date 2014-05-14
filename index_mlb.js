@@ -77,9 +77,10 @@ function getTeamsHierarchy(callback, event) {
 
 
 function createRequest(url, callback) {
+    console.log(url);
     request(url, function (error, response, body) {
 
-        if (response.statusCode == 200) {
+        if (!error && response.statusCode == 200) {
 
             // Parse the XML to JSON
             parser.parseString(body, function (err, result) {

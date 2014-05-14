@@ -36,3 +36,5 @@ Thumbs.db
 
 node_modules/
 .idea/
+*.sublime-workspace
+*.sublime-project
