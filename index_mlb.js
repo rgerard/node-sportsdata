@@ -77,7 +77,7 @@ function getTeamsHierarchy(callback, event) {
 
 
 function createRequest(url, callback) {
-    console.log(url);
+
     request(url, function (error, response, body) {
 
         if (!error && response.statusCode == 200) {
