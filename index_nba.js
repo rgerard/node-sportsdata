@@ -69,7 +69,7 @@ function getRoster(teamID, callback) {
 function createRequest(url, callback) {
     request(url, function (error, response, body) {
 
-        if (response.statusCode == 200) {
+        if (!error && response.statusCode == 200) {
 
             // Parse the XML to JSON
             parser.parseString(body, function (err, result) {
