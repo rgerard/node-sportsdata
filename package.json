@@ -1,6 +1,6 @@
 {
   "name": "sportsdata",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "Node module that wraps the SportsData API",
   "main": "index.js",
   "scripts": {
